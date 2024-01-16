@@ -1,0 +1,591 @@
+/* screen - onboard-track-consume-by-date-time */
+
+.onboard-track-consume-by-date-time {
+  background-color: var(--white);
+  height: 1366px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1024px;
+}
+
+.onboard-track-consume-by-date-time .path-1339-wU5VwM {
+  background-color: transparent;
+  height: 1182px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 203px;
+  width: 1024px;
+}
+
+.onboard-track-consume-by-date-time .rectangle-1336-wU5VwM {
+  background-color: var(--periwinkle-gray);
+  height: 142px;
+  left: -11px;
+  position: absolute;
+  top: -20px;
+  width: 1048px;
+}
+
+.onboard-track-consume-by-date-time .rectangle-1335-wU5VwM {
+  background-color: var(--white);
+  height: 103px;
+  left: 0px;
+  position: absolute;
+  top: 610px;
+  width: 1024px;
+}
+
+.onboard-track-consume-by-date-time .rectangle-5-wU5VwM {
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  cursor: pointer;
+  height: 54px;
+  left: 745px;
+  position: absolute;
+  top: 635px;
+  width: 248px;
+}
+
+.onboard-track-consume-by-date-time .view-summary-wU5VwM {
+  background-color: transparent;
+  height: auto;
+  left: 808px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 653px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.onboard-track-consume-by-date-time .colombo-cmb-to-melbo-wU5VwM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 640px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.onboard-track-consume-by-date-time .span0-YAbtM8 {
+}
+
+.onboard-track-consume-by-date-time .span1-YAbtM8 {
+  text-decoration: underline;
+}
+
+.onboard-track-consume-by-date-time .rectangle-4-wU5VwM {
+  background-color: var(--black);
+  height: 2px;
+  left: 625px;
+  position: absolute;
+  top: 66px;
+  width: 114px;
+}
+
+.onboard-track-consume-by-date-time .getty_160539141_335403-wU5VwM {
+  background-color: transparent;
+  height: 488px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 122px;
+  width: 1024px;
+}
+
+.onboard-track-consume-by-date-time .group-10219-wU5VwM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 71px;
+  left: 68px;
+  position: absolute;
+  top: 771px;
+  width: 444px;
+}
+
+.onboard-track-consume-by-date-time .track-consume-by-date-time-pXaXuf {
+  background-color: transparent;
+  height: 34px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: 29px;
+  text-align: left;
+  top: calc(44.73% - 15px);
+  white-space: nowrap;
+  width: 325px;
+}
+
+.onboard-track-consume-by-date-time .group-10208-pXaXuf {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.onboard-track-consume-by-date-time .group-1305-ZKROA4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-track-consume-by-date-time .group-1303-bQeaP5 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-track-consume-by-date-time .path-739-xtaAfA {
+  background-color: transparent;
+  height: calc(100.00% + 21px);
+  left: -15px;
+  object-fit: cover;
+  position: absolute;
+  top: -15px;
+  width: calc(100.00% + 21px);
+}
+
+.onboard-track-consume-by-date-time .group-1283-pXaXuf {
+  background-color: transparent;
+  height: 35px;
+  left: 18px;
+  position: absolute;
+  top: calc(47.49% - 17px);
+  width: 35px;
+}
+
+.onboard-track-consume-by-date-time .path-702-6TxIcF {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.onboard-track-consume-by-date-time .path-703-6TxIcF {
+  background-color: transparent;
+  height: 18px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.76% - 3px);
+  top: calc(38.34% - 7px);
+  width: 8px;
+}
+
+.onboard-track-consume-by-date-time .ensure-your-food-ite-pXaXuf {
+  background-color: transparent;
+  bottom: -5px;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 356px;
+}
+
+.onboard-track-consume-by-date-time .image-58-wU5VwM {
+  background-color: transparent;
+  height: 155px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 869px;
+  width: 290px;
+}
+
+.onboard-track-consume-by-date-time .image-59-wU5VwM {
+  background-color: transparent;
+  height: 155px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 1052px;
+  width: 290px;
+}
+
+.onboard-track-consume-by-date-time .group-10220-wU5VwM {
+  background-color: transparent;
+  height: 82px;
+  left: 392px;
+  position: absolute;
+  top: 866px;
+  width: 352px;
+}
+
+.onboard-track-consume-by-date-time .sri-lankan-special-JWeeIy {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 203px;
+}
+
+.onboard-track-consume-by-date-time .prepared-at-0500-am-JWeeIy {
+  background-color: transparent;
+  bottom: -8px;
+  height: 50px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.onboard-track-consume-by-date-time .group-10221-wU5VwM {
+  background-color: transparent;
+  height: 82px;
+  left: 392px;
+  position: absolute;
+  top: 1049px;
+  width: 352px;
+}
+
+.onboard-track-consume-by-date-time .healthy-dinner-meal-9qSXqJ {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 222px;
+}
+
+.onboard-track-consume-by-date-time .prepared-at-0500-am-9qSXqJ {
+  background-color: transparent;
+  bottom: -8px;
+  height: 50px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.onboard-track-consume-by-date-time .ic_expand_more_24px-wU5VwM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 7px;
+  left: 486px;
+  object-fit: cover;
+  position: absolute;
+  top: 799px;
+  width: 12px;
+}
+
+.onboard-track-consume-by-date-time .group-10260-wU5VwM {
+  background-color: transparent;
+  height: 66px;
+  left: 33px;
+  position: absolute;
+  top: 33px;
+  width: 972px;
+}
+
+.onboard-track-consume-by-date-time .group-10197-pJA5To {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-track-consume-by-date-time .portfolio-8yBahf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(22.39% - 33px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.71% - 9px);
+  width: 146px;
+}
+
+.onboard-track-consume-by-date-time .about-me-8yBahf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(40.56% - 43px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.71% - 9px);
+  width: 107px;
+}
+
+.onboard-track-consume-by-date-time .my-blog-8yBahf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(45.13% - 46px);
+  text-align: left;
+  top: 11px;
+  width: 103px;
+}
+
+.onboard-track-consume-by-date-time .portfolio-iy560F {
+  background-color: transparent;
+  cursor: pointer;
+  height: 68px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 187px;
+}
+
+.onboard-track-consume-by-date-time .group-10019-8yBahf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  position: absolute;
+  right: 0px;
+  top: calc(25.00% - 6px);
+  width: 120px;
+}
+
+.onboard-track-consume-by-date-time .social-aTBKMr {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  height: 14px;
+  position: absolute;
+  right: 0px;
+  width: 37px;
+}
+
+.onboard-track-consume-by-date-time .x043-twitter-fpAWdg {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 14px;
+}
+
+.onboard-track-consume-by-date-time .vector-xvit21 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-track-consume-by-date-time .x045-linkedin-fpAWdg {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 14px;
+}
+
+.onboard-track-consume-by-date-time .vector-scAdQA {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.onboard-track-consume-by-date-time .group-10018-aTBKMr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+
+.onboard-track-consume-by-date-time .reviews-ptxsLV {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.onboard-track-consume-by-date-time .ic_person_outline_24px-ptxsLV {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: 2px;
+  width: 16px;
+}
+
+.onboard-track-consume-by-date-time .about-me-iy560F {
+  background-color: transparent;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(29.72% - 36px);
+  text-align: left;
+  top: calc(26.19% - 6px);
+  width: 120px;
+}
+
+.onboard-track-consume-by-date-time .portfolio-pJA5To {
+  background-color: transparent;
+  bottom: -2px;
+  height: 24px;
+  left: 114px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  width: 43px;
+}
+
+.onboard-track-consume-by-date-time .group-10284-wU5VwM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 80px;
+  left: 76px;
+  position: absolute;
+  top: 1268px;
+  width: 614px;
+}
+
+.onboard-track-consume-by-date-time .analyse-food-waste-statistics-o39U8E {
+  background-color: transparent;
+  height: 34px;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: 329px;
+}
+
+.onboard-track-consume-by-date-time .group-10209-o39U8E {
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.onboard-track-consume-by-date-time .group-1305-iipASF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-track-consume-by-date-time .group-1303-8ux0pr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-track-consume-by-date-time .path-739-b5LGOn {
+  background-color: transparent;
+  height: calc(100.00% + 21px);
+  left: -15px;
+  object-fit: cover;
+  position: absolute;
+  top: -15px;
+  width: calc(100.00% + 21px);
+}
+
+.onboard-track-consume-by-date-time .ic_add_a_photo_24px-o39U8E {
+  background-color: transparent;
+  height: 33px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(37.69% - 12px);
+  width: 36px;
+}
+
+.onboard-track-consume-by-date-time .understand-the-impac-o39U8E {
+  background-color: transparent;
+  bottom: -5px;
+  height: 26px;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 86px);
+}
+
+.onboard-track-consume-by-date-time .ic_expand_more_24px-RzdpPi {
+  background-color: transparent;
+  height: 7px;
+  left: 496px;
+  object-fit: cover;
+  position: absolute;
+  top: 1294px;
+  width: 12px;
+}
+
+.onboard-track-consume-by-date-time .ic_expand_more_24px-eYQXUN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 7px;
+  left: 950px;
+  object-fit: cover;
+  position: absolute;
+  top: 662px;
+  width: 12px;
+}

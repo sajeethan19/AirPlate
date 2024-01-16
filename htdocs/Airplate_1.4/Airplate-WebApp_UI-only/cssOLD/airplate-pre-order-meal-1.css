@@ -1,0 +1,723 @@
+/* screen - airplate-pre-order-meal-1 */
+html, body {margin: 0; height: 100%; overflow: hidden}
+.airplate-pre-order-meal-1 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1080px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+  transform:scaleX(85%) translateX(-10%) scaleY(70%) translateY(-22%);
+}
+
+.airplate-pre-order-meal-1 .rectangle-1336-RZGGxU {
+  background-color: var(--periwinkle-gray);
+  height: 142px;
+  left: -13px;
+  position: absolute;
+  top: -20px;
+  width: calc(100.00% + 38px);
+}
+
+.airplate-pre-order-meal-1 .ellipse-8-RZGGxU {
+  background-color: var(--periwinkle-gray);
+  border-radius: 239.47px/248.43px;
+  filter: blur(50px);;
+  height: 497px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 75px;
+  width: 479px;
+}
+
+.airplate-pre-order-meal-1 .portfolio-RZGGxU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 68px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: 187px;
+}
+
+.airplate-pre-order-meal-1 .decore-RZGGxU {
+  background-color: transparent;
+  height: calc(100.00% - 283px);
+  left: 331px;
+  object-fit: cover;
+  position: absolute;
+  top: 103px;
+  width: calc(100.00% - 1141px);
+}
+
+.airplate-pre-order-meal-1 .rectangle-1337-RZGGxU {
+  background-color: #fbfbfb;
+  border: 1px solid #707070;
+  height: calc(100.00% - 214px);
+  left: 0px;
+  position: absolute;
+  top: 214px;
+  width: 100%;
+}
+
+.airplate-pre-order-meal-1 .available-meals-RZGGxU {
+  background-color: transparent;
+  height: 34px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(25.05% - 9px);
+  white-space: nowrap;
+  width: 174px;
+}
+
+.airplate-pre-order-meal-1 .rectangle-4-RZGGxU {
+  background-color: var(--black);
+  height: 2px;
+  left: calc(16.94% - 19px);
+  position: absolute;
+  top: 97px;
+  width: 114px;
+}
+
+.airplate-pre-order-meal-1 .portfolio-DRq7IX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(16.69% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 146px;
+}
+
+.airplate-pre-order-meal-1 .about-me-RZGGxU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(25.48% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 107px;
+}
+
+.airplate-pre-order-meal-1 .my-blog-RZGGxU {
+  background-color: transparent;
+  height: 24px;
+  left: calc(31.96% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 80px;
+}
+
+.airplate-pre-order-meal-1 .reviews-RZGGxU {
+  background-color: transparent;
+  height: 24px;
+  left: calc(37.19% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 70px;
+}
+
+.airplate-pre-order-meal-1 .group-10019-RZGGxU {
+  background-color: transparent;
+  height: 22px;
+  position: absolute;
+  right: 99px;
+  top: 71px;
+  width: 204px;
+}
+
+.airplate-pre-order-meal-1 .reviews-NwDXxr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(37.48% - 26px);
+  text-align: left;
+  top: 0px;
+  width: 70px;
+}
+
+.airplate-pre-order-meal-1 .social-NwDXxr {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  height: 14px;
+  position: absolute;
+  right: 0px;
+  width: 37px;
+}
+
+.airplate-pre-order-meal-1 .x043-twitter-8EAx5O {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 14px;
+}
+
+.airplate-pre-order-meal-1 .vector-Q8aGxx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-pre-order-meal-1 .x045-linkedin-8EAx5O {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 14px;
+}
+
+.airplate-pre-order-meal-1 .vector-rqToA9 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-pre-order-meal-1 .group-10018-NwDXxr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+
+.airplate-pre-order-meal-1 .reviews-j7q3hO {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.airplate-pre-order-meal-1 .ic_person_outline_24px-j7q3hO {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: 2px;
+  width: 16px;
+}
+
+.airplate-pre-order-meal-1 .rectangle-1335-RZGGxU {
+  background-color: var(--white);
+  height: 103px;
+  left: 0px;
+  position: absolute;
+  top: 111px;
+  width: 100%;
+}
+
+.airplate-pre-order-meal-1 .rectangle-5-RZGGxU {
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  cursor: pointer;
+  height: 54px;
+  position: absolute;
+  right: 179px;
+  top: 136px;
+  width: 248px;
+}
+
+.airplate-pre-order-meal-1 .view-summary-RZGGxU {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: 240px;
+  text-align: center;
+  top: 154px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.airplate-pre-order-meal-1 .ic_expand_more_24px-RZGGxU {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 218px;
+  top: 163px;
+  width: 12px;
+}
+
+.airplate-pre-order-meal-1 .colombo-cmb-to-melbo-RZGGxU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 62px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 142px;
+  white-space: nowrap;
+  width: 377px;
+}
+
+.airplate-pre-order-meal-1 .span0-WzD9Ds {
+}
+
+.airplate-pre-order-meal-1 .span1-WzD9Ds {
+  text-decoration: underline;
+}
+
+.airplate-pre-order-meal-1 .select-meals-RZGGxU {
+  background-color: transparent;
+  height: 34px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(39.87% - 14px);
+  white-space: nowrap;
+  width: 142px;
+}
+
+.airplate-pre-order-meal-1 .breakfast-generally-RZGGxU {
+  background-color: transparent;
+  height: 26px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.79% - 8px);
+  white-space: nowrap;
+  width: 430px;
+}
+
+.airplate-pre-order-meal-1 .lunch-generally-serv-RZGGxU {
+  background-color: transparent;
+  height: 26px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(34.44% - 9px);
+  white-space: nowrap;
+  width: 373px;
+}
+
+.airplate-pre-order-meal-1 .group-10032-RZGGxU {
+  background-color: transparent;
+  height: 54px;
+  left: 111px;
+  position: absolute;
+  top: calc(45.61% - 25px);
+  width: 332px;
+}
+
+.airplate-pre-order-meal-1 .group-10001-S1DE3x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-pre-order-meal-1 .breakfast-S1DE3x {
+  background-color: transparent;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.airplate-pre-order-meal-1 .sri-lankan-kiribath-S1DE3x {
+  background-color: transparent;
+  bottom: calc(14.29% - 4px);
+  height: 26px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 156px;
+}
+
+.airplate-pre-order-meal-1 .ic_expand_more_24px-S1DE3x {
+  background-color: transparent;
+  bottom: calc(36.80% - 3px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 12px;
+}
+
+.airplate-pre-order-meal-1 .group-10033-RZGGxU {
+  background-color: transparent;
+  height: 54px;
+  left: calc(30.73% - 102px);
+  position: absolute;
+  top: calc(45.61% - 25px);
+  width: 332px;
+}
+
+.airplate-pre-order-meal-1 .group-10001-eVU463 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-pre-order-meal-1 .lunch-eVU463 {
+  background-color: transparent;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-pre-order-meal-1 .sri-lankan-special-eVU463 {
+  background-color: transparent;
+  bottom: calc(14.29% - 4px);
+  height: 26px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.airplate-pre-order-meal-1 .ic_expand_more_24px-eVU463 {
+  background-color: transparent;
+  bottom: calc(36.80% - 3px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 12px;
+}
+
+.airplate-pre-order-meal-1 .view-digital-menu-RZGGxU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 263px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: calc(39.84% - 9px);
+  white-space: nowrap;
+  width: 120px;
+}
+
+.airplate-pre-order-meal-1 .select-a-special-meal-RZGGxU {
+  background-color: transparent;
+  bottom: calc(43.21% - 15px);
+  height: 34px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 235px;
+}
+
+.airplate-pre-order-meal-1 .group-10035-RZGGxU {
+  background-color: transparent;
+  bottom: 105px;
+  height: 241px;
+  left: 111px;
+  position: absolute;
+  width: 700px;
+}
+
+.airplate-pre-order-meal-1 .request-for-special-meal-EWjhGQ {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 274px;
+}
+
+.airplate-pre-order-meal-1 .didnt-find-what-you-EWjhGQ {
+  background-color: transparent;
+  height: 26px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.47% - 5px);
+  white-space: nowrap;
+  width: calc(100.00% - 83px);
+}
+
+.airplate-pre-order-meal-1 .group-10034-EWjhGQ {
+  background-color: transparent;
+  height: calc(100.00% - 76px);
+  left: 0px;
+  position: absolute;
+  top: 76px;
+  width: 100%;
+}
+
+.airplate-pre-order-meal-1 .group-10001-MCxcbA {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-pre-order-meal-1 .group-10036-RZGGxU {
+  background-color: transparent;
+  bottom: calc(37.13% - 20px);
+  height: 54px;
+  left: 111px;
+  position: absolute;
+  width: 332px;
+}
+
+.airplate-pre-order-meal-1 .group-10001-b1zSGc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-pre-order-meal-1 .breakfast-b1zSGc {
+  background-color: transparent;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.airplate-pre-order-meal-1 .kosher-meal-ksml-b1zSGc {
+  background-color: transparent;
+  bottom: calc(14.29% - 4px);
+  height: 26px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 169px;
+}
+
+.airplate-pre-order-meal-1 .ic_expand_more_24px-b1zSGc {
+  background-color: transparent;
+  bottom: calc(36.80% - 3px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 12px;
+}
+
+.airplate-pre-order-meal-1 .group-10037-RZGGxU {
+  background-color: transparent;
+  bottom: calc(37.13% - 20px);
+  height: 54px;
+  left: calc(30.73% - 102px);
+  position: absolute;
+  width: 332px;
+}
+
+.airplate-pre-order-meal-1 .group-10001-Tfzx4X {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-pre-order-meal-1 .lunch-Tfzx4X {
+  background-color: transparent;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-pre-order-meal-1 .kosher-meal-ksml-Tfzx4X {
+  background-color: transparent;
+  bottom: calc(14.29% - 4px);
+  height: 26px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 169px;
+}
+
+.airplate-pre-order-meal-1 .ic_expand_more_24px-Tfzx4X {
+  background-color: transparent;
+  bottom: calc(36.80% - 3px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 12px;
+}
+
+.airplate-pre-order-meal-1 .or-RZGGxU {
+  background-color: transparent;
+  bottom: calc(46.97% - 11px);
+  height: 23px;
+  left: calc(24.17% - 4px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.airplate-pre-order-meal-1 .line-1-RZGGxU {
+  background-color: transparent;
+  bottom: calc(47.22% - 1px);
+  height: 2px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  width: 173px;
+}
+
+.airplate-pre-order-meal-1 .line-2-RZGGxU {
+  background-color: transparent;
+  bottom: calc(47.22% - 1px);
+  height: 2px;
+  left: calc(28.39% - 49px);
+  object-fit: cover;
+  position: absolute;
+  width: 173px;
+}
+
+.airplate-pre-order-meal-1 .image-2-RZGGxU {
+  background-color: transparent;
+  bottom: 0px;
+  height: 867px;
+  object-fit: cover;
+  position: absolute;
+  right: -99px;
+  width: 1156px;
+}
+
+.airplate-pre-order-meal-1 .ic_expand_more_24px-DRq7IX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 12px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 157px;
+  width: 7px;
+}
+
+.airplate-pre-order-meal-1 .rectangle-1488-RZGGxU {
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  bottom: 121px;
+  height: 30px;
+  left: calc(37.13% - 52px);
+  position: absolute;
+  width: 140px;
+}
+
+.airplate-pre-order-meal-1 .send-request-RZGGxU {
+  background-color: transparent;
+  bottom: 119px;
+  height: 26px;
+  left: calc(37.32% - 43px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 114px;
+}

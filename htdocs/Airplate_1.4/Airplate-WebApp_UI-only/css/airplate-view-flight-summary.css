@@ -1,0 +1,860 @@
+/* screen - airplate-view-flight-summary */
+html, body {margin: 0; height: 100%; overflow: hidden}
+.airplate-view-flight-summary {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1080px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+  transform:scaleX(70%) translateX(-21%) scaleY(60%) translateY(-35%);
+}
+
+.airplate-view-flight-summary .rectangle-1336-fWiSoc {
+  background-color: var(--periwinkle-gray);
+  height: 142px;
+  left: -13px;
+  position: absolute;
+  top: -20px;
+  width: calc(100.00% + 38px);
+}
+
+.airplate-view-flight-summary .ellipse-8-fWiSoc {
+  background-color: var(--periwinkle-gray);
+  border-radius: 239.47px/248.43px;
+  filter: blur(50px);;
+  height: 497px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 75px;
+  width: 479px;
+}
+
+.airplate-view-flight-summary .portfolio-fWiSoc {
+  background-color: transparent;
+  cursor: pointer;
+  height: 68px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: 187px;
+}
+
+.airplate-view-flight-summary .decore-fWiSoc {
+  background-color: transparent;
+  height: calc(100.00% - 283px);
+  left: 331px;
+  object-fit: cover;
+  position: absolute;
+  top: 103px;
+  width: calc(100.00% - 1141px);
+}
+
+.airplate-view-flight-summary .rectangle-1337-fWiSoc {
+  background-color: #fbfbfb;
+  border: 1px solid #707070;
+  height: calc(100.00% - 214px);
+  left: 0px;
+  position: absolute;
+  top: 214px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .available-meals-fWiSoc {
+  background-color: transparent;
+  height: 34px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(25.05% - 9px);
+  white-space: nowrap;
+  width: 174px;
+}
+
+.airplate-view-flight-summary .rectangle-4-fWiSoc {
+  background-color: var(--black);
+  height: 2px;
+  left: calc(16.94% - 19px);
+  position: absolute;
+  top: 97px;
+  width: 114px;
+}
+
+.airplate-view-flight-summary .portfolio-6l5Kxn {
+  background-color: transparent;
+  height: 24px;
+  left: calc(16.69% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 146px;
+}
+
+.airplate-view-flight-summary .about-me-fWiSoc {
+  background-color: transparent;
+  height: 24px;
+  left: calc(25.48% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 107px;
+}
+
+.airplate-view-flight-summary .my-blog-fWiSoc {
+  background-color: transparent;
+  height: 24px;
+  left: calc(31.96% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 80px;
+}
+
+.airplate-view-flight-summary .reviews-fWiSoc {
+  background-color: transparent;
+  height: 24px;
+  left: calc(37.19% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 70px;
+}
+
+.airplate-view-flight-summary .group-10019-fWiSoc {
+  background-color: transparent;
+  height: 22px;
+  position: absolute;
+  right: 99px;
+  top: 71px;
+  width: 204px;
+}
+
+.airplate-view-flight-summary .reviews-VMfsF6 {
+  background-color: transparent;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(37.48% - 26px);
+  text-align: left;
+  top: 0px;
+  width: 70px;
+}
+
+.airplate-view-flight-summary .social-VMfsF6 {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  height: 14px;
+  position: absolute;
+  right: 0px;
+  width: 37px;
+}
+
+.airplate-view-flight-summary .x043-twitter-d1axpP {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 14px;
+}
+
+.airplate-view-flight-summary .vector-bPPqa4 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .x045-linkedin-d1axpP {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 14px;
+}
+
+.airplate-view-flight-summary .vector-hAFTLx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .group-10018-VMfsF6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+
+.airplate-view-flight-summary .reviews-rsxCK7 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.airplate-view-flight-summary .ic_person_outline_24px-rsxCK7 {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: 2px;
+  width: 16px;
+}
+
+.airplate-view-flight-summary .rectangle-1335-fWiSoc {
+  background-color: var(--white);
+  height: 103px;
+  left: 0px;
+  position: absolute;
+  top: 111px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .rectangle-5-fWiSoc {
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  height: 54px;
+  position: absolute;
+  right: 179px;
+  top: 136px;
+  width: 248px;
+}
+
+.airplate-view-flight-summary .view-summary-fWiSoc {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: 240px;
+  text-align: center;
+  top: 154px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.airplate-view-flight-summary .ic_expand_more_24px-fWiSoc {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 218px;
+  top: 162px;
+  width: 12px;
+}
+
+.airplate-view-flight-summary .colombo-cmb-to-melbo-fWiSoc {
+  background-color: transparent;
+  height: 62px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 142px;
+  white-space: nowrap;
+  width: 377px;
+}
+
+.airplate-view-flight-summary .span0-AZxpsC {
+}
+
+.airplate-view-flight-summary .span1-AZxpsC {
+  text-decoration: underline;
+}
+
+.airplate-view-flight-summary .select-meals-fWiSoc {
+  background-color: transparent;
+  height: 34px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(39.87% - 14px);
+  white-space: nowrap;
+  width: 142px;
+}
+
+.airplate-view-flight-summary .breakfast-generally-fWiSoc {
+  background-color: transparent;
+  height: 26px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(29.79% - 8px);
+  white-space: nowrap;
+  width: 430px;
+}
+
+.airplate-view-flight-summary .lunch-generally-serv-fWiSoc {
+  background-color: transparent;
+  height: 26px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(34.44% - 9px);
+  white-space: nowrap;
+  width: 373px;
+}
+
+.airplate-view-flight-summary .group-10032-fWiSoc {
+  background-color: transparent;
+  height: 54px;
+  left: 111px;
+  position: absolute;
+  top: calc(45.61% - 25px);
+  width: 332px;
+}
+
+.airplate-view-flight-summary .group-10001-KTGx6u {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .breakfast-KTGx6u {
+  background-color: transparent;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.airplate-view-flight-summary .sri-lankan-kiribath-KTGx6u {
+  background-color: transparent;
+  bottom: calc(14.29% - 4px);
+  height: 26px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 156px;
+}
+
+.airplate-view-flight-summary .ic_expand_more_24px-KTGx6u {
+  background-color: transparent;
+  bottom: calc(36.80% - 3px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 12px;
+}
+
+.airplate-view-flight-summary .group-10033-fWiSoc {
+  background-color: transparent;
+  height: 54px;
+  left: calc(30.73% - 102px);
+  position: absolute;
+  top: calc(45.61% - 25px);
+  width: 332px;
+}
+
+.airplate-view-flight-summary .group-10001-bADrOg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .lunch-bADrOg {
+  background-color: transparent;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-view-flight-summary .sri-lankan-special-bADrOg {
+  background-color: transparent;
+  bottom: calc(14.29% - 4px);
+  height: 26px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.airplate-view-flight-summary .ic_expand_more_24px-bADrOg {
+  background-color: transparent;
+  bottom: calc(36.80% - 3px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 12px;
+}
+
+.airplate-view-flight-summary .view-digital-menu-fWiSoc {
+  background-color: transparent;
+  height: 22px;
+  left: 263px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: calc(39.84% - 9px);
+  white-space: nowrap;
+  width: 120px;
+}
+
+.airplate-view-flight-summary .select-a-special-meal-fWiSoc {
+  background-color: transparent;
+  bottom: calc(43.21% - 15px);
+  height: 34px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 235px;
+}
+
+.airplate-view-flight-summary .group-10035-fWiSoc {
+  background-color: transparent;
+  bottom: 105px;
+  height: 241px;
+  left: 111px;
+  position: absolute;
+  width: 700px;
+}
+
+.airplate-view-flight-summary .request-for-special-meal-jkoxk0 {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 274px;
+}
+
+.airplate-view-flight-summary .didnt-find-what-you-jkoxk0 {
+  background-color: transparent;
+  height: 26px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.47% - 5px);
+  white-space: nowrap;
+  width: calc(100.00% - 83px);
+}
+
+.airplate-view-flight-summary .group-10034-jkoxk0 {
+  background-color: transparent;
+  height: calc(100.00% - 76px);
+  left: 0px;
+  position: absolute;
+  top: 76px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .group-10001-c5cxrR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .group-10036-fWiSoc {
+  background-color: transparent;
+  bottom: calc(37.13% - 20px);
+  height: 54px;
+  left: 111px;
+  position: absolute;
+  width: 332px;
+}
+
+.airplate-view-flight-summary .group-10001-5Fq0N2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .lunch-5Fq0N2 {
+  background-color: transparent;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-view-flight-summary .kosher-meal-ksml-5Fq0N2 {
+  background-color: transparent;
+  bottom: calc(14.29% - 4px);
+  height: 26px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 169px;
+}
+
+.airplate-view-flight-summary .ic_expand_more_24px-5Fq0N2 {
+  background-color: transparent;
+  bottom: calc(36.80% - 3px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 12px;
+}
+
+.airplate-view-flight-summary .group-10037-fWiSoc {
+  background-color: transparent;
+  bottom: calc(37.13% - 20px);
+  height: 54px;
+  left: calc(30.73% - 102px);
+  position: absolute;
+  width: 332px;
+}
+
+.airplate-view-flight-summary .group-10001-sLxQAS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .dinner-sLxQAS {
+  background-color: transparent;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.airplate-view-flight-summary .kosher-meal-ksml-sLxQAS {
+  background-color: transparent;
+  bottom: calc(14.29% - 4px);
+  height: 26px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 169px;
+}
+
+.airplate-view-flight-summary .ic_expand_more_24px-sLxQAS {
+  background-color: transparent;
+  bottom: calc(36.80% - 3px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 12px;
+}
+
+.airplate-view-flight-summary .or-fWiSoc {
+  background-color: transparent;
+  bottom: calc(46.97% - 11px);
+  height: 23px;
+  left: calc(24.17% - 4px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.airplate-view-flight-summary .line-1-fWiSoc {
+  background-color: transparent;
+  bottom: calc(47.22% - 1px);
+  height: 2px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  width: 173px;
+}
+
+.airplate-view-flight-summary .line-2-fWiSoc {
+  background-color: transparent;
+  bottom: calc(47.22% - 1px);
+  height: 2px;
+  left: calc(28.39% - 49px);
+  object-fit: cover;
+  position: absolute;
+  width: 173px;
+}
+
+.airplate-view-flight-summary .image-2-fWiSoc {
+  background-color: transparent;
+  bottom: 0px;
+  height: 867px;
+  object-fit: cover;
+  position: absolute;
+  right: -99px;
+  width: 1156px;
+}
+
+.airplate-view-flight-summary .group-10193-fWiSoc {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 214px);
+  left: 0px;
+  position: absolute;
+  top: 214px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .rectangle-432-OhsBxk {
+  -webkit-backdrop-filter: blur(16.28420066833496px) brightness(115%);
+  backdrop-filter: blur(16.28420066833496px) brightness(115%);
+  background-color: transparent;
+  border-radius: 19px;
+  box-shadow: 0px 3px 20px #2e476517;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .group-10206-fWiSoc {
+  background-color: transparent;
+  bottom: calc(49.93% - 159px);
+  height: 319px;
+  position: absolute;
+  right: -252px;
+  width: 1387px;
+}
+
+.airplate-view-flight-summary .group-10258-Vcatuj {
+  background-color: transparent;
+  bottom: calc(43.08% - 11px);
+  height: 26px;
+  position: absolute;
+  right: 0px;
+  width: 29px;
+}
+
+.airplate-view-flight-summary .x13-qtL5jx {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-proximanova-semibold);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.airplate-view-flight-summary .group-10259-Vcatuj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: calc(19.38% - 5px);
+  position: absolute;
+  top: 15px;
+  width: 25px;
+}
+
+.airplate-view-flight-summary .ellipse-158-0SVyhl {
+  background-color: var(--periwinkle-gray);
+  border-radius: 12.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .ic_clear_24px-0SVyhl {
+  background-color: transparent;
+  height: calc(100.00% - 11px);
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: calc(100.00% - 11px);
+}
+
+.airplate-view-flight-summary .group-10261-Vcatuj {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 312px;
+}
+
+.airplate-view-flight-summary .group-10195-xlRgzx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .group-10194-YHniMf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .rectangle-432-nJUi2e {
+  background-color: var(--white);
+  border-radius: 19px;
+  box-shadow: 0px 3px 20px #2e476517;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-view-flight-summary .flight-code-e13-k2de-xlRgzx {
+  background-color: transparent;
+  bottom: 15px;
+  height: 222px;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 220px;
+}
+
+.airplate-view-flight-summary .adam-jones-xlRgzx {
+  background-color: transparent;
+  color: var(--log-cabin);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 28px;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 41px;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.airplate-view-flight-summary .ellipse-158-fWiSoc {
+  background-color: var(--periwinkle-gray);
+  border-radius: 12.5px;
+  cursor: pointer;
+  height: 25px;
+  position: absolute;
+  right: calc(44.06% - 11px);
+  top: calc(37.44% - 9px);
+  width: 25px;
+}
+
+.airplate-view-flight-summary .ic_clear_24px-fWiSoc {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(44.07% - 6px);
+  top: calc(37.62% - 5px);
+  width: 14px;
+}

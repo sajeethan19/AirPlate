@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,900,500,400italic");
+@font-face {
+  font-family: "CircularStd-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/CircularStd-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: "GoogleSans-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/GoogleSans-Regular-v1.27.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AbhayaLibre ExtraBold-Regular";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/AbhayaLibre-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SofiaPro-SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/Sofia Pro SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "HelveticaNeue-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/HelveticaNeueBd.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ProximaNova-Semibold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/.173.otf") format("opentype");
+}
+@font-face {
+  font-family: "ProximaNova-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/.139.otf") format("opentype");
+}
+@font-face {
+  font-family: "ProximaNova-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Mark Simonson - Proxima Nova A.otf") format("opentype");
+}
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/61f1a7ef6b45dbe9ab53b268.61f1a7f1a49dd5a60df3cde6.Bf7WKep.hcp.png");
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.card-body {
+  min-height: 300px;
+  min-width: 300px;
+  margin-right: 5px;
+}

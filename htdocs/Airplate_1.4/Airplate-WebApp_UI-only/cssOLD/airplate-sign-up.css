@@ -1,0 +1,743 @@
+/* screen - airplate-sign-up */
+html, body {margin: 0; height: 100%; overflow: hidden}
+.airplate-sign-up {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1080px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+  transform:scaleX(85%) translateX(-10%) scaleY(70%) translateY(-22%);
+}
+
+.airplate-sign-up .decore-h9283d {
+  background-color: transparent;
+  height: calc(100.00% + 310px);
+  left: -162px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: calc(100.00% + 388px);
+}
+
+.airplate-sign-up .decore-uga96J {
+  background-color: transparent;
+  height: calc(100.00% - 207px);
+  object-fit: cover;
+  position: absolute;
+  right: -41px;
+  top: -123px;
+  width: 766px;
+}
+
+.airplate-sign-up .portfolio-h9283d {
+  background-color: transparent;
+  height: 24px;
+  left: calc(16.69% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 146px;
+}
+
+.airplate-sign-up .about-me-h9283d {
+  background-color: transparent;
+  height: 24px;
+  left: calc(25.48% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 107px;
+}
+
+.airplate-sign-up .my-blog-h9283d {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(31.96% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 80px;
+}
+
+.airplate-sign-up .reviews-h9283d {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(37.19% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 70px;
+}
+
+.airplate-sign-up .portfolio-uga96J {
+  background-color: transparent;
+  cursor: pointer;
+  height: 68px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: 187px;
+}
+
+.airplate-sign-up .group-11-h9283d {
+  background-color: transparent;
+  bottom: calc(39.03% - 5px);
+  height: 14px;
+  position: absolute;
+  right: calc(40.81% - 7px);
+  width: 18px;
+}
+
+.airplate-sign-up .eye-slash-solid-W9OVAr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.airplate-sign-up .rectangle-10-h9283d {
+  background-color: var(--periwinkle-gray);
+  border: 3px solid var(--periwinkle-gray);
+  border-radius: 20px;
+  bottom: 61px;
+  box-shadow: 20px 20px 20px #00000029;
+  height: 819px;
+  left: calc(50.00% - 363px);
+  position: absolute;
+  width: 726px;
+}
+
+.airplate-sign-up .group-10015-h9283d {
+  background-color: transparent;
+  bottom: 122px;
+  height: 699px;
+  left: calc(50.00% - 294px);
+  position: absolute;
+  width: 588px;
+}
+
+.airplate-sign-up .group-10014-twDwKK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-sign-up .sign-up-BHU10g {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.airplate-sign-up .group-1-BHU10g {
+  background-color: transparent;
+  height: 54px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(29.46% - 16px);
+  width: 273px;
+}
+
+.airplate-sign-up .first-name-BHU10g {
+  background-color: transparent;
+  height: 26px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(22.73% - 6px);
+  white-space: nowrap;
+  width: 91px;
+}
+
+.airplate-sign-up .email-address-BHU10g {
+  background-color: transparent;
+  height: 26px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(38.78% - 10px);
+  white-space: nowrap;
+  width: 119px;
+}
+
+.airplate-sign-up .group-10-BHU10g {
+  background-color: transparent;
+  height: 54px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.20% - 25px);
+  width: 398px;
+}
+
+.airplate-sign-up .group-4-BHU10g {
+  background-color: transparent;
+  height: 54px;
+  left: 4px;
+  position: absolute;
+  top: 76px;
+  width: 398px;
+}
+
+.airplate-sign-up .group-3-XmojJw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-sign-up .rectangle-6-p7LjJf {
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 2px 6px #0000001a;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-sign-up .sign-up-with-google-p7LjJf {
+  background-color: transparent;
+  bottom: calc(39.29% - 10px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(49.57% - 82px);
+  text-align: center;
+  white-space: nowrap;
+  width: 166px;
+}
+
+.airplate-sign-up .google__g__-logo-XmojJw {
+  background-color: transparent;
+  bottom: calc(49.87% - 10px);
+  height: 20px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  width: 20px;
+}
+
+.airplate-sign-up .already-have-an-account-login-BHU10g {
+  background-color: transparent;
+  color: var(--absolute-zero);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.45px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 268px;
+}
+
+.airplate-sign-up .span0-ymsyCh {
+  color: #999999;
+  font-style: normal;
+}
+
+.airplate-sign-up .span1-ymsyCh {
+  font-style: normal;
+}
+
+.airplate-sign-up .last-name-BHU10g {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(36.87% - 33px);
+  text-align: left;
+  top: calc(22.73% - 6px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.airplate-sign-up .group-10001-BHU10g {
+  background-color: transparent;
+  height: 54px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: calc(29.46% - 16px);
+  width: 273px;
+}
+
+.airplate-sign-up .jones-BHU10g {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(38.36% - 20px);
+  text-align: left;
+  top: calc(30.76% - 8px);
+  white-space: nowrap;
+  width: 51px;
+}
+
+.airplate-sign-up .adam123gmailcom-BHU10g {
+  background-color: transparent;
+  height: 26px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(46.81% - 12px);
+  white-space: nowrap;
+  width: 179px;
+}
+
+.airplate-sign-up .group-10002-BHU10g {
+  background-color: transparent;
+  bottom: calc(39.50% - 37px);
+  height: 94px;
+  left: 4px;
+  position: absolute;
+  width: 398px;
+}
+
+.airplate-sign-up .password-must-be-at-least-6-characters-NSGZgm {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 334px;
+}
+
+.airplate-sign-up .group-10-NSGZgm {
+  background-color: transparent;
+  bottom: 0px;
+  height: 54px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.airplate-sign-up .ellipse-10-NSGZgm {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: calc(22.56% - 2px);
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-9-NSGZgm {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: calc(25.64% - 2px);
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-5-NSGZgm {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: calc(19.49% - 2px);
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-8-NSGZgm {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: calc(28.72% - 2px);
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-11-NSGZgm {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: 39px;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-12-NSGZgm {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: 51px;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-13-NSGZgm {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: 27px;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-14-NSGZgm {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: 63px;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .group-10003-BHU10g {
+  background-color: transparent;
+  bottom: calc(18.84% - 18px);
+  height: 94px;
+  left: 4px;
+  position: absolute;
+  width: 398px;
+}
+
+.airplate-sign-up .re-enter-password-XD3xd9 {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 155px;
+}
+
+.airplate-sign-up .group-10-XD3xd9 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 54px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.airplate-sign-up .ellipse-10-XD3xd9 {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: calc(22.56% - 2px);
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-9-XD3xd9 {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: calc(25.64% - 2px);
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-5-XD3xd9 {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: calc(19.49% - 2px);
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-8-XD3xd9 {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: calc(28.72% - 2px);
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-11-XD3xd9 {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: 39px;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-12-XD3xd9 {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: 51px;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-13-XD3xd9 {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: 27px;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .ellipse-14-XD3xd9 {
+  background-color: var(--log-cabin);
+  border-radius: 4px;
+  bottom: calc(26.74% - 2px);
+  height: 8px;
+  left: 63px;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-sign-up .group-10012-BHU10g {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 81px;
+  left: calc(49.73% - 200px);
+  position: absolute;
+  width: 403px;
+}
+
+.airplate-sign-up .checked-Wyeve2 {
+  background-color: transparent;
+  bottom: -4px;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.airplate-sign-up .rectangle-5-Wyeve2 {
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  height: 54px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 7px);
+}
+
+.airplate-sign-up .sign-up-Wyeve2 {
+  background-color: transparent;
+  height: 26px;
+  left: calc(49.55% - 34px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: calc(30.91% - 8px);
+  white-space: nowrap;
+  width: 68px;
+}
+
+.airplate-sign-up .icon-visibility-filled-BHU10g {
+  background-color: transparent;
+  bottom: calc(37.48% - 9px);
+  height: 24px;
+  opacity: 0.5;
+  position: absolute;
+  right: 200px;
+  width: 24px;
+}
+
+.airplate-sign-up .path-988-xv4K3K {
+  background-color: transparent;
+  height: calc(100.00% - 9px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: calc(100.00% - 2px);
+}
+
+.airplate-sign-up .icon-visibility-filled-TzIAxQ {
+  background-color: transparent;
+  bottom: calc(18.96% - 5px);
+  height: 24px;
+  opacity: 0.5;
+  position: absolute;
+  right: 200px;
+  width: 24px;
+}
+
+.airplate-sign-up .path-988-F7o2Al {
+  background-color: transparent;
+  height: calc(100.00% - 9px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: calc(100.00% - 2px);
+}
+
+.airplate-sign-up .adam-twDwKK {
+  background-color: transparent;
+  height: 26px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(30.76% - 8px);
+  white-space: nowrap;
+  width: 49px;
+}
+
+.airplate-sign-up .group-10019-h9283d {
+  background-color: transparent;
+  height: 22px;
+  position: absolute;
+  right: 99px;
+  top: 71px;
+  width: 123px;
+}
+
+.airplate-sign-up .social-l4m1ou {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  height: 14px;
+  position: absolute;
+  right: 0px;
+  width: 37px;
+}
+
+.airplate-sign-up .x043-twitter-0f5Gaj {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 14px;
+}
+
+.airplate-sign-up .vector-befVUo {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-sign-up .x045-linkedin-0f5Gaj {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 14px;
+}
+
+.airplate-sign-up .vector-j6d6bw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-sign-up .group-10018-l4m1ou {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+
+.airplate-sign-up .reviews-VBXf9t {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.airplate-sign-up .ic_person_outline_24px-VBXf9t {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: 2px;
+  width: 16px;
+}

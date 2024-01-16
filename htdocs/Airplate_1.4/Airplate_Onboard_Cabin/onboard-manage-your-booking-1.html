@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1024, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/onboard-manage-your-booking-1.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="onboard-manage-your-booking-1" />
+    <div class="container-center-horizontal">
+      <div class="onboard-manage-your-booking-1 screen">
+        <div class="overlap-group4">
+          <div class="group-10197 circularstd-medium-black-17px">
+            <div class="portfolio-container">
+              <div class="portfolio circularstd-medium-black-17px">Flight Information</div>
+              <div class="portfolio-1 circularstd-medium-black-40px">airplate</div>
+              <div class="portfolio-2 circularstd-medium-black-17px">CABIN CREW</div>
+            </div>
+            <div class="about-me">Digital Menu</div>
+            <div class="my-blog">Cabin Crew Assistance</div>
+            <div class="about-me-1">Meal Analysis</div>
+            <div class="group-10019">
+              <div class="group-10018">
+                <div class="overlap-group">
+                  <div class="reviews circularstd-medium-black-17px">Anne</div>
+                  <img class="ic_person_outline_24px" src="img/ic-person-outline-24px-10@1x.png" />
+                </div>
+              </div>
+              <div class="social">
+                <div class="x043-twitter"></div>
+                <div class="x045-linkedin"></div>
+              </div>
+            </div>
+          </div>
+          <div class="rectangle-4"></div>
+        </div>
+        <div class="group-10017">
+          <img class="suhyeon-choi-t-tf-d-ma-rq-fe-unsplash" src="img/suhyeon-choi-ttfdmarq-fe-unsplash@1x.png" />
+        </div>
+        <div class="enter-flight-details roboto-black-log-cabin-24px">Enter Flight Details</div>
+        <div class="overlap-group-container">
+          <div class="form-group mx-sm-3 mb-2">
+            <label for="exampleInputPassword1">CrewID</label>
+            <input type="text" class="form-control" id="crew" placeholder="Enter Crew ID">
+          </div>  
+          <div class="form-group mx-sm-3 mb-2">
+            <label for="exampleInputPassword1">Airline</label>
+            <input type="text" class="form-control" id="aLine" placeholder="SriLankan Airline">
+          </div>
+        
+          <div class="form-group mx-sm-3 mb-2 " >
+            <label for="exampleInputPassword1">Flight Number</label>
+            <input type="text" class="form-control" id="fNum" placeholder="Enter Flight Number">
+          </div> 
+        </div>
+
+        <script>
+          function checkUser(){
+            var crew = document.getElementById("crew").value;
+            var aLine=document.getElementById("aLine").value;
+            var fNum=document.getElementById("fNum").value;
+            if (crew=="E13K2" && aLine=="SriLankan Airline" && fNum=="UL314"){
+              window.open("./onboard-flight-information.html","_self");
+            }
+            else{
+              alert("Please check your Details and try again.");
+            }
+            
+          }
+        </script>
+
+        
+          <div >
+            <button class="btn btn-primary" onclick="checkUser()">Retrieve Flight Details</div>
+          </div></a>
+        
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  </body>
+</html>

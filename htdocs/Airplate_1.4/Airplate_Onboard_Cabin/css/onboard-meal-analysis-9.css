@@ -1,0 +1,480 @@
+/* screen - onboard-meal-analysis-9 */
+
+.onboard-meal-analysis-9 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1418px;
+  overflow: hidden;
+  width: 1024px;
+}
+
+.onboard-meal-analysis-9 .overlap-group4 {
+  background-color: var(--periwinkle-gray);
+  height: 142px;
+  margin-left: -11px;
+  margin-top: -20px;
+  position: relative;
+  width: 1048px;
+}
+
+.onboard-meal-analysis-9 .rectangle-4 {
+  background-color: var(--black);
+  height: 2px;
+  left: 641px;
+  position: absolute;
+  top: 86px;
+  width: 114px;
+}
+
+.onboard-meal-analysis-9 .group-10197 {
+  align-items: center;
+  display: flex;
+  height: 67px;
+  left: 44px;
+  min-width: 972px;
+  position: absolute;
+  top: 53px;
+}
+
+.onboard-meal-analysis-9 .portfolio-container {
+  align-self: flex-end;
+  height: 69px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 331px;
+}
+
+.onboard-meal-analysis-9 .portfolio {
+  cursor: pointer;
+  height: 24px;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 15px;
+  width: 146px;
+}
+
+.onboard-meal-analysis-9 .portfolio-1 {
+  cursor: pointer;
+  height: 68px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  width: 187px;
+}
+
+.onboard-meal-analysis-9 .portfolio-2 {
+  height: 24px;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 45px;
+  width: 111px;
+}
+
+.onboard-meal-analysis-9 .about-me {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: 13.0px;
+  margin-left: 20px;
+  width: 107px;
+}
+
+.onboard-meal-analysis-9 .my-blog {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: 3px;
+  margin-left: 19px;
+  width: 103px;
+}
+
+.onboard-meal-analysis-9 .about-me-1 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: 21.0px;
+  margin-left: 19px;
+  width: 120px;
+}
+
+.onboard-meal-analysis-9 .group-10019 {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  height: 22px;
+  justify-content: space-between;
+  margin-left: 125px;
+  margin-top: 7px;
+  width: 128px;
+}
+
+.onboard-meal-analysis-9 .group-10018 {
+  align-items: flex-end;
+  display: flex;
+  margin-bottom: 0.1px;
+  min-width: 70px;
+}
+
+.onboard-meal-analysis-9 .overlap-group {
+  height: 24px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 70px;
+}
+
+.onboard-meal-analysis-9 .reviews {
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.onboard-meal-analysis-9 .ic_person_outline_24px {
+  height: 16px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.onboard-meal-analysis-9 .social {
+  display: flex;
+  height: 14.27px;
+  justify-content: space-between;
+  margin-bottom: 0;
+  margin-right: 0;
+  width: 37.35px;
+}
+
+.onboard-meal-analysis-9 .x043-twitter {
+  background-image: url(../img/vector-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  margin-bottom: 1.3px;
+  margin-left: 0;
+  margin-top: 1.3px;
+  width: 14.27px;
+}
+
+.onboard-meal-analysis-9 .x045-linkedin {
+  background-image: url(../img/vector-19@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  margin-right: 0;
+  width: 14.27px;
+}
+
+.onboard-meal-analysis-9 .overlap-group5 {
+  height: 1293px;
+  position: relative;
+  width: 1024px;
+}
+
+.onboard-meal-analysis-9 .path-1339 {
+  height: 1212px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 1024px;
+}
+
+.onboard-meal-analysis-9 .rectangle-1335 {
+  background-color: var(--white);
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 488px;
+  width: 1024px;
+}
+
+.onboard-meal-analysis-9 .rectangle-5 {
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  height: 54px;
+  left: 745px;
+  position: absolute;
+  top: 513px;
+  width: 248px;
+}
+
+.onboard-meal-analysis-9 .view-summary {
+  cursor: pointer;
+  left: 808px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 531px;
+  white-space: nowrap;
+}
+
+.onboard-meal-analysis-9 .colombo-cmb-to-mel {
+  cursor: pointer;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 518px;
+  white-space: nowrap;
+}
+
+.onboard-meal-analysis-9 .span1 {
+  text-decoration: underline;
+}
+
+.onboard-meal-analysis-9 .getty_160539141_335403 {
+  height: 488px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1024px;
+}
+
+.onboard-meal-analysis-9 .overlap-group2 {
+  height: 70px;
+  left: 56px;
+  position: absolute;
+  top: 629px;
+  width: 656px;
+}
+
+.onboard-meal-analysis-9 .group-10217 {
+  align-items: flex-end;
+  display: flex;
+  height: 70px;
+  left: 0;
+  min-width: 656px;
+  position: absolute;
+  top: 0;
+}
+
+.onboard-meal-analysis-9 .group-1305 {
+  display: flex;
+  height: 70px;
+  width: 70px;
+}
+
+.onboard-meal-analysis-9 .group-1303 {
+  display: flex;
+  flex: 1;
+  width: 70.09px;
+}
+
+.onboard-meal-analysis-9 .path-739 {
+  flex: 1;
+  margin-bottom: -6.5px;
+  margin-left: -14.5px;
+  margin-right: -6.5px;
+  margin-top: -14.5px;
+  object-fit: cover;
+  width: 91.09px;
+}
+
+.onboard-meal-analysis-9 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -0.91px;
+  margin-left: 18px;
+  min-height: 63px;
+  width: 568px;
+}
+
+.onboard-meal-analysis-9 .categorise-food-waste {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 34px;
+  white-space: nowrap;
+}
+
+.onboard-meal-analysis-9 .understand-what-comp {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 3px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.onboard-meal-analysis-9 .stink {
+  height: 42px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 42px;
+}
+
+.onboard-meal-analysis-9 .image-58 {
+  height: 467px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 777px;
+  width: 876px;
+}
+
+.onboard-meal-analysis-9 .group-10220 {
+  display: flex;
+  height: 32px;
+  left: 68px;
+  position: absolute;
+  top: 731px;
+  width: 203px;
+}
+
+.onboard-meal-analysis-9 .sri-lankan-special {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -6px;
+  margin-right: -2px;
+  margin-top: 4px;
+  white-space: nowrap;
+  width: 203px;
+}
+
+.onboard-meal-analysis-9 .rectangle-1483 {
+  height: 144px;
+  left: 176px;
+  position: absolute;
+  top: 848px;
+  width: 244px;
+}
+
+.onboard-meal-analysis-9 .degradable {
+  left: 436px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 941px;
+  white-space: nowrap;
+}
+
+.onboard-meal-analysis-9 .rectangle-1484 {
+  height: 185px;
+  left: 436px;
+  position: absolute;
+  top: 961px;
+  width: 406px;
+}
+
+.onboard-meal-analysis-9 .non-degradable {
+  left: 176px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 823px;
+  white-space: nowrap;
+}
+
+.onboard-meal-analysis-9 .ic_expand_more_24px {
+  cursor: pointer;
+  height: 7px;
+  left: 948px;
+  object-fit: cover;
+  position: absolute;
+  top: 539px;
+  width: 12px;
+}
+
+.onboard-meal-analysis-9 .group-10193 {
+  -webkit-backdrop-filter: blur(16.28px) brightness(115%);
+  backdrop-filter: blur(16.28px) brightness(115%);
+  border-radius: 19px;
+  box-shadow: 0px 3px 20px #2e476517;
+  cursor: pointer;
+  height: 700px;
+  left: 0;
+  position: absolute;
+  top: 593px;
+  width: 1024px;
+}
+
+.onboard-meal-analysis-9 .overlap-group3 {
+  border-radius: 19px;
+  height: 319px;
+  left: 356px;
+  position: absolute;
+  top: 709px;
+  width: 312px;
+}
+
+.onboard-meal-analysis-9 .overlap-group-1 {
+  border-radius: 19px;
+  height: 319px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 312px;
+}
+
+.onboard-meal-analysis-9 .group-10261 {
+  background-color: var(--white);
+  border-radius: 19px;
+  box-shadow: 0px 3px 20px #2e476517;
+  display: flex;
+  flex-direction: column;
+  height: 319px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 312px;
+}
+
+.onboard-meal-analysis-9 .name {
+  height: 28px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 32.0px;
+  margin-top: 41.0px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.onboard-meal-analysis-9 .flight-code-e13-k2 {
+  height: 222px;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: 15.0px;
+  margin-left: 32.0px;
+  width: 220px;
+}
+
+.onboard-meal-analysis-9 .ellipse-158 {
+  background-color: var(--periwinkle-gray);
+  border-radius: 12.5px;
+  height: 25px;
+  left: 274px;
+  position: absolute;
+  top: 15px;
+  width: 25px;
+}
+
+.onboard-meal-analysis-9 .ic_clear_24px {
+  cursor: pointer;
+  height: 14px;
+  left: 280px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 14px;
+}

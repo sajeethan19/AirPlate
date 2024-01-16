@@ -1,0 +1,356 @@
+/* screen - onboard-login */
+
+.onboard-login {
+  background-color: var(--white);
+  height: 1366px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1024px;
+}
+
+.onboard-login .decore-TGH75f {
+  background-color: transparent;
+  height: 1097px;
+  left: 495px;
+  object-fit: cover;
+  position: absolute;
+  top: 311px;
+  width: 1085px;
+}
+
+.onboard-login .decore-6cUDPv {
+  background-color: transparent;
+  height: 873px;
+  left: 313px;
+  object-fit: cover;
+  position: absolute;
+  top: -144px;
+  width: 766px;
+}
+
+.onboard-login .image-TGH75f {
+  background-color: transparent;
+  height: 1036px;
+  left: 128px;
+  position: absolute;
+  top: 363px;
+  width: 896px;
+}
+
+.onboard-login .plane-x2HkjE {
+  background-color: transparent;
+  height: 72px;
+  position: absolute;
+  right: 162px;
+  top: 0px;
+  width: 112px;
+}
+
+.onboard-login .group-Dk7Jm7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-login .vector-x3XrQ4 {
+  background-color: transparent;
+  bottom: calc(40.02% - 4px);
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(37.40% - 4px);
+  width: 11px;
+}
+
+.onboard-login .vector-yBaXUA {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(44.65% - 4px);
+  top: 11px;
+  width: 8px;
+}
+
+.onboard-login .vector-R1vEBZ {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(45.25% - 14px);
+  top: calc(20.46% - 3px);
+  width: 31px;
+}
+
+.onboard-login .vector-pwmWx2 {
+  background-color: transparent;
+  height: 55px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 14px);
+}
+
+.onboard-login .vector-co6Uxv {
+  background-color: transparent;
+  bottom: 1px;
+  height: 54px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.54% - 19px);
+  width: 50px;
+}
+
+.onboard-login .vector-7nqM0J {
+  background-color: transparent;
+  bottom: calc(36.97% - 5px);
+  height: 15px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 26px;
+}
+
+.onboard-login .vector-WEsyRb {
+  background-color: transparent;
+  bottom: 9px;
+  height: 15px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.onboard-login .vector-xrgwx7 {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  top: 1px;
+  width: 9px;
+}
+
+.onboard-login .vector-v8X3eL {
+  background-color: transparent;
+  height: 11px;
+  object-fit: cover;
+  position: absolute;
+  right: 14px;
+  top: 6px;
+  width: 10px;
+}
+
+.onboard-login .group-x3XrQ4 {
+  background-color: transparent;
+  height: 31px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.13% - 18px);
+  top: calc(30.30% - 9px);
+  width: 48px;
+}
+
+.onboard-login .traveller-1-x2HkjE {
+  background-color: transparent;
+  height: calc(100.00% - 272px);
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 272px;
+  width: calc(100.00% - 131px);
+}
+
+.onboard-login .plane-3qhxJi {
+  background-color: transparent;
+  height: 72px;
+  left: 0px;
+  position: absolute;
+  top: 206px;
+  width: 112px;
+}
+
+.onboard-login .group-QFrade {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-login .vector-7eEPYr {
+  background-color: transparent;
+  bottom: calc(40.02% - 4px);
+  height: 9px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(37.40% - 4px);
+  width: 11px;
+}
+
+.onboard-login .vector-co9nkA {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(44.65% - 4px);
+  top: 11px;
+  width: 8px;
+}
+
+.onboard-login .vector-0M67nV {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(45.25% - 14px);
+  top: calc(20.46% - 3px);
+  width: 31px;
+}
+
+.onboard-login .vector-A3G51K {
+  background-color: transparent;
+  height: 55px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 14px);
+}
+
+.onboard-login .vector-RHyDGr {
+  background-color: transparent;
+  bottom: 1px;
+  height: 54px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.54% - 19px);
+  width: 50px;
+}
+
+.onboard-login .vector-3TudIg {
+  background-color: transparent;
+  bottom: calc(36.97% - 5px);
+  height: 15px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 26px;
+}
+
+.onboard-login .vector-pIb3Rh {
+  background-color: transparent;
+  bottom: 9px;
+  height: 15px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.onboard-login .vector-d01PBU {
+  background-color: transparent;
+  height: 6px;
+  object-fit: cover;
+  position: absolute;
+  right: 4px;
+  top: 1px;
+  width: 9px;
+}
+
+.onboard-login .vector-AtaAml {
+  background-color: transparent;
+  height: 11px;
+  object-fit: cover;
+  position: absolute;
+  right: 14px;
+  top: 6px;
+  width: 10px;
+}
+
+.onboard-login .group-7eEPYr {
+  background-color: transparent;
+  height: 31px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.13% - 18px);
+  top: calc(30.30% - 9px);
+  width: 48px;
+}
+
+.onboard-login .main-text-TGH75f {
+  background-color: transparent;
+  height: 293px;
+  left: 21px;
+  position: absolute;
+  top: 292px;
+  width: 522px;
+}
+
+.onboard-login .descriptons-oVVqzp {
+  background-color: transparent;
+  bottom: 33px;
+  height: 92px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 20px);
+}
+
+.onboard-login .heading-oVVqzp {
+  background-color: transparent;
+  height: 205px;
+  left: 0px;
+  letter-spacing: -5.86px;
+  line-height: 168px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.onboard-login .button-oVVqzp {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  width: 139px;
+}
+
+.onboard-login .rectangle-7-Nr0CW3 {
+  background-color: blue;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-login .schedule-a-call-Nr0CW3 {
+  background-color: transparent;
+  bottom: calc(45.45% - 12px);
+  color: var(--white);
+  font-family: var(--font-family-sofiapro-semibold);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  height: 27px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 42px);
+}

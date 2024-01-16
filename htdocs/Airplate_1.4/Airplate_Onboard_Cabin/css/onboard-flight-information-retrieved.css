@@ -1,0 +1,1711 @@
+/* screen - onboard-flight-information-retrieved */
+
+.onboard-flight-information-retrieved {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2875px;
+  overflow: hidden;
+  width: 1024px;
+}
+
+.onboard-flight-information-retrieved .overlap-group36 {
+  height: 2894px;
+  margin-left: -11px;
+  margin-top: -20px;
+  position: relative;
+  width: 1048px;
+}
+
+.onboard-flight-information-retrieved .path-1339 {
+  height: 2760px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 134px;
+  width: 1024px;
+}
+
+.onboard-flight-information-retrieved .rectangle-1336 {
+  background-color: var(--periwinkle-gray);
+  height: 142px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1048px;
+}
+
+.onboard-flight-information-retrieved .rectangle-4 {
+  background-color: var(--black);
+  height: 2px;
+  left: 240px;
+  position: absolute;
+  top: 96px;
+  width: 114px;
+}
+
+.onboard-flight-information-retrieved .image-60 {
+  height: 208px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 297px;
+  width: 956px;
+}
+
+.onboard-flight-information-retrieved .rectangle-1335 {
+  background-color: var(--white);
+  height: 103px;
+  left: 11px;
+  position: absolute;
+  top: 142px;
+  width: 1024px;
+}
+
+.onboard-flight-information-retrieved .group-10268 {
+  align-items: flex-end;
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  height: 54px;
+  justify-content: flex-end;
+  left: 756px;
+  min-width: 248px;
+  padding: 10px 61px;
+  position: absolute;
+  top: 167px;
+}
+
+.onboard-flight-information-retrieved .view-summary {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 26px;
+  min-width: 124px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .colombo-cmb-to-mel {
+  cursor: pointer;
+  left: 122px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 172px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .span-1 {
+  text-decoration: underline;
+}
+
+.onboard-flight-information-retrieved .flight-seat-plan {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 255px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .retrieve-passenger-information {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 633px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .group-10199 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 45px;
+  min-height: 194px;
+  position: absolute;
+  top: 683px;
+  width: 591px;
+}
+
+.onboard-flight-information-retrieved .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 124px;
+  min-width: 591px;
+}
+
+.onboard-flight-information-retrieved .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 124px;
+  width: 273px;
+}
+
+.onboard-flight-information-retrieved .overlap-group2 {
+  background-image: url(../img/group-10001-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 54px;
+  position: relative;
+  width: 273px;
+}
+
+.onboard-flight-information-retrieved .flight-number {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 15px;
+  opacity: 0.5;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .ul-314 {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 18px;
+  opacity: 0.5;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .overlap-group1 {
+  background-image: url(../img/group-10001-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 54px;
+  margin-top: 16px;
+  position: relative;
+  width: 273px;
+}
+
+.onboard-flight-information-retrieved .seat-number {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .d24 {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .airline-container {
+  background-image: url(../img/group-10001-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 54px;
+  margin-left: 45px;
+  position: relative;
+  width: 273px;
+}
+
+.onboard-flight-information-retrieved .airline {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 15px;
+  opacity: 0.5;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .sri-lankan-airlines {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 18px;
+  opacity: 0.5;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .group-10016 {
+  display: flex;
+  height: 54px;
+  margin-left: 21.0px;
+  margin-top: 16px;
+  width: 248px;
+}
+
+.onboard-flight-information-retrieved .group-10236 {
+  align-items: flex-end;
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 248px;
+  padding: 10px 88px;
+}
+
+.onboard-flight-information-retrieved .retrieve {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 26px;
+  min-width: 70px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .rectangle-1458 {
+  background-color: var(--absolute-zero);
+  height: 91px;
+  left: 11px;
+  position: absolute;
+  top: 503px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .rectangle-1459 {
+  background-color: var(--absolute-zero);
+  height: 91px;
+  left: 267px;
+  position: absolute;
+  top: 503px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .rectangle-1460 {
+  background-color: var(--absolute-zero);
+  height: 91px;
+  left: 523px;
+  position: absolute;
+  top: 503px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .rectangle-1461 {
+  background-color: var(--absolute-zero);
+  height: 91px;
+  left: 779px;
+  position: absolute;
+  top: 503px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .all {
+  left: 125px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 521px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .first-class {
+  left: 332px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 521px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .business-class {
+  left: 567px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 521px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .economy-class {
+  left: 825px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 521px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .number {
+  left: 119px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 550px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .number-1 {
+  left: 377px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 550px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .number-2 {
+  left: 636px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 550px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .number-3 {
+  left: 894px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 550px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .group-10060 {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  left: 407px;
+  min-width: 429px;
+  position: absolute;
+  top: 622px;
+}
+
+.onboard-flight-information-retrieved .search-container {
+  align-items: center;
+  background-image: url(../img/path-1333-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 370px;
+  padding: 11.5px 18.9px;
+}
+
+.onboard-flight-information-retrieved .search-passengers {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  min-width: 129px;
+  opacity: 0.75;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .ic_search_white {
+  height: 21px;
+  margin-left: 173px;
+  margin-top: 1.08px;
+  object-fit: cover;
+  width: 21px;
+}
+
+.onboard-flight-information-retrieved .path-container {
+  align-items: flex-end;
+  background-image: url(../img/path-914-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-left: 9px;
+  margin-top: 0.23px;
+  min-height: 49px;
+  padding: 14.5px 12.5px;
+  width: 49px;
+}
+
+.onboard-flight-information-retrieved .path-714 {
+  height: 5px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.onboard-flight-information-retrieved .path-71 {
+  height: 5px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.onboard-flight-information-retrieved .group-10241 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid #afb1b8;
+  box-shadow: 0px 3px 6px #00000029;
+  display: flex;
+  flex-direction: column;
+  left: 207px;
+  min-height: 360px;
+  padding: 12.5px 14px;
+  position: absolute;
+  top: 915px;
+  width: 632px;
+}
+
+.onboard-flight-information-retrieved .showing-results-for-d24-change-search {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 296px;
+  margin-left: 1px;
+  margin-top: 8px;
+  min-width: 590px;
+}
+
+.onboard-flight-information-retrieved .overlap-group-4 {
+  border-radius: 28.5px;
+  height: 57px;
+  position: relative;
+  width: 57px;
+}
+
+.onboard-flight-information-retrieved .ic_person_24px {
+  height: 28px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 28px;
+}
+
+.onboard-flight-information-retrieved .ellipse-159 {
+  border: 3px solid var(--absolute-zero);
+  border-radius: 28.5px;
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.onboard-flight-information-retrieved .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 21px;
+  min-height: 292px;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .mr-adam-jones {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 1px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 232px;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .overlap-group3 {
+  height: 99px;
+  position: relative;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .rectangle-146 {
+  background-color: var(--periwinkle-gray);
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .rectangle-146-1 {
+  background-color: var(--periwinkle-gray);
+  height: 34px;
+  left: 256px;
+  position: absolute;
+  top: 0;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .rectangle-1466 {
+  background-color: var(--periwinkle-gray);
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .rectangle-1467 {
+  background-color: var(--periwinkle-gray);
+  height: 34px;
+  left: 256px;
+  position: absolute;
+  top: 33px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .sky-miles-passenger {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .economy-class-1 {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .yes {
+  left: 266px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .overlap-group1-1 {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 65px;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .group-10238 {
+  display: flex;
+  height: 34px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .rectangle-147 {
+  background-color: var(--periwinkle-gray);
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .seat-number-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .d24-1 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .overlap-group2-1 {
+  height: 133px;
+  position: relative;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .rectangle-1470 {
+  background-color: var(--periwinkle-gray);
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .do-not-disturb-mode {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .on {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .meals {
+  left: 236px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .rectangle-1472 {
+  background-color: var(--periwinkle-gray);
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 66px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .rectangle-1473 {
+  background-color: var(--periwinkle-gray);
+  height: 34px;
+  left: 256px;
+  position: absolute;
+  top: 66px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .breakfast {
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 66px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .lunch {
+  left: 260px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 66px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .sri-lankan-kiribath {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 78px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .sri-lankan-special {
+  left: 313px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 76px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .rectangle-1474 {
+  background-color: var(--periwinkle-gray);
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 99px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .rectangle-1475 {
+  background-color: var(--periwinkle-gray);
+  height: 34px;
+  left: 256px;
+  position: absolute;
+  top: 99px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .allergens {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 110px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .pineapple {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 110px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .overlap-group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 512px;
+}
+
+.onboard-flight-information-retrieved .overlap-group {
+  align-items: flex-end;
+  background-color: var(--periwinkle-gray);
+  display: flex;
+  height: 34px;
+  min-width: 256px;
+  padding: 4.5px 8px;
+}
+
+.onboard-flight-information-retrieved .dietary-preferences {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .overlap-group7 {
+  align-items: flex-start;
+  background-color: var(--periwinkle-gray);
+  display: flex;
+  height: 34px;
+  min-width: 256px;
+  padding: 4.5px 11px;
+}
+
+.onboard-flight-information-retrieved .kosher-meat {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .passenger-requests {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 1291px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .meal-dining-times {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 1326px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .rectangle-1480 {
+  background-color: var(--white);
+  height: 987px;
+  left: 238px;
+  position: absolute;
+  top: 1363px;
+  width: 571px;
+}
+
+.onboard-flight-information-retrieved .group-10242 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 267px;
+  min-height: 136px;
+  position: absolute;
+  top: 1390px;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--periwinkle-gray);
+  display: flex;
+  height: 34px;
+  min-width: 512px;
+  padding: 3px 232px;
+}
+
+.onboard-flight-information-retrieved .text-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 26px;
+  min-width: 48px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .overlap-group-2 {
+  height: 34px;
+  position: relative;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .d21 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .chicken-rice {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a15 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .vegetarian-meal-special {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .b24 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .chicken-rice-1 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .group-10243 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 267px;
+  min-height: 136px;
+  position: absolute;
+  top: 1549px;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .d21-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .chicken-rice-2 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a15-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .vegetarian-meal-special-1 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .b24-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .chicken-rice-3 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .group-10244 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 267px;
+  min-height: 136px;
+  position: absolute;
+  top: 1708px;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .d21-2 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .chicken-rice-4 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a15-2 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .vegetarian-meal-special-2 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .b24-2 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .chicken-rice-5 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .group-10245 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 267px;
+  min-height: 136px;
+  position: absolute;
+  top: 1867px;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .d21-3 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .chicken-rice-6 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a15-3 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .vegetarian-meal-special-3 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .b24-3 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .chicken-rice-7 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .group-10246 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 267px;
+  min-height: 136px;
+  position: absolute;
+  top: 2026px;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .d21-4 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .chicken-rice-8 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a15-4 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .vegetarian-meal-special-4 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .b24-4 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .chicken-rice-9 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .group-10247 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 267px;
+  min-height: 136px;
+  position: absolute;
+  top: 2185px;
+  width: 512px;
+}
+
+.onboard-flight-information-retrieved .d21-5 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .chicken-rice-10 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a15-5 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .vegetarian-meal-special-5 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .b24-5 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .chicken-rice-11 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .waste-collecting-times {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 2361px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .rectangle-1481 {
+  background-color: var(--white);
+  height: 264px;
+  left: 78px;
+  position: absolute;
+  top: 2397px;
+  width: 890px;
+}
+
+.onboard-flight-information-retrieved .overlap-group20 {
+  height: 102px;
+  left: 99px;
+  position: absolute;
+  top: 2411px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .group-10248 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 102px;
+  position: absolute;
+  top: 0;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .rectangle-1478 {
+  background-color: var(--periwinkle-gray);
+  height: 34px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .overlap-group-3 {
+  align-items: flex-start;
+  background-color: var(--periwinkle-gray);
+  display: flex;
+  height: 34px;
+  min-width: 256px;
+  padding: 5.5px 8px;
+}
+
+.onboard-flight-information-retrieved .d21-6 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a15-6 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .text {
+  left: 105px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .overlap-group21 {
+  height: 102px;
+  left: 395px;
+  position: absolute;
+  top: 2411px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .d21-7 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a15-7 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .overlap-group22 {
+  height: 102px;
+  left: 691px;
+  position: absolute;
+  top: 2411px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .d21-8 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a15-8 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .overlap-group23 {
+  height: 102px;
+  left: 99px;
+  position: absolute;
+  top: 2536px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .d21-9 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a15-9 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .overlap-group24 {
+  height: 102px;
+  left: 395px;
+  position: absolute;
+  top: 2536px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .d21-10 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a15-10 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .overlap-group25 {
+  height: 102px;
+  left: 691px;
+  position: absolute;
+  top: 2536px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .d21-11 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a15-11 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .do-not-disturb-mode-on {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 2675px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .rectangle-1482 {
+  background-color: var(--white);
+  height: 147px;
+  left: 78px;
+  position: absolute;
+  top: 2705px;
+  width: 890px;
+}
+
+.onboard-flight-information-retrieved .group-10248-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 99px;
+  min-height: 102px;
+  position: absolute;
+  top: 2728px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .e32 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  min-width: 28px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .e33 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .a20 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .group-10248-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 395px;
+  min-height: 102px;
+  position: absolute;
+  top: 2728px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .a21 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  min-width: 29px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .b22 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .c30 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .group-10248-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 691px;
+  min-height: 102px;
+  position: absolute;
+  top: 2728px;
+  width: 256px;
+}
+
+.onboard-flight-information-retrieved .a12 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  min-width: 29px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .b15 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .j21 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information-retrieved .group-10197 {
+  align-items: center;
+  display: flex;
+  height: 67px;
+  left: 44px;
+  min-width: 972px;
+  position: absolute;
+  top: 53px;
+}
+
+.onboard-flight-information-retrieved .portfolio-container {
+  align-self: flex-end;
+  height: 69px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 331px;
+}
+
+.onboard-flight-information-retrieved .portfolio {
+  height: 24px;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 15px;
+  width: 146px;
+}
+
+.onboard-flight-information-retrieved .portfolio-1 {
+  cursor: pointer;
+  height: 68px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  width: 187px;
+}
+
+.onboard-flight-information-retrieved .portfolio-2 {
+  height: 24px;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 45px;
+  width: 111px;
+}
+
+.onboard-flight-information-retrieved .about-me {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: 13.0px;
+  margin-left: 20px;
+  width: 107px;
+}
+
+.onboard-flight-information-retrieved .my-blog {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: 3px;
+  margin-left: 19px;
+  width: 103px;
+}
+
+.onboard-flight-information-retrieved .about-me-1 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: 21.0px;
+  margin-left: 19px;
+  width: 120px;
+}
+
+.onboard-flight-information-retrieved .group-10019 {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  height: 22px;
+  justify-content: space-between;
+  margin-left: 129px;
+  margin-top: 11px;
+  width: 124px;
+}
+
+.onboard-flight-information-retrieved .group-10018 {
+  align-items: flex-end;
+  display: flex;
+  min-width: 70px;
+}
+
+.onboard-flight-information-retrieved .overlap-group-5 {
+  height: 24px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 70px;
+}
+
+.onboard-flight-information-retrieved .reviews {
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.onboard-flight-information-retrieved .ic_person_outline_24px {
+  height: 16px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.onboard-flight-information-retrieved .social {
+  display: flex;
+  height: 14.27px;
+  justify-content: space-between;
+  margin-bottom: -7.1px;
+  margin-right: 0;
+  width: 37.35px;
+}
+
+.onboard-flight-information-retrieved .x043-twitter {
+  background-image: url(../img/vector-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  margin-bottom: 1.3px;
+  margin-left: 0;
+  margin-top: 1.3px;
+  width: 14.27px;
+}
+
+.onboard-flight-information-retrieved .x045-linkedin {
+  background-image: url(../img/vector-19@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  margin-right: 0;
+  width: 14.27px;
+}
+
+.onboard-flight-information-retrieved .ic_expand_more_24px {
+  cursor: pointer;
+  height: 12px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 167px;
+  width: 7px;
+}
+
+.onboard-flight-information-retrieved .ic_expand_more_24px-1 {
+  cursor: pointer;
+  height: 7px;
+  left: 966px;
+  object-fit: cover;
+  position: absolute;
+  top: 194px;
+  width: 12px;
+}

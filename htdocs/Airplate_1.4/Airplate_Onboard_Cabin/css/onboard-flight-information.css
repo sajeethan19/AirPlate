@@ -1,0 +1,1379 @@
+/* screen - onboard-flight-information */
+
+.onboard-flight-information {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2523px;
+  overflow: hidden;
+  width: 1024px;
+}
+
+.onboard-flight-information .overlap-group35 {
+  background-color: var(--periwinkle-gray);
+  height: 142px;
+  margin-left: -11px;
+  margin-top: -20px;
+  position: relative;
+  width: 1048px;
+}
+
+.onboard-flight-information .rectangle-4 {
+  background-color: var(--black);
+  height: 2px;
+  left: 240px;
+  position: absolute;
+  top: 96px;
+  width: 114px;
+}
+
+.onboard-flight-information .group-10197 {
+  align-items: center;
+  display: flex;
+  height: 67px;
+  left: 44px;
+  min-width: 972px;
+  position: absolute;
+  top: 53px;
+}
+
+.onboard-flight-information .portfolio-container {
+  align-self: flex-end;
+  height: 69px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 331px;
+}
+
+.onboard-flight-information .portfolio {
+  height: 24px;
+  left: 185px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 15px;
+  width: 146px;
+}
+
+.onboard-flight-information .portfolio-1 {
+  cursor: pointer;
+  height: 68px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  width: 187px;
+}
+
+.onboard-flight-information .portfolio-2 {
+  height: 24px;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 45px;
+  width: 111px;
+}
+
+.onboard-flight-information .about-me {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: 13.0px;
+  margin-left: 20px;
+  width: 107px;
+}
+
+.onboard-flight-information .my-blog {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: 3px;
+  margin-left: 19px;
+  width: 103px;
+}
+
+.onboard-flight-information .about-me-1 {
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: 21.0px;
+  margin-left: 19px;
+  width: 120px;
+}
+
+.onboard-flight-information .group-10019 {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  height: 22px;
+  justify-content: space-between;
+  margin-left: 129px;
+  margin-top: 11px;
+  width: 124px;
+}
+
+.onboard-flight-information .group-10018 {
+  align-items: flex-end;
+  display: flex;
+  min-width: 70px;
+}
+
+.onboard-flight-information .overlap-group-3 {
+  height: 24px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 70px;
+}
+
+.onboard-flight-information .reviews {
+  height: 24px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.onboard-flight-information .ic_person_outline_24px {
+  height: 16px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.onboard-flight-information .social {
+  display: flex;
+  height: 14.27px;
+  justify-content: space-between;
+  margin-bottom: -7.1px;
+  margin-right: 0;
+  width: 37.35px;
+}
+
+.onboard-flight-information .x043-twitter {
+  background-image: url(../img/vector-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  margin-bottom: 1.3px;
+  margin-left: 0;
+  margin-top: 1.3px;
+  width: 14.27px;
+}
+
+.onboard-flight-information .x045-linkedin {
+  background-image: url(../img/vector-19@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  margin-right: 0;
+  width: 14.27px;
+}
+
+.onboard-flight-information .overlap-group33 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 103px;
+  min-width: 1024px;
+  padding: 10.5px 26.6px;
+}
+
+.onboard-flight-information .ic_expand_more_24px {
+  height: 12px;
+  margin-top: 14.5px;
+  object-fit: cover;
+  width: 7px;
+}
+
+.onboard-flight-information .colombo-cmb-to-mel {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: 77px;
+  min-height: 62px;
+  min-width: 402px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .span1 {
+  text-decoration: underline;
+}
+
+.onboard-flight-information .overlap-group36 {
+  align-self: center;
+  border-radius: 5px;
+  height: 54px;
+  margin-left: 232px;
+  margin-top: 1.0px;
+  position: relative;
+  width: 248px;
+}
+
+.onboard-flight-information .group-10268 {
+  align-items: flex-end;
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  height: 54px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 248px;
+  padding: 10px 61px;
+  position: absolute;
+  top: 0;
+}
+
+.onboard-flight-information .view-summary {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 26px;
+  min-width: 124px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .ic_expand_more_24px-1 {
+  height: 7px;
+  left: 210px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 12px;
+}
+
+.onboard-flight-information .flight-seat-plan {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 34px;
+  margin-top: 10px;
+  min-height: 34px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .overlap-group34 {
+  height: 2246px;
+  margin-top: 8px;
+  position: relative;
+  width: 1024px;
+}
+
+.onboard-flight-information .path-1339 {
+  height: 1952px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 294px;
+  width: 1024px;
+}
+
+.onboard-flight-information .image-60 {
+  height: 208px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 956px;
+}
+
+.onboard-flight-information .retrieve-passenger-information {
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 336px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .group-10199 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 34px;
+  min-height: 194px;
+  position: absolute;
+  top: 386px;
+  width: 591px;
+}
+
+.onboard-flight-information .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 124px;
+  min-width: 591px;
+}
+
+.onboard-flight-information .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 124px;
+  width: 273px;
+}
+
+.onboard-flight-information .overlap-group-4 {
+  background-image: url(../img/group-10001-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 54px;
+  position: relative;
+  width: 273px;
+}
+
+.onboard-flight-information .flight-number {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 15px;
+  opacity: 0.5;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .ul-314 {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 18px;
+  opacity: 0.5;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .overlap-group2-1 {
+  background-image: url(../img/group-10001-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 54px;
+  margin-top: 16px;
+  position: relative;
+  width: 273px;
+}
+
+.onboard-flight-information .seat-number {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .d24 {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .airline-container {
+  background-image: url(../img/group-10001-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 54px;
+  margin-left: 45px;
+  position: relative;
+  width: 273px;
+}
+
+.onboard-flight-information .airline {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 15px;
+  opacity: 0.5;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .sri-lankan-airlines {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 18px;
+  opacity: 0.5;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .group-10016 {
+  cursor: pointer;
+  display: flex;
+  height: 54px;
+  margin-left: 21.0px;
+  margin-top: 16px;
+  width: 248px;
+}
+
+.onboard-flight-information .group-10236 {
+  align-items: flex-end;
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 248px;
+  padding: 10px 88px;
+}
+
+.onboard-flight-information .retrieve {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 26px;
+  min-width: 70px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .rectangle-1458 {
+  background-color: var(--absolute-zero);
+  height: 91px;
+  left: 0;
+  position: absolute;
+  top: 206px;
+  width: 256px;
+}
+
+.onboard-flight-information .rectangle-1459 {
+  background-color: var(--absolute-zero);
+  height: 91px;
+  left: 256px;
+  position: absolute;
+  top: 206px;
+  width: 256px;
+}
+
+.onboard-flight-information .rectangle-1460 {
+  background-color: var(--absolute-zero);
+  height: 91px;
+  left: 512px;
+  position: absolute;
+  top: 206px;
+  width: 256px;
+}
+
+.onboard-flight-information .rectangle-1461 {
+  background-color: var(--absolute-zero);
+  height: 91px;
+  left: 768px;
+  position: absolute;
+  top: 206px;
+  width: 256px;
+}
+
+.onboard-flight-information .all {
+  left: 114px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 224px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .first-class {
+  left: 321px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 224px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .business-class {
+  left: 556px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 224px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .economy-class {
+  left: 814px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 224px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .number {
+  left: 108px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 253px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .number-1 {
+  left: 366px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 253px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .number-2 {
+  left: 625px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 253px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .number-3 {
+  left: 883px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 253px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .group-10060 {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  left: 396px;
+  min-width: 429px;
+  position: absolute;
+  top: 325px;
+}
+
+.onboard-flight-information .search-container {
+  align-items: center;
+  background-image: url(../img/path-1333-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 370px;
+  padding: 11.5px 18.9px;
+}
+
+.onboard-flight-information .search-passengers {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  min-width: 129px;
+  opacity: 0.75;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .ic_search_white {
+  height: 21px;
+  margin-left: 173px;
+  margin-top: 1.08px;
+  object-fit: cover;
+  width: 21px;
+}
+
+.onboard-flight-information .path-container {
+  align-items: flex-end;
+  background-image: url(../img/path-914-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-left: 9px;
+  margin-top: 0.23px;
+  min-height: 49px;
+  padding: 14.5px 12.5px;
+  width: 49px;
+}
+
+.onboard-flight-information .path-714 {
+  height: 5px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.onboard-flight-information .path-71 {
+  height: 5px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.onboard-flight-information .passenger-requests {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 640px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .meal-dining-times {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 675px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .rectangle-1480 {
+  background-color: var(--white);
+  height: 987px;
+  left: 227px;
+  position: absolute;
+  top: 712px;
+  width: 571px;
+}
+
+.onboard-flight-information .group-10242 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 256px;
+  min-height: 136px;
+  position: absolute;
+  top: 739px;
+  width: 512px;
+}
+
+.onboard-flight-information .overlap-group {
+  align-items: flex-end;
+  background-color: var(--periwinkle-gray);
+  display: flex;
+  height: 34px;
+  min-width: 512px;
+  padding: 3px 232px;
+}
+
+.onboard-flight-information .text {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-height: 26px;
+  min-width: 48px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .overlap-group-1 {
+  height: 34px;
+  position: relative;
+  width: 512px;
+}
+
+.onboard-flight-information .group-10238 {
+  display: flex;
+  height: 34px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 512px;
+}
+
+.onboard-flight-information .rectangle-147 {
+  background-color: var(--periwinkle-gray);
+  width: 256px;
+}
+
+.onboard-flight-information .d21 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .chicken-rice {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a15 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .vegetarian-meal-special {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .b24 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .chicken-rice-1 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .group-10243 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 256px;
+  min-height: 136px;
+  position: absolute;
+  top: 898px;
+  width: 512px;
+}
+
+.onboard-flight-information .d21-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .chicken-rice-2 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a15-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .vegetarian-meal-special-1 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .b24-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .chicken-rice-3 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .group-10244 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 256px;
+  min-height: 136px;
+  position: absolute;
+  top: 1057px;
+  width: 512px;
+}
+
+.onboard-flight-information .d21-2 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .chicken-rice-4 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a15-2 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .vegetarian-meal-special-2 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .b24-2 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .chicken-rice-5 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .group-10245 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 256px;
+  min-height: 136px;
+  position: absolute;
+  top: 1216px;
+  width: 512px;
+}
+
+.onboard-flight-information .d21-3 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .chicken-rice-6 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a15-3 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .vegetarian-meal-special-3 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .b24-3 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .chicken-rice-7 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .group-10246 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 256px;
+  min-height: 136px;
+  position: absolute;
+  top: 1375px;
+  width: 512px;
+}
+
+.onboard-flight-information .d21-4 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .chicken-rice-8 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a15-4 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .vegetarian-meal-special-4 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .b24-4 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .chicken-rice-9 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .group-10247 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 256px;
+  min-height: 136px;
+  position: absolute;
+  top: 1534px;
+  width: 512px;
+}
+
+.onboard-flight-information .d21-5 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .chicken-rice-10 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a15-5 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .vegetarian-meal-special-5 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .b24-5 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .chicken-rice-11 {
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .waste-collecting-times {
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 1710px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .rectangle-1481 {
+  background-color: var(--white);
+  height: 264px;
+  left: 67px;
+  position: absolute;
+  top: 1746px;
+  width: 890px;
+}
+
+.onboard-flight-information .overlap-group17 {
+  height: 102px;
+  left: 88px;
+  position: absolute;
+  top: 1760px;
+  width: 256px;
+}
+
+.onboard-flight-information .group-10248 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 102px;
+  position: absolute;
+  top: 0;
+  width: 256px;
+}
+
+.onboard-flight-information .rectangle-1478 {
+  background-color: var(--periwinkle-gray);
+  height: 34px;
+  width: 256px;
+}
+
+.onboard-flight-information .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--periwinkle-gray);
+  display: flex;
+  height: 34px;
+  min-width: 256px;
+  padding: 5.5px 8px;
+}
+
+.onboard-flight-information .d21-6 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a15-6 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .text-1 {
+  left: 105px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .overlap-group18 {
+  height: 102px;
+  left: 384px;
+  position: absolute;
+  top: 1760px;
+  width: 256px;
+}
+
+.onboard-flight-information .d21-7 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a15-7 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .overlap-group19 {
+  height: 102px;
+  left: 680px;
+  position: absolute;
+  top: 1760px;
+  width: 256px;
+}
+
+.onboard-flight-information .d21-8 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a15-8 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .overlap-group20 {
+  height: 102px;
+  left: 88px;
+  position: absolute;
+  top: 1885px;
+  width: 256px;
+}
+
+.onboard-flight-information .d21-9 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a15-9 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .overlap-group21 {
+  height: 102px;
+  left: 384px;
+  position: absolute;
+  top: 1885px;
+  width: 256px;
+}
+
+.onboard-flight-information .d21-10 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a15-10 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .overlap-group22 {
+  height: 102px;
+  left: 680px;
+  position: absolute;
+  top: 1885px;
+  width: 256px;
+}
+
+.onboard-flight-information .d21-11 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a15-11 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .do-not-disturb-mode-on {
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 2024px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .rectangle-1482 {
+  background-color: var(--white);
+  height: 147px;
+  left: 67px;
+  position: absolute;
+  top: 2054px;
+  width: 890px;
+}
+
+.onboard-flight-information .group-10248-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 88px;
+  min-height: 102px;
+  position: absolute;
+  top: 2077px;
+  width: 256px;
+}
+
+.onboard-flight-information .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--periwinkle-gray);
+  display: flex;
+  height: 34px;
+  min-width: 256px;
+  padding: 4.5px 8px;
+}
+
+.onboard-flight-information .e32 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  min-width: 28px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .e33 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .a20 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .group-10248-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 384px;
+  min-height: 102px;
+  position: absolute;
+  top: 2077px;
+  width: 256px;
+}
+
+.onboard-flight-information .a21 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  min-width: 29px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .b22 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .c30 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .group-10248-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 680px;
+  min-height: 102px;
+  position: absolute;
+  top: 2077px;
+  width: 256px;
+}
+
+.onboard-flight-information .a12 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  min-width: 29px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .b15 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.onboard-flight-information .j21 {
+  letter-spacing: 0;
+  line-height: 15px;
+  min-height: 22px;
+  white-space: nowrap;
+}

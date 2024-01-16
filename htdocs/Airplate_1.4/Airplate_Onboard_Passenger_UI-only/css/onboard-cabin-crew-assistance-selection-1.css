@@ -1,0 +1,1026 @@
+/* screen - onboard-cabin-crew-assistance-selection-1 */
+
+.onboard-cabin-crew-assistance-selection-1 {
+  background-color: var(--white);
+  height: 1366px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1024px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .path-1339-r0f46P {
+  background-color: transparent;
+  height: 1153px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 213px;
+  width: 1024px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .rectangle-1336-r0f46P {
+  background-color: var(--periwinkle-gray);
+  height: 142px;
+  left: -11px;
+  position: absolute;
+  top: -20px;
+  width: 1048px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10202-r0f46P {
+  background-color: transparent;
+  height: 349px;
+  left: 0px;
+  position: absolute;
+  top: 610px;
+  width: 1024px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .do-not-disturb-mode-on-HVnqQ9 {
+  background-color: transparent;
+  height: 34px;
+  left: calc(26.90% - 73px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(45.08% - 15px);
+  white-space: nowrap;
+  width: 273px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .rectangle-1335-HVnqQ9 {
+  background-color: var(--white);
+  height: 103px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .rectangle-5-HVnqQ9 {
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  cursor: pointer;
+  height: 54px;
+  position: absolute;
+  right: 31px;
+  top: 25px;
+  width: 248px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .view-summary-HVnqQ9 {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: 92px;
+  text-align: center;
+  top: 43px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .colombo-cmb-to-melbo-HVnqQ9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 62px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: 377px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .span0-iC4CYs {
+}
+
+.onboard-cabin-crew-assistance-selection-1 .span1-iC4CYs {
+  text-decoration: underline;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .select-meal-dining-time-HVnqQ9 {
+  background-color: transparent;
+  bottom: calc(21.90% - 7px);
+  height: 34px;
+  left: calc(23.35% - 62px);
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 266px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .do-not-disturb-mode-HVnqQ9 {
+  background-color: transparent;
+  bottom: calc(43.96% - 11px);
+  height: 26px;
+  left: calc(43.92% - 273px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 621px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10032-HVnqQ9 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 54px;
+  left: calc(25.58% - 85px);
+  position: absolute;
+  width: 332px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10214-YEGV1B {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10001-VUSBsr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .breakfast-VUSBsr {
+  background-color: transparent;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .x0800-gmt-VUSBsr {
+  background-color: transparent;
+  bottom: calc(14.29% - 4px);
+  height: 26px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .ic_expand_more_24px-VUSBsr {
+  background-color: transparent;
+  bottom: calc(36.80% - 3px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 12px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10033-HVnqQ9 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 54px;
+  position: absolute;
+  right: 138px;
+  width: 332px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10001-7Af6Hv {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .lunch-7Af6Hv {
+  background-color: transparent;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .x1330-gmt-7Af6Hv {
+  background-color: transparent;
+  bottom: calc(14.29% - 4px);
+  height: 26px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .ic_expand_more_24px-7Af6Hv {
+  background-color: transparent;
+  bottom: calc(36.80% - 3px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 12px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .lukas-souza-5-krfo-tnpnn-y-unsplash-r0f46P {
+  background-color: transparent;
+  height: 488px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 122px;
+  width: 1024px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10208-r0f46P {
+  background-color: transparent;
+  height: 70px;
+  left: 89px;
+  position: absolute;
+  top: 745px;
+  width: 70px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-1305-ybvxn8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-1303-pg6xgQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .path-739-9R8vFz {
+  background-color: transparent;
+  height: calc(100.00% + 21px);
+  left: -15px;
+  object-fit: cover;
+  position: absolute;
+  top: -15px;
+  width: calc(100.00% + 21px);
+}
+
+.onboard-cabin-crew-assistance-selection-1 .ic_brightness_2_24px-ybvxn8 {
+  background-color: transparent;
+  height: calc(100.00% - 33px);
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 13px);
+  top: 17px;
+  width: 26px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10209-r0f46P {
+  background-color: transparent;
+  height: 70px;
+  left: 89px;
+  position: absolute;
+  top: 846px;
+  width: 70px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-1305-IfB7nZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-1303-Xwhkob {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .path-739-vIQbxY {
+  background-color: transparent;
+  height: calc(100.00% + 21px);
+  left: -15px;
+  object-fit: cover;
+  position: absolute;
+  top: -15px;
+  width: calc(100.00% + 21px);
+}
+
+.onboard-cabin-crew-assistance-selection-1 .select-waste-collecting-time-r0f46P {
+  background-color: transparent;
+  height: auto;
+  left: 177px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 982px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10211-r0f46P {
+  background-color: transparent;
+  height: 54px;
+  left: 554px;
+  position: absolute;
+  top: 1031px;
+  width: 332px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10001-6F04Ex {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .lunch-6F04Ex {
+  background-color: transparent;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .x1430-gmt-6F04Ex {
+  background-color: transparent;
+  bottom: calc(14.29% - 4px);
+  height: 26px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .ic_expand_more_24px-6F04Ex {
+  background-color: transparent;
+  bottom: calc(36.80% - 3px);
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 12px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10212-r0f46P {
+  background-color: transparent;
+  height: 70px;
+  left: 89px;
+  position: absolute;
+  top: 974px;
+  width: 70px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-1305-dkKrAH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-1303-NhhdQG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .path-739-9HinqO {
+  background-color: transparent;
+  height: calc(100.00% + 21px);
+  left: -15px;
+  object-fit: cover;
+  position: absolute;
+  top: -15px;
+  width: calc(100.00% + 21px);
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-1283-dkKrAH {
+  background-color: transparent;
+  height: 35px;
+  position: absolute;
+  right: calc(50.00% - 17px);
+  top: calc(50.00% - 17px);
+  width: 35px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .path-702-pjlFog {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.onboard-cabin-crew-assistance-selection-1 .path-703-pjlFog {
+  background-color: transparent;
+  height: 18px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.76% - 3px);
+  top: calc(38.34% - 7px);
+  width: 8px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .ic_restaurant_menu_24px-r0f46P {
+  background-color: transparent;
+  height: 33px;
+  left: 107px;
+  object-fit: cover;
+  position: absolute;
+  top: 865px;
+  width: 34px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .rectangle-4-r0f46P {
+  background-color: var(--black);
+  height: 2px;
+  left: 496px;
+  position: absolute;
+  top: 91px;
+  width: 114px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10216-r0f46P {
+  background-color: transparent;
+  height: 245px;
+  left: 177px;
+  position: absolute;
+  top: 1031px;
+  width: 335px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10215-eNEL2a {
+  background-color: transparent;
+  height: calc(100.00% - 50px);
+  left: 0px;
+  position: absolute;
+  top: 50px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .rectangle-1441-uWxakb {
+  background-color: var(--white);
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .rectangle-1442-uWxakb {
+  background-color: var(--white);
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  top: calc(19.38% - 7px);
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .rectangle-1443-uWxakb {
+  background-color: #7070704d;
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  top: calc(40.62% - 14px);
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .rectangle-1444-uWxakb {
+  background-color: var(--white);
+  bottom: calc(40.00% - 14px);
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .rectangle-1445-uWxakb {
+  background-color: var(--white);
+  bottom: calc(19.38% - 7px);
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .rectangle-1446-uWxakb {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 35px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10210-eNEL2a {
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 3px);
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10001-o8pjAE {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .breakfast-o8pjAE {
+  background-color: transparent;
+  height: 22px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .x0900-gmt-o8pjAE {
+  background-color: transparent;
+  height: 26px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .ic_expand_more_24px-o8pjAE {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  top: 29px;
+  width: 12px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .x0830-gmt-o8pjAE {
+  background-color: transparent;
+  height: 26px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(28.23% - 7px);
+  white-space: nowrap;
+  width: 92px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .x0845-gmt-o8pjAE {
+  background-color: transparent;
+  height: 26px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(42.58% - 11px);
+  white-space: nowrap;
+  width: 92px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .x0900-gmt-DtTpre {
+  background-color: transparent;
+  bottom: calc(43.06% - 11px);
+  height: 26px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .x0915-gmt-o8pjAE {
+  background-color: transparent;
+  bottom: calc(26.32% - 7px);
+  height: 26px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .x0930-gmt-o8pjAE {
+  background-color: transparent;
+  bottom: 25px;
+  height: 26px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .x0945-gmt-o8pjAE {
+  background-color: transparent;
+  bottom: -5px;
+  height: 26px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .ic_radio_button_checked_24px-r0f46P {
+  background-color: transparent;
+  height: 20px;
+  left: 177px;
+  object-fit: cover;
+  position: absolute;
+  top: 755px;
+  width: 20px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10260-r0f46P {
+  background-color: transparent;
+  height: 66px;
+  left: 33px;
+  position: absolute;
+  top: 33px;
+  width: 972px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10197-Q0Gw1j {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .portfolio-JEc0rb {
+  background-color: transparent;
+  height: 24px;
+  left: calc(22.39% - 33px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.71% - 9px);
+  width: 146px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .about-me-JEc0rb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(40.56% - 43px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: calc(35.71% - 9px);
+  width: 107px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .my-blog-JEc0rb {
+  background-color: transparent;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(45.13% - 46px);
+  text-align: left;
+  top: 11px;
+  width: 103px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .portfolio-YE53G4 {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 187px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10019-JEc0rb {
+  background-color: transparent;
+  height: 22px;
+  position: absolute;
+  right: 0px;
+  top: calc(25.00% - 6px);
+  width: 120px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .social-xQ7Z3G {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  height: 14px;
+  position: absolute;
+  right: 0px;
+  width: 37px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .x043-twitter-e4biYO {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 14px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .vector-y6CTNE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .x045-linkedin-e4biYO {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 14px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .vector-3uxVuX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10018-xQ7Z3G {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .reviews-yFlNqg {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.onboard-cabin-crew-assistance-selection-1 .ic_person_outline_24px-yFlNqg {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: 2px;
+  width: 16px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .about-me-YE53G4 {
+  background-color: transparent;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(29.72% - 36px);
+  text-align: left;
+  top: calc(26.19% - 6px);
+  width: 120px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .portfolio-Q0Gw1j {
+  background-color: transparent;
+  bottom: -2px;
+  height: 24px;
+  left: 114px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  width: 43px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10286-r0f46P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 651px;
+  left: 0px;
+  position: absolute;
+  top: 715px;
+  width: 1024px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .rectangle-432-3cpaiZ {
+  -webkit-backdrop-filter: blur(16.28420066833496px) brightness(115%);
+  backdrop-filter: blur(16.28420066833496px) brightness(115%);
+  background-color: transparent;
+  border-radius: 19px;
+  box-shadow: 0px 3px 20px #2e476517;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10287-r0f46P {
+  background-color: transparent;
+  height: 319px;
+  left: 356px;
+  position: absolute;
+  top: 816px;
+  width: 312px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10264-aICD2K {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10261-sdXIHS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10195-Pm8WDk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .group-10194-yIGClb {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .rectangle-432-VQWxrO {
+  background-color: var(--white);
+  border-radius: 19px;
+  box-shadow: 0px 3px 20px #2e476517;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .flight-code-e13-k2de-Pm8WDk {
+  background-color: transparent;
+  bottom: 15px;
+  height: 222px;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 220px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .adam-jones-Pm8WDk {
+  background-color: transparent;
+  height: 28px;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 41px;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .ellipse-158-sdXIHS {
+  background-color: var(--periwinkle-gray);
+  border-radius: 12.5px;
+  cursor: pointer;
+  height: 25px;
+  position: absolute;
+  right: 13px;
+  top: 15px;
+  width: 25px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .ic_clear_24px-aICD2K {
+  background-color: transparent;
+  height: 14px;
+  object-fit: cover;
+  position: absolute;
+  right: 18px;
+  top: 21px;
+  width: 14px;
+}
+
+.onboard-cabin-crew-assistance-selection-1 .ic_expand_more_24px-r0f46P {
+  background-color: transparent;
+  cursor: pointer;
+  height: 7px;
+  left: 950px;
+  object-fit: cover;
+  position: absolute;
+  top: 661px;
+  width: 12px;
+}

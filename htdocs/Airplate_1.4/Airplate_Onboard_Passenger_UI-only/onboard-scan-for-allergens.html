@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1024, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/onboard-scan-for-allergens.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="onboard-scan-for-allergens" />
+    <div class="container-center-horizontal">
+      <div class="onboard-scan-for-allergens screen">
+        <img class="path-1339-AixGwp" src="img/path-1339-17@1x.png" />
+        <div class="rectangle-1336-AixGwp border-1px-periwinkle-gray"></div>
+        <div class="rectangle-1335-AixGwp border-1px-white"></div>
+        <a href="onboard-scan-for-allergens-1.html"> <div class="rectangle-5-AixGwp"></div></a>
+        <div class="view-summary-AixGwp roboto-bold-white-18px">View Summary</div>
+        <a href="onboard-manage-your-booking.html"
+          ><div class="colombo-cmb-to-melbo-AixGwp roboto-normal-absolute-zero-15px-2">
+            <span class="span0-xplvpk roboto-normal-log-cabin-15px"
+              >Colombo (CMB) to Melbourne (MEL)<br /><br />One way • 1 passenger •Long-haul flight •</span
+            ><span class="span1-xplvpk roboto-normal-absolute-zero-15px"> Change search</span>
+          </div>
+        </a>
+        <div class="rectangle-4-AixGwp"></div>
+        <img class="getty_160539141_335403-AixGwp" src="img/getty-160539141-335403-1@1x.png" />
+        <a href="onboard-meal-analysis.html">
+          <div class="group-10225-AixGwp">
+            <div class="group-10217-fi3po1">
+              <div class="scan-for-allergens-5f659O roboto-black-log-cabin-24px">Scan for allergens</div>
+              <div class="group-1305-5f659O">
+                <div class="group-1303-cgxYcc"><img class="path-739-JeY8hb" src="img/path-739-10@1x.png" /></div>
+              </div>
+              <div class="scan-your-meal-to-de-5f659O roboto-normal-log-cabin-18px">
+                Scan your meal to determine what allergen food items are present in your meal.
+                <br>
+              </a>
+
+              <div class="image-pro">
+              <button type="button" onclick="init()" class="btn btn-primary" id="webcambut">Scan from Webcam</button>
+              <div id="webcam-container" style="padding: 10px;"></div>
+              <div id="label-container"></div><br>
+              <img id="output" width="200"  style="padding: 30px; "><br>
+              <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
+              <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
+              <script type="text/javascript">
+                 
+                  const URL = "https://teachablemachine.withgoogle.com/models/Bia7QmK3p/";
+
+                  let model, webcam, labelContainer, maxPredictions;
+
+                  // Load the image model and setup the webcam
+                  async function init() {
+                      const modelURL = URL + "model.json";
+                      const metadataURL = URL + "metadata.json";
+
+                      // load the model and metadata
+                      // Refer to tmImage.loadFromFiles() in the API to support files from a file picker
+                      // or files from your local hard drive
+                      // Note: the pose library adds "tmImage" object to your window (window.tmImage)
+                      model = await tmImage.load(modelURL, metadataURL);
+                      maxPredictions = model.getTotalClasses();
+
+                      // Convenience function to setup a webcam
+                      const flip = true; // whether to flip the webcam
+                      webcam = new tmImage.Webcam(200, 200, flip); // width, height, flip
+                      await webcam.setup(); // request access to the webcam
+                      await webcam.play();
+                      window.requestAnimationFrame(loop);
+
+                      // append elements to the DOM
+                      document.getElementById("webcam-container").appendChild(webcam.canvas);
+                      labelContainer = document.getElementById("label-container");
+                      for (let i = 0; i < maxPredictions; i++) { // and class labels
+                          labelContainer.appendChild(document.createElement("div"));
+                      }
+                  }
+
+                  async function loop() {
+                      webcam.update(); // update the webcam frame
+                      await predict();
+                      window.requestAnimationFrame(loop);
+                  }
+                  
+                  // run the webcam image through the image model
+                  async function predict() {
+                      // predict can take in an image, video or canvas html element
+                      const prediction = await model.predict(webcam.canvas);
+                      for (let i = 0; i < maxPredictions; i++) {
+                          const classPrediction =
+                              prediction[i].className + ": " + prediction[i].probability.toFixed(2);
+                          labelContainer.childNodes[i].innerHTML = classPrediction;
+                      }
+                  }
+
+              
+                </script>
+                  <button type="button" id="start"  style="margin: 10px;" class="btn btn-primary">Test from selected file</button>
+                  <input type="file" name="" id="test" >
+                  <br>
+                  
+                  <canvas id="canvas" width="640" height="360">
+                  
+                  </canvas>
+                  <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+                  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
+                  <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
+                  <script type="text/javascript">
+                    
+                    function readURL(input) {
+                        if (input.files && input.files[0]) {
+                            var reader = new FileReader();
+
+                            reader.onload = function (e) {
+                                $('#output').attr('src', e.target.result);
+                            }
+
+                            reader.readAsDataURL(input.files[0]);
+                        }
+                    }
+
+                    $("#test").change(function(){
+                        readURL(this);
+                    });
+                    
+                    
+
+                    $(Document).ready(function(){
+                      $("#start").click(function(){
+                        $("#webcam-container").hide();
+                        $("#label-container").hide();
+                        $("#output").show();
+                      
+                    });
+
+                      $("#test").click(function(){
+                        $("#webcam-container").hide();
+                        $("#label-container").hide();
+                        $("#output").show();
+                        
+                      });
+                      $("#webcambut").click(function(){
+                        $("#output").hide();
+                        $("#label-container").show();
+                        $("#webcam-container").show();
+                      });
+                    })
+                    
+
+                      
+
+                        // predict drawing on canvas when button is pressed
+                        document.getElementById('start').addEventListener('click', async function() {
+                          const modelURL = URL + "model.json";
+                          const metadataURL = URL + "metadata.json";
+
+                          // load the model and metadata
+                          // Refer to tmImage.loadFromFiles() in the API to support files from a file picker
+                          // or files from your local hard drive
+                          // Note: the pose library adds "tmImage" object to your window (window.tmImage)
+                          model = await tmImage.load(modelURL, metadataURL);
+                          maxPredictions = model.getTotalClasses();
+
+                          let canvas = document.getElementById("canvas");
+                          let image = document.getElementById("output");
+
+                          const prediction = await model.predict(image);
+                          
+                          let mes = ""
+                          if(prediction[0].probability.toFixed(5) >0.6){
+                            mes+="Your food component contains Nuts, this may cause allergic reactions to you"
+                          }
+                          if(prediction[1].probability.toFixed(5) >0.6){
+                            mes+="Your food component contains Pineapple, this may cause allergic reactions to you"
+                          }
+                          if(prediction[2].probability.toFixed(5) >0.6){
+                            mes+="Your food component contains Prawns, this may cause allergic reactions to you"
+                          }
+                          if(prediction[3].probability.toFixed(5) >0.7 && prediction[2].probability.toFixed(5)<0.5 && prediction[1].probability.toFixed(5)<0.5 &&prediction[0].probability.toFixed(5)<0.5){
+                            mes+="This is a non-food component, please scan another dish on your plate"
+                          }
+                          if(prediction[3].probability.toFixed(5) < 0.7 && prediction[2].probability.toFixed(5)<0.5 && prediction[1].probability.toFixed(5)<0.5 &&prediction[0].probability.toFixed(5)<0.5){
+                            mes+= "your food has No allergy"
+                          }
+                          alert(mes);
+
+
+                        });
+
+
+                     
+                  </script>
+                  </div>
+                  <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+
+                
+
+
+              </div>
+              
+            </div>
+            <img class="ic_center_focus_weak_24px-fi3po1" src="img/ic-center-focus-weak-24px-1@1x.png" /></div>
+            <a href="onboard-meal-analysis.html"
+          ><img class="ic_expand_more_24px-AixGwp" src="img/ic-expand-more-24px-22@1x.png" />
+        </a>
+        
+        
+        <div class="group-10260-AixGwp">
+          <div class="group-10197-vk4XxN">
+            <a href="onboard-select-meals.html"
+              ><div class="portfolio-h0mZEq circularstd-medium-black-17px">Manage Bookings</div> </a
+            ><a href="onboard-menu.html"
+              ><div class="about-me-h0mZEq circularstd-medium-black-17px">Digital Menu</div> </a
+            ><a href="onboard-cabin-crew-assistance.html"
+              ><div class="my-blog-h0mZEq circularstd-medium-black-17px">Cabin Crew Assistance</div>
+            </a>
+            <div class="portfolio-X6xVal circularstd-medium-black-40px">airplate</div>
+            <a href="onboard-edit-profile.html">
+              <div class="group-10019-h0mZEq">
+                <div class="social-fS8Z7r">
+                  <div class="x043-twitter-uPY1tA"><img class="vector-wcK84e" src="img/vector-10@1x.png" /></div>
+                  <div class="x045-linkedin-uPY1tA"><img class="vector-qVn9wv" src="img/vector-11@1x.png" /></div>
+                </div>
+                <div class="group-10018-fS8Z7r">
+                  <div class="reviews-AJ22cd circularstd-medium-black-17px">Adam</div>
+                  <img class="ic_person_outline_24px-AJ22cd" src="img/ic-person-outline-24px-10@1x.png" />
+                </div></div
+            ></a>
+            <div class="about-me-X6xVal circularstd-medium-black-17px">Meal Analysis</div>
+          </div>
+          <div class="portfolio-vk4XxN circularstd-medium-black-17px">PAX</div>
+        </div>
+        <a href="onboard-scan-for-allergens-1.html"
+          ><img class="ic_expand_more_24px-63xu64" src="img/ic-expand-more-24px-11@1x.png" />
+        </a>
+      </div>
+    </div>
+  </body>
+</html>

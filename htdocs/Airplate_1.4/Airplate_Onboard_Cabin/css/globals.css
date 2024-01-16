@@ -1,0 +1,73 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,900,500,400italic");
+@font-face {
+  font-family: "CircularStd-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/CircularStd-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: "GoogleSans-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/GoogleSans-Regular-v1.27.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AbhayaLibre ExtraBold-Regular";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/AbhayaLibre-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SofiaPro-SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/Sofia Pro SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ProximaNova-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/.139.otf") format("opentype");
+}
+@font-face {
+  font-family: "ProximaNova-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Mark Simonson - Proxima Nova A.otf") format("opentype");
+}
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/61f1a7ef6b45dbe9ab53b268.61f1a7f1a49dd5a60df3cde6.vUUdz3P.hcp.png");
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+
+.social{
+  transform: translateY(-10px);
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+* {
+  box-sizing: border-box;
+}
