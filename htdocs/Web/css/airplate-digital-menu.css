@@ -1,0 +1,9644 @@
+/* screen - airplate-digital-menu */
+
+.airplate-digital-menu {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1733px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+  transform:scaleX(80%) translateX(-12.4%) scaleY(70%) translateY(-22%);
+}
+
+.airplate-digital-menu .path-1339-mlvmH5 {
+  background-color: transparent;
+  height: calc(100.00% - 213px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 213px;
+  width: 100%;
+}
+
+.dropmenu{
+  display: none;
+  position: absolute;
+  background-color: #f6f6f6;
+  min-width: 230px;
+  overflow: auto;
+  border: 1px solid #ddd;
+  z-index: 1;
+}
+.show {display: block;}
+
+#dropmenu a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.roundC{
+  height: 34px;
+}
+.airplate-digital-menu .rectangle-1336-mlvmH5 {
+  background-color: var(--periwinkle-gray);
+  height: 142px;
+  left: -13px;
+  position: absolute;
+  top: -20px;
+  width: calc(100.00% + 38px);
+}
+
+.group-10189-mlvmH5 li{
+  padding: 10px;
+  margin: 10px 35px 10px 0;
+  background-color: var(--absolute-zero);
+  border-radius: 25px;
+  color: white;
+}
+
+.airplate-digital-menu .portfolio-mlvmH5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 68px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: 187px;
+}
+
+.airplate-digital-menu .rectangle-4-mlvmH5 {
+  background-color: var(--black);
+  height: 2px;
+  left: calc(24.92% - 28px);
+  position: absolute;
+  top: 93px;
+  width: 114px;
+}
+
+.airplate-digital-menu .portfolio-Ji9m8B {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(16.69% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 146px;
+}
+
+.airplate-digital-menu .about-me-mlvmH5 {
+  background-color: transparent;
+  height: 24px;
+  left: calc(25.48% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 107px;
+}
+
+.airplate-digital-menu .my-blog-mlvmH5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(31.96% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 80px;
+}
+
+.airplate-digital-menu .reviews-mlvmH5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(37.19% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 70px;
+}
+
+.airplate-digital-menu .group-10019-mlvmH5 {
+  background-color: transparent;
+  height: 22px;
+  position: absolute;
+  right: 99px;
+  top: 71px;
+  width: 204px;
+}
+
+.airplate-digital-menu .reviews-BGb6ha {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(37.48% - 26px);
+  text-align: left;
+  top: 0px;
+  width: 70px;
+}
+
+.airplate-digital-menu .social-BGb6ha {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  height: 14px;
+  position: absolute;
+  right: 0px;
+  width: 37px;
+}
+
+.airplate-digital-menu .x043-twitter-QSmHId {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 14px;
+}
+
+.airplate-digital-menu .vector-1C4h8t {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .x045-linkedin-QSmHId {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 14px;
+}
+
+.airplate-digital-menu .vector-vk59Dk {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .group-10018-BGb6ha {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+
+.airplate-digital-menu .reviews-AbtCJe {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.airplate-digital-menu .ic_person_outline_24px-AbtCJe {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: 2px;
+  width: 16px;
+}
+
+.airplate-digital-menu .rectangle-1335-mlvmH5 {
+  background-color: var(--white);
+  height: 103px;
+  left: 0px;
+  position: absolute;
+  top: 111px;
+  width: 100%;
+}
+
+.airplate-digital-menu .view-summary-mlvmH5 {
+  background-color: transparent;
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: 240px;
+  text-align: center;
+  top: 154px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.airplate-digital-menu .ic_expand_more_24px-mlvmH5 {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: 218px;
+  top: 163px;
+  width: 12px;
+}
+
+.airplate-digital-menu .colombo-cmb-to-melbo-mlvmH5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 62px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 148px;
+  white-space: nowrap;
+  width: 286px;
+}
+
+.airplate-digital-menu .span0-jbWFXh {
+}
+
+.airplate-digital-menu .span1-jbWFXh {
+  text-decoration: underline;
+}
+
+.airplate-digital-menu .displaying-menu-for-mlvmH5 {
+  background-color: transparent;
+  height: 25px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 117px;
+  white-space: nowrap;
+  width: 195px;
+}
+
+.airplate-digital-menu .line-12-mlvmH5 {
+  background-color: transparent;
+  height: 3px;
+  left: 182px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(41.26% - 1px);
+  width: 1246px;
+}
+
+.airplate-digital-menu .our-meals-mlvmH5 {
+  background-color: transparent;
+  height: 33px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: 264px;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.airplate-digital-menu .rectangle-395-mlvmH5 {
+  background-color: var(--periwinkle-gray);
+  border-radius: 28px;
+  height: 35px;
+  left: 41px;
+  position: absolute;
+  top: calc(19.64% - 7px);
+  width: 98px;
+}
+
+.airplate-digital-menu .all-170-mlvmH5 {
+  background-color: transparent;
+  height: 22px;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.00% - 4px);
+  white-space: nowrap;
+  width: 60px;
+}
+
+.airplate-digital-menu .group-10060-mlvmH5 {
+  background-color: transparent;
+  height: 50px;
+  left: 202px;
+  position: absolute;
+  top: 253px;
+  width: 429px;
+}
+
+.airplate-digital-menu .path-1333-xY0oCs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 59px);
+}
+
+.airplate-digital-menu .search-by-name-xY0oCs {
+  background-color: transparent;
+  bottom: calc(41.07% - 9px);
+  height: 22px;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0.75;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.airplate-digital-menu .path-914-xY0oCs {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 49px;
+}
+
+.airplate-digital-menu .ic_search_white-xY0oCs {
+  background-color: transparent;
+  bottom: calc(48.12% - 10px);
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(19.03% - 4px);
+  width: 21px;
+}
+
+.airplate-digital-menu .group-10127-xY0oCs {
+  background-color: transparent;
+  bottom: calc(49.60% - 10px);
+  height: 20px;
+  position: absolute;
+  right: 13px;
+  width: 24px;
+}
+
+.airplate-digital-menu .path-712-oHdKYy {
+  background-color: transparent;
+  bottom: 1px;
+  height: 5px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.airplate-digital-menu .path-713-oHdKYy {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 100%;
+}
+
+.airplate-digital-menu .path-714-oHdKYy {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .rectangle-401-mlvmH5 {
+  background-color: var(--periwinkle-gray);
+  border-radius: 18px;
+  height: 35px;
+  left: calc(27.78% - 38px);
+  position: absolute;
+  top: calc(19.64% - 7px);
+  width: 136px;
+}
+
+.airplate-digital-menu .rectangle-398-mlvmH5 {
+  background-color: var(--periwinkle-gray);
+  border-radius: 28px;
+  height: 35px;
+  left: 158px;
+  position: absolute;
+  top: calc(19.64% - 7px);
+  width: 162px;
+}
+
+.airplate-digital-menu .breakfast-25-mlvmH5 {
+  background-color: transparent;
+  height: 22px;
+  left: 203px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.00% - 4px);
+  white-space: nowrap;
+  width: 97px;
+}
+
+.airplate-digital-menu .group-837-mlvmH5 {
+  background-color: transparent;
+  height: 18px;
+  left: 176px;
+  position: absolute;
+  top: calc(19.96% - 4px);
+  width: 18px;
+}
+
+.airplate-digital-menu .path-720-kIRknt {
+  background-color: transparent;
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.24% - 3px);
+  width: 8px;
+}
+
+.airplate-digital-menu .path-721-kIRknt {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: calc(40.21% - 2px);
+  width: 3px;
+}
+
+.airplate-digital-menu .path-722-kIRknt {
+  background-color: transparent;
+  bottom: calc(24.38% - 2px);
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.airplate-digital-menu .path-723-kIRknt {
+  background-color: transparent;
+  bottom: calc(38.20% - 2px);
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .path-724-kIRknt {
+  background-color: transparent;
+  bottom: 0px;
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-725-kIRknt {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-726-kIRknt {
+  background-color: transparent;
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.airplate-digital-menu .rectangle-403-mlvmH5 {
+  background-color: var(--periwinkle-gray);
+  border-radius: 18px;
+  height: 35px;
+  left: calc(46.33% - 69px);
+  position: absolute;
+  top: calc(19.64% - 7px);
+  width: 149px;
+}
+
+.airplate-digital-menu .meal-type-mlvmH5 {
+  background-color: transparent;
+  height: 22px;
+  left: calc(46.99% - 33px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.00% - 4px);
+  white-space: nowrap;
+  width: 71px;
+}
+
+.airplate-digital-menu .rectangle-402-mlvmH5 {
+  background-color: var(--periwinkle-gray);
+  border-radius: 18px;
+  height: 35px;
+  left: calc(36.83% - 55px);
+  position: absolute;
+  top: calc(19.64% - 7px);
+  width: 149px;
+}
+
+.airplate-digital-menu .allergens-mlvmH5 {
+  background-color: transparent;
+  height: 22px;
+  left: calc(37.76% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.00% - 4px);
+  white-space: nowrap;
+  width: 64px;
+}
+
+.airplate-digital-menu .rectangle-400-mlvmH5 {
+  background-color: var(--periwinkle-gray);
+  border-radius: 18px;
+  height: 35px;
+  left: calc(19.04% - 26px);
+  position: absolute;
+  top: calc(19.64% - 7px);
+  width: 136px;
+}
+
+.airplate-digital-menu .lunch-28-mlvmH5 {
+  background-color: transparent;
+  height: 22px;
+  left: calc(21.00% - 15px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.00% - 4px);
+  white-space: nowrap;
+  width: 73px;
+}
+
+.airplate-digital-menu .group-842-mlvmH5 {
+  background-color: transparent;
+  height: 23px;
+  left: 352px;
+  position: absolute;
+  top: calc(19.82% - 5px);
+  width: 27px;
+}
+
+.airplate-digital-menu .path-740-CJDIJJ {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 18px;
+}
+
+.airplate-digital-menu .path-741-CJDIJJ {
+  background-color: transparent;
+  bottom: calc(37.04% - 3px);
+  height: 9px;
+  left: calc(49.68% - 5px);
+  object-fit: cover;
+  position: absolute;
+  width: 9px;
+}
+
+.airplate-digital-menu .path-742-CJDIJJ {
+  background-color: transparent;
+  height: 7px;
+  left: calc(25.69% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.63% - 2px);
+  width: 7px;
+}
+
+.airplate-digital-menu .path-743-CJDIJJ {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-841-CJDIJJ {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 6px;
+}
+
+.airplate-digital-menu .path-744-dJFf9V {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-dJFf9V {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(24.40% - 1px);
+  top: 1px;
+  width: 3px;
+}
+
+.airplate-digital-menu .snacks-30-mlvmH5 {
+  background-color: transparent;
+  height: 22px;
+  left: calc(29.55% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.08% - 4px);
+  white-space: nowrap;
+  width: 81px;
+}
+
+.airplate-digital-menu .group-10128-mlvmH5 {
+  background-color: transparent;
+  height: 20px;
+  left: calc(26.92% - 6px);
+  position: absolute;
+  top: calc(19.99% - 4px);
+  width: 24px;
+}
+
+.airplate-digital-menu .path-727-GOfWvR {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-728-GOfWvR {
+  background-color: transparent;
+  bottom: calc(48.98% - 3px);
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-729-GOfWvR {
+  background-color: transparent;
+  bottom: 0px;
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.airplate-digital-menu .path-730-GOfWvR {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(38.22% - 3px);
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-731-GOfWvR {
+  background-color: transparent;
+  bottom: calc(22.37% - 2px);
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.airplate-digital-menu .group-839-GOfWvR {
+  background-color: transparent;
+  height: 2px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.airplate-digital-menu .line-3-EAluMd {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-4-EAluMd {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 25.00%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-5-EAluMd {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 50.00%;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-6-EAluMd {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 25.00%;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-7-EAluMd {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .ic_expand_more_24px-Ji9m8B {
+  background-color: transparent;
+  height: 7px;
+  left: calc(40.48% - 5px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(20.10% - 1px);
+  width: 12px;
+}
+
+.airplate-digital-menu .ic_expand_more_24px-HCdH2d {
+  background-color: transparent;
+  height: 7px;
+  left: calc(49.52% - 6px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(20.12% - 1px);
+  width: 12px;
+}
+
+.airplate-digital-menu .peanut-mlvmH5 {
+  background-color: transparent;
+  height: 20px;
+  left: calc(35.21% - 7px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(19.91% - 4px);
+  width: 20px;
+}
+
+.airplate-digital-menu .icon_catergoria-mlvmH5 {
+  background-color: transparent;
+  height: 21px;
+  left: calc(44.02% - 10px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(19.87% - 4px);
+  width: 22px;
+}
+
+.airplate-digital-menu .rectangle-1400-mlvmH5 {
+  background-color: var(--periwinkle-gray);
+  border-radius: 18px;
+  height: 35px;
+  position: absolute;
+  right: calc(43.41% - 72px);
+  top: calc(19.61% - 7px);
+  width: 165px;
+}
+
+.airplate-digital-menu .my-preferences-mlvmH5 {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: calc(42.70% - 45px);
+  text-align: left;
+  top: calc(20.01% - 4px);
+  white-space: nowrap;
+  width: 106px;
+}
+
+.airplate-digital-menu .ic_grade_24px-mlvmH5 {
+  background-color: transparent;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(46.94% - 11px);
+  top: calc(19.79% - 4px);
+  width: 22px;
+}
+
+.airplate-digital-menu .group-10135-mlvmH5 {
+  background-color: transparent;
+  height: 18px;
+  left: calc(40.45% - 7px);
+  position: absolute;
+  top: calc(30.77% - 6px);
+  width: 18px;
+}
+
+.airplate-digital-menu .path-720-8IGxlh {
+  background-color: transparent;
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.24% - 3px);
+  width: 8px;
+}
+
+.airplate-digital-menu .path-721-8IGxlh {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: calc(40.21% - 2px);
+  width: 3px;
+}
+
+.airplate-digital-menu .path-722-8IGxlh {
+  background-color: transparent;
+  bottom: calc(24.38% - 2px);
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.airplate-digital-menu .path-723-8IGxlh {
+  background-color: transparent;
+  bottom: calc(38.20% - 2px);
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .path-724-8IGxlh {
+  background-color: transparent;
+  bottom: 0px;
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-725-8IGxlh {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-726-8IGxlh {
+  background-color: transparent;
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.airplate-digital-menu .scroll-group-6-mlvmH5::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.airplate-digital-menu .scroll-group-6-mlvmH5 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 1328px;
+  left: 35px;
+  mix-blend-mode: normal;
+  overflow-y: scroll;
+  position: absolute;
+  width: 1403px;
+}
+
+.airplate-digital-menu .group-10180-YOVpX5 {
+  background-color: transparent;
+  height: 1328px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1403px;
+}
+
+.airplate-digital-menu .group-10181-5btWnf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .line-28-IHoov2 {
+  background-color: transparent;
+  height: 12px;
+  object-fit: cover;
+  position: absolute;
+  right: 9px;
+  top: calc(49.55% - 6px);
+  width: 1089px;
+}
+
+.airplate-digital-menu .scroll-group-5-IHoov2::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.airplate-digital-menu .scroll-group-5-IHoov2 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 702px);
+  mix-blend-mode: normal;
+  overflow-y: scroll;
+  position: absolute;
+  top: 0px;
+  width: 1403px;
+}
+
+.airplate-digital-menu .group-10179-7cZchG {
+  background-color: transparent;
+  height: 1291px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1403px;
+}
+
+.airplate-digital-menu .top-picks-220zxr {
+  background-color: transparent;
+  height: 33px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  top: calc(23.53% - 8px);
+  white-space: nowrap;
+  width: 116px;
+}
+
+.airplate-digital-menu .scroll-group-1-220zxr::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.airplate-digital-menu .scroll-group-1-220zxr {
+  background-color: transparent;
+  height: 262px;
+  left: 16px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.airplate-digital-menu .group-10061-txIkRx {
+  background-color: transparent;
+  height: 262px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 2059px;
+}
+
+.airplate-digital-menu .rectangle-414-xeFudz {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 109px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 327px;
+}
+
+.airplate-digital-menu .sri-lankan-kiribath-xeFudz {
+  background-color: transparent;
+  bottom: calc(30.38% - 7px);
+  cursor: pointer;
+  height: 24px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 141px;
+}
+
+.airplate-digital-menu .x55-kcal-xeFudz {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-850-xeFudz {
+  background-color: transparent;
+  bottom: calc(49.17% - 15px);
+  height: 31px;
+  left: 17px;
+  position: absolute;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-x1nOUc {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-x1nOUc {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 4px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-LxtljM {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-856-xeFudz {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  width: 77px;
+}
+
+.airplate-digital-menu .rectangle-413-WSxsh8 {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .sri-lankan-WSxsh8 {
+  background-color: transparent;
+  height: 17px;
+  left: calc(49.67% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.airplate-digital-menu .mask-group-606-xeFudz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 154px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-xeFudz {
+  background-color: transparent;
+  bottom: calc(31.94% - 5px);
+  height: 15px;
+  left: 292px;
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-855-xeFudz {
+  background-color: transparent;
+  bottom: calc(21.02% - 3px);
+  height: 13px;
+  left: 20px;
+  position: absolute;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-sXIjRx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-ex2uyS {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-9HTNdD {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-g00xQC {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-6Vwxcp {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-876-xeFudz {
+  background-color: transparent;
+  height: 34px;
+  left: 19px;
+  position: absolute;
+  top: calc(50.00% - 17px);
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-xYRrNx {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px/17px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .rectangle-414-HWIudC {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 109px;
+  left: calc(20.03% - 65px);
+  object-fit: cover;
+  position: absolute;
+  width: 327px;
+}
+
+.airplate-digital-menu .sri-lankan-special-xeFudz {
+  background-color: transparent;
+  bottom: calc(30.38% - 7px);
+  cursor: pointer;
+  height: 24px;
+  left: calc(18.99% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 136px;
+}
+
+.airplate-digital-menu .x35-kcal-xeFudz {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  left: calc(22.45% - 9px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-850-HWIudC {
+  background-color: transparent;
+  bottom: calc(49.17% - 15px);
+  height: 31px;
+  left: 363px;
+  position: absolute;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-QtskBx {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-QtskBx {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: calc(100.00% - 9px);
+}
+
+.airplate-digital-menu .path-AO8RmM {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-856-HWIudC {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(18.46% - 14px);
+  position: absolute;
+  width: 76px;
+}
+
+.airplate-digital-menu .rectangle-413-v5Y6F3 {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .sri-lankan-v5Y6F3 {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: calc(45.96% - 24px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.airplate-digital-menu .mask-group-606-HWIudC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 154px;
+  left: calc(20.03% - 65px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-HWIudC {
+  background-color: transparent;
+  bottom: calc(31.81% - 5px);
+  height: 17px;
+  left: calc(31.24% - 6px);
+  object-fit: cover;
+  position: absolute;
+  width: 18px;
+}
+
+.airplate-digital-menu .group-855-HWIudC {
+  background-color: transparent;
+  bottom: calc(21.02% - 3px);
+  height: 13px;
+  left: calc(18.45% - 14px);
+  position: absolute;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-UC7gxW {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-dFfdZs {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-EBAKV4 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-qlxJAC {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-xlmBLZ {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-875-xeFudz {
+  background-color: transparent;
+  height: 34px;
+  left: 368px;
+  position: absolute;
+  top: calc(50.00% - 17px);
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-tfrH5w {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px/17px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .group-860-tfrH5w {
+  background-color: transparent;
+  bottom: calc(49.68% - 10px);
+  height: 19px;
+  left: calc(47.47% - 11px);
+  position: absolute;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-Ptgiru {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-Ptgiru {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-Ptgiru {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-Ptgiru {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-Ptgiru {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-6AHASJ {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-6AHASJ {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .rectangle-414-phqOBV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  left: calc(40.00% - 131px);
+  object-fit: cover;
+  position: absolute;
+  width: 327px;
+}
+
+.airplate-digital-menu .maslenitca-xeFudz {
+  background-color: transparent;
+  bottom: calc(30.38% - 7px);
+  height: 24px;
+  left: calc(35.99% - 30px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.airplate-digital-menu .x45-kcal-xeFudz {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  left: calc(39.65% - 17px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-850-phqOBV {
+  background-color: transparent;
+  bottom: calc(49.17% - 15px);
+  height: 31px;
+  left: calc(35.01% - 11px);
+  position: absolute;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-U8M9Ks {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-U8M9Ks {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 4px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-MEU2XT {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-856-phqOBV {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(35.71% - 23px);
+  position: absolute;
+  width: 64px;
+}
+
+.airplate-digital-menu .rectangle-413-Hqmgfo {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .russian-Hqmgfo {
+  background-color: transparent;
+  height: 17px;
+  left: calc(46.12% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.airplate-digital-menu .mask-group-606-phqOBV {
+  background-color: transparent;
+  height: 154px;
+  left: calc(40.00% - 131px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-phqOBV {
+  background-color: transparent;
+  bottom: calc(31.94% - 5px);
+  height: 15px;
+  left: calc(48.21% - 8px);
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-855-phqOBV {
+  background-color: transparent;
+  bottom: calc(21.02% - 3px);
+  height: 13px;
+  left: calc(35.91% - 27px);
+  position: absolute;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-GpSXdc {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-i4x66g {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-L3uxmS {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-3q0wx4 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-roEWav {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-874-xeFudz {
+  background-color: transparent;
+  height: 34px;
+  left: calc(35.10% - 12px);
+  position: absolute;
+  top: calc(50.00% - 17px);
+  width: 34px;
+}
+
+.airplate-digital-menu .ellipse-128-TKnQxD {
+  background-color: var(--absolute-zero);
+  border-radius: 17px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .rectangle-1346-xeFudz {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(40.00% - 131px);
+  width: 327px;
+}
+
+.airplate-digital-menu .pakistani-chicken-platter-xeFudz {
+  background-color: transparent;
+  bottom: calc(30.38% - 7px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(43.55% - 81px);
+  text-align: left;
+  white-space: nowrap;
+  width: 185px;
+}
+
+.airplate-digital-menu .x45-kcal-HWIudC {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: calc(43.17% - 18px);
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-10043-xeFudz {
+  background-color: transparent;
+  bottom: calc(49.17% - 15px);
+  height: 31px;
+  position: absolute;
+  right: calc(47.89% - 16px);
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-a92Yjo {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-a92Yjo {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 4px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-IXvxAm {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-10045-xeFudz {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: calc(47.11% - 27px);
+  width: 57px;
+}
+
+.airplate-digital-menu .rectangle-413-oWxScS {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .indian-oWxScS {
+  background-color: transparent;
+  height: 17px;
+  left: calc(49.67% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.airplate-digital-menu .group-10046-xeFudz {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: calc(43.47% - 30px);
+  width: 69px;
+}
+
+.airplate-digital-menu .rectangle-413-89tTBG {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .pakistani-89tTBG {
+  background-color: transparent;
+  height: 17px;
+  left: calc(49.29% - 22px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.airplate-digital-menu .mask-group-608-xeFudz {
+  background-color: transparent;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(40.00% - 131px);
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-8CRWk9 {
+  background-color: transparent;
+  bottom: calc(31.94% - 5px);
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(34.82% - 6px);
+  width: 17px;
+}
+
+.airplate-digital-menu .group-10047-xeFudz {
+  background-color: transparent;
+  bottom: calc(21.02% - 3px);
+  height: 13px;
+  position: absolute;
+  right: calc(46.62% - 35px);
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-Qn3Pyh {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-opXAC6 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-XGrYEx {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-CF77Yx {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-yCvpgW {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-10048-xeFudz {
+  background-color: transparent;
+  height: 34px;
+  left: calc(42.60% - 160px);
+  position: absolute;
+  top: calc(50.00% - 17px);
+  width: 376px;
+}
+
+.airplate-digital-menu .ellipse-128-urR0nB {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px/17px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 35px;
+}
+
+.airplate-digital-menu .group-860-urR0nB {
+  background-color: transparent;
+  bottom: calc(49.68% - 10px);
+  height: 19px;
+  position: absolute;
+  right: 7px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-hx7uDd {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-hx7uDd {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-hx7uDd {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-hx7uDd {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-hx7uDd {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-fvGtvV {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-fvGtvV {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .group-10183-urR0nB {
+  background-color: transparent;
+  bottom: calc(49.68% - 10px);
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-bbQLkK {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-bbQLkK {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-bbQLkK {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-bbQLkK {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-bbQLkK {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-Z0UrGs {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-Z0UrGs {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .rectangle-1349-xeFudz {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(19.97% - 65px);
+  width: 327px;
+}
+
+.airplate-digital-menu .risotto-xeFudz {
+  background-color: transparent;
+  bottom: calc(30.38% - 7px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(29.92% - 16px);
+  text-align: left;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.airplate-digital-menu .x45-kcal-phqOBV {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: calc(26.02% - 11px);
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-10049-xeFudz {
+  background-color: transparent;
+  bottom: calc(49.17% - 15px);
+  height: 31px;
+  position: absolute;
+  right: calc(30.80% - 10px);
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-vj1xs7 {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-vj1xs7 {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: calc(100.00% - 9px);
+}
+
+.airplate-digital-menu .path-2ENRGG {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-10051-xeFudz {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: calc(29.81% - 17px);
+  width: 57px;
+}
+
+.airplate-digital-menu .rectangle-413-AK2DVr {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .italian-AK2DVr {
+  background-color: transparent;
+  height: 17px;
+  left: calc(49.85% - 15px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.airplate-digital-menu .group-10052-xeFudz {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: calc(26.06% - 18px);
+  width: 69px;
+}
+
+.airplate-digital-menu .rectangle-413-XnvTZJ {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .eurpeon-XnvTZJ {
+  background-color: transparent;
+  height: 17px;
+  left: calc(49.49% - 21px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.airplate-digital-menu .mask-group-609-xeFudz {
+  background-color: transparent;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(19.97% - 65px);
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-Un9Pxw {
+  background-color: transparent;
+  bottom: calc(31.81% - 5px);
+  height: 17px;
+  object-fit: cover;
+  position: absolute;
+  right: 364px;
+  width: 18px;
+}
+
+.airplate-digital-menu .group-10053-xeFudz {
+  background-color: transparent;
+  bottom: calc(21.02% - 3px);
+  height: 13px;
+  position: absolute;
+  right: calc(29.16% - 22px);
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-tysS3P {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-v6BXJE {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-PS0S78 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-CmQBGq {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-jC4YMx {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-10054-xeFudz {
+  background-color: transparent;
+  height: 34px;
+  position: absolute;
+  right: calc(30.48% - 11px);
+  top: calc(50.00% - 17px);
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-wUF11m {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px/17px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .group-860-wUF11m {
+  background-color: transparent;
+  bottom: calc(49.68% - 10px);
+  height: 19px;
+  left: calc(47.47% - 11px);
+  position: absolute;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-sjy1Wc {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-sjy1Wc {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-sjy1Wc {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-sjy1Wc {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-sjy1Wc {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-NhJc4h {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-NhJc4h {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .rectangle-1352-xeFudz {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 327px;
+}
+
+.airplate-digital-menu .maslenitca-HWIudC {
+  background-color: transparent;
+  bottom: calc(30.38% - 7px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: 226px;
+  text-align: left;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.airplate-digital-menu .group-10055-xeFudz {
+  background-color: transparent;
+  bottom: calc(49.17% - 15px);
+  height: 31px;
+  position: absolute;
+  right: 278px;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-BtuuTb {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-BtuuTb {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 4px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-NZcHu1 {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-10057-xeFudz {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: 244px;
+  width: 64px;
+}
+
+.airplate-digital-menu .rectangle-413-axX06o {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .russian-axX06o {
+  background-color: transparent;
+  height: 17px;
+  left: calc(46.12% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.airplate-digital-menu .mask-group-610-xeFudz {
+  background-color: transparent;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .group-10058-xeFudz {
+  background-color: transparent;
+  bottom: calc(21.02% - 3px);
+  height: 13px;
+  position: absolute;
+  right: 232px;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-vwCJMx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-TrWfv4 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-1x5PCo {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-NgEHDV {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-3Fcddn {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-10059-xeFudz {
+  background-color: transparent;
+  height: 34px;
+  position: absolute;
+  right: 275px;
+  top: calc(50.00% - 17px);
+  width: 34px;
+}
+
+.airplate-digital-menu .ellipse-128-jFxS8w {
+  background-color: var(--absolute-zero);
+  border-radius: 17px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .group-864-jFxS8w {
+  background-color: transparent;
+  height: 23px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: calc(100.00% - 7px);
+}
+
+.airplate-digital-menu .path-732-O7qdG7 {
+  background-color: transparent;
+  bottom: calc(23.96% - 2px);
+  height: 7px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 10px);
+}
+
+.airplate-digital-menu .path-733-O7qdG7 {
+  background-color: transparent;
+  height: 11px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(39.82% - 4px);
+  width: calc(100.00% - 9px);
+}
+
+.airplate-digital-menu .path-734-O7qdG7 {
+  background-color: transparent;
+  height: 7px;
+  left: calc(37.46% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(29.36% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .line-8-O7qdG7 {
+  background-color: transparent;
+  height: 5px;
+  left: 49.69%;
+  object-fit: cover;
+  position: absolute;
+  top: calc(27.48% - 1px);
+  width: 1px;
+}
+
+.airplate-digital-menu .path-735-O7qdG7 {
+  background-color: transparent;
+  height: 7px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.21% - 2px);
+  top: calc(29.36% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-736-O7qdG7 {
+  background-color: transparent;
+  height: 4px;
+  left: calc(49.65% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 4px;
+}
+
+.airplate-digital-menu .path-737-O7qdG7 {
+  background-color: transparent;
+  height: 4px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(47.50% - 1px);
+  top: -1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .path-738-O7qdG7 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .path-739-O7qdG7 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 6px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .x45-kcal-8CRWk9 {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: 178px;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .path-l4vKne {
+  background-color: transparent;
+  bottom: calc(31.94% - 5px);
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 18px;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-10130-xeFudz {
+  background-color: transparent;
+  bottom: 14px;
+  height: 24px;
+  left: 104px;
+  position: absolute;
+  width: 69px;
+}
+
+.airplate-digital-menu .rectangle-413-tZmZXg {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .nut-free-tZmZXg {
+  background-color: transparent;
+  height: 17px;
+  left: calc(47.43% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.airplate-digital-menu .group-10131-xeFudz {
+  background-color: transparent;
+  bottom: 14px;
+  height: 24px;
+  left: 181px;
+  position: absolute;
+  width: 69px;
+}
+
+.airplate-digital-menu .rectangle-413-UOJ54p {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .non-veg-UOJ54p {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: calc(48.68% - 22px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.airplate-digital-menu .group-10133-xeFudz {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(22.43% - 16px);
+  position: absolute;
+  width: 69px;
+}
+
+.airplate-digital-menu .rectangle-413-dDezcA {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .non-veg-dDezcA {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: calc(46.45% - 21px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.airplate-digital-menu .group-10134-xeFudz {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(39.35% - 25px);
+  position: absolute;
+  width: 64px;
+}
+
+.airplate-digital-menu .rectangle-413-2aysIn {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .nut-free-2aysIn {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: calc(44.98% - 19px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.airplate-digital-menu .group-10186-xeFudz {
+  background-color: transparent;
+  height: 34px;
+  left: 283px;
+  position: absolute;
+  top: 6px;
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-yGvAmP {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px/17px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .ic_done_24px-yGvAmP {
+  background-color: transparent;
+  height: 13px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 7px);
+  width: calc(100.00% - 17px);
+}
+
+.airplate-digital-menu .group-10187-xeFudz {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(43.00% - 27px);
+  position: absolute;
+  width: 64px;
+}
+
+.airplate-digital-menu .rectangle-413-wrK4Bh {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .vegan-wrK4Bh {
+  background-color: transparent;
+  height: 17px;
+  left: calc(35.94% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.airplate-digital-menu .group-10290-xeFudz {
+  background-color: transparent;
+  height: 34px;
+  left: 283px;
+  position: absolute;
+  top: 6px;
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-nKoGmx {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px/17px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .ic_done_24px-nKoGmx {
+  background-color: transparent;
+  height: 13px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 7px);
+  width: calc(100.00% - 17px);
+}
+
+.airplate-digital-menu .group-10291-xeFudz {
+  background-color: transparent;
+  height: 34px;
+  left: calc(31.08% - 11px);
+  position: absolute;
+  top: 6px;
+  width: 35px;
+}
+
+.Maslenitca_cb{
+  background-color: transparent;
+  height: 34px;
+  left: calc(47.8% - 11px);
+  position: absolute;
+  top: 6px;
+  width: 35px; 
+}
+
+.pak_cb{
+  background-color: transparent;
+  height: 34px;
+  left: calc(64.52% - 11px);
+  position: absolute;
+  top: 6px;
+  width: 35px;  
+}
+
+
+.airplate-digital-menu .ellipse-128-djf43q {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px/17px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .ic_done_24px-djf43q {
+  background-color: transparent;
+  height: 13px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 7px);
+  width: calc(100.00% - 17px);
+}
+
+.airplate-digital-menu .group-10129-220zxr {
+  background-color: transparent;
+  height: 262px;
+  left: 16px;
+  position: absolute;
+  top: calc(34.60% - 91px);
+  width: calc(100.00% - 26px);
+}
+
+.airplate-digital-menu .group-10178-5YWOhI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .scroll-group-2-okcbAp::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.airplate-digital-menu .scroll-group-2-okcbAp {
+  background-color: transparent;
+  height: 262px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: relative;
+  top: calc(50.00% - 131px);
+  width: 100%;
+}
+
+.airplate-digital-menu .group-10080-iOkUlH {
+  background-color: transparent;
+  height: 262px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 2059px;
+}
+
+.airplate-digital-menu .group-612-MZFgyq {
+  background-color: transparent;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(19.97% - 65px);
+  top: 1px;
+  width: 327px;
+}
+
+.airplate-digital-menu .rectangle-414-MZFgyq {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 327px;
+}
+
+.airplate-digital-menu .moussaka-MZFgyq {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.airplate-digital-menu .x45-kcal-MZFgyq {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-850-MZFgyq {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  left: 17px;
+  position: absolute;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-JaUow2 {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-JaUow2 {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-sJerMI {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-856-MZFgyq {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  width: 57px;
+}
+
+.airplate-digital-menu .rectangle-413-Hrtrpp {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .italian-Hrtrpp {
+  background-color: transparent;
+  height: 17px;
+  left: calc(47.75% - 15px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.airplate-digital-menu .group-857-MZFgyq {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: 85px;
+  position: absolute;
+  width: 57px;
+}
+
+.airplate-digital-menu .rectangle-413-Fp9i4o {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .greek-Fp9i4o {
+  background-color: transparent;
+  height: 17px;
+  left: calc(46.68% - 14px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.airplate-digital-menu .mask-group-606-MZFgyq {
+  background-color: transparent;
+  height: 154px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-MZFgyq {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  left: 292px;
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-855-MZFgyq {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  left: 20px;
+  position: absolute;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-xciXI7 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-BpvJaX {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-zhrjgf {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-DRtdPs {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-2zUa5P {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-877-MZFgyq {
+  background-color: transparent;
+  bottom: calc(49.77% - 21px);
+  height: 42px;
+  left: 16px;
+  position: absolute;
+  width: 42px;
+}
+
+.airplate-digital-menu .path-1414-6FHdeq {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .group-871-6FHdeq {
+  background-color: transparent;
+  height: 20px;
+  position: absolute;
+  right: calc(46.90% - 11px);
+  top: calc(48.34% - 9px);
+  width: 24px;
+}
+
+.airplate-digital-menu .path-727-THMriL {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-728-THMriL {
+  background-color: transparent;
+  bottom: calc(48.98% - 3px);
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-729-THMriL {
+  background-color: transparent;
+  bottom: 0px;
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.airplate-digital-menu .path-730-THMriL {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(38.22% - 3px);
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-731-THMriL {
+  background-color: transparent;
+  bottom: calc(22.37% - 2px);
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.airplate-digital-menu .group-839-THMriL {
+  background-color: transparent;
+  height: 2px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.airplate-digital-menu .line-3-2bIYXz {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-4-2bIYXz {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 25.00%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-5-2bIYXz {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 50.00%;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-6-2bIYXz {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 25.00%;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-7-2bIYXz {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .rectangle-414-7U8Ch2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  left: calc(20.03% - 65px);
+  object-fit: cover;
+  position: absolute;
+  width: 327px;
+}
+
+.airplate-digital-menu .chicken-lamprais-MZFgyq {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  left: calc(18.96% - 25px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.airplate-digital-menu .x45-kcal-7U8Ch2 {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  left: calc(22.45% - 9px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-850-7U8Ch2 {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  left: 363px;
+  position: absolute;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-wrMf9M {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-wrMf9M {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  left: 5px;
+  position: absolute;
+  top: 3px;
+  width: calc(100.00% - 9px);
+}
+
+.airplate-digital-menu .path-QyQZIA {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-856-7U8Ch2 {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(18.42% - 13px);
+  position: absolute;
+  width: 71px;
+}
+
+.airplate-digital-menu .rectangle-413-qKGISR {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .sri-lankan-qKGISR {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: 6px;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.airplate-digital-menu .mask-group-606-7U8Ch2 {
+  background-color: transparent;
+  height: 154px;
+  left: calc(20.03% - 65px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-7U8Ch2 {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  left: calc(31.25% - 5px);
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-855-7U8Ch2 {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  left: calc(18.45% - 14px);
+  position: absolute;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-HQAFpx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-qswkZH {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-G8vIws {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-wilx5Q {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-V1Ig3i {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-878-MZFgyq {
+  background-color: transparent;
+  bottom: calc(49.78% - 17px);
+  height: 35px;
+  left: 368px;
+  position: absolute;
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-B7aUZ4 {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .rectangle-414-ZbCuXd {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  left: calc(40.00% - 131px);
+  object-fit: cover;
+  position: absolute;
+  width: 327px;
+}
+
+.airplate-digital-menu .arabic-mandi-MZFgyq {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  left: calc(36.35% - 37px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.airplate-digital-menu .x45-kcal-ZbCuXd {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  left: calc(39.65% - 17px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-850-ZbCuXd {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  left: calc(35.01% - 11px);
+  position: absolute;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-moxyEY {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-moxyEY {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-2IJbDy {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-856-ZbCuXd {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(35.57% - 20px);
+  position: absolute;
+  width: 56px;
+}
+
+.airplate-digital-menu .rectangle-413-p3CqHp {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .arabic-p3CqHp {
+  background-color: transparent;
+  height: 17px;
+  left: calc(49.61% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.airplate-digital-menu .group-873-MZFgyq {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(39.10% - 25px);
+  position: absolute;
+  width: 64px;
+}
+
+.airplate-digital-menu .rectangle-413-UMoYvQ {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .turkish-UMoYvQ {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: calc(48.89% - 18px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.airplate-digital-menu .mask-group-606-ZbCuXd {
+  background-color: transparent;
+  height: 154px;
+  left: calc(40.00% - 131px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-ZbCuXd {
+  background-color: transparent;
+  bottom: calc(31.76% - 5px);
+  height: 17px;
+  left: calc(48.21% - 9px);
+  object-fit: cover;
+  position: absolute;
+  width: 18px;
+}
+
+.airplate-digital-menu .group-855-ZbCuXd {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  left: calc(35.91% - 27px);
+  position: absolute;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-7MpQaZ {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-g553i9 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-J5HmSM {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-RWVI3S {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-2xoacd {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-879-MZFgyq {
+  background-color: transparent;
+  bottom: calc(49.78% - 17px);
+  height: 35px;
+  left: calc(22.16% - 82px);
+  position: absolute;
+  width: 369px;
+}
+
+.airplate-digital-menu .ellipse-128-vXtzWB {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 35px;
+}
+
+.airplate-digital-menu .group-860-vXtzWB {
+  background-color: transparent;
+  height: 19px;
+  position: absolute;
+  right: 7px;
+  top: calc(47.94% - 9px);
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-shaRKJ {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-shaRKJ {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-shaRKJ {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-shaRKJ {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-shaRKJ {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-jE8AW8 {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-jE8AW8 {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .group-10295-vXtzWB {
+  background-color: transparent;
+  bottom: calc(50.00% - 10px);
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-2kpgFP {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-2kpgFP {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-2kpgFP {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-2kpgFP {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-2kpgFP {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-xo1xyU {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-xo1xyU {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .rectangle-1355-MZFgyq {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(40.00% - 131px);
+  width: 327px;
+}
+
+.airplate-digital-menu .hot-dog-MZFgyq {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(46.97% - 30px);
+  text-align: left;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.airplate-digital-menu .x45-kcal-Dm1X4T {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: calc(43.17% - 18px);
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-10062-MZFgyq {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  position: absolute;
+  right: calc(47.89% - 16px);
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-Ginwds {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-Ginwds {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-Yfc026 {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-10064-MZFgyq {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: calc(47.11% - 27px);
+  width: 57px;
+}
+
+.airplate-digital-menu .rectangle-413-2pHy4W {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .american-2pHy4W {
+  background-color: transparent;
+  height: 17px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: calc(100.00% - 9px);
+}
+
+.airplate-digital-menu .mask-group-611-MZFgyq {
+  background-color: transparent;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(40.00% - 131px);
+  top: 1px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-Dm1X4T {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(34.82% - 6px);
+  width: 17px;
+}
+
+.airplate-digital-menu .group-10066-MZFgyq {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  position: absolute;
+  right: calc(46.62% - 35px);
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-ZCrxLV {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-h7djOt {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-d02j3J {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-XNOzTl {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-e3r80T {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-10067-MZFgyq {
+  background-color: transparent;
+  bottom: calc(49.78% - 17px);
+  height: 35px;
+  position: absolute;
+  right: calc(37.31% - 138px);
+  width: 371px;
+}
+
+.airplate-digital-menu .ellipse-128-FHz8xV {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 35px;
+}
+
+.airplate-digital-menu .group-871-FHz8xV {
+  background-color: transparent;
+  height: 20px;
+  left: 6px;
+  position: absolute;
+  top: calc(47.63% - 9px);
+  width: 24px;
+}
+
+.airplate-digital-menu .path-727-0Ujk5X {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-728-0Ujk5X {
+  background-color: transparent;
+  bottom: calc(48.98% - 3px);
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-729-0Ujk5X {
+  background-color: transparent;
+  bottom: 0px;
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.airplate-digital-menu .path-730-0Ujk5X {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(38.22% - 3px);
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-731-0Ujk5X {
+  background-color: transparent;
+  bottom: calc(22.37% - 2px);
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.airplate-digital-menu .group-839-0Ujk5X {
+  background-color: transparent;
+  height: 2px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.airplate-digital-menu .line-3-6mrg4N {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-4-6mrg4N {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 25.00%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-5-6mrg4N {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 50.00%;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-6-6mrg4N {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 25.00%;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-7-6mrg4N {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .ellipse-160-FHz8xV {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 35px;
+}
+
+.airplate-digital-menu .group-10296-FHz8xV {
+  background-color: transparent;
+  height: 20px;
+  position: absolute;
+  right: 5px;
+  top: calc(47.63% - 9px);
+  width: 24px;
+}
+
+.airplate-digital-menu .path-727-sWs7ox {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-728-sWs7ox {
+  background-color: transparent;
+  bottom: calc(48.98% - 3px);
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-729-sWs7ox {
+  background-color: transparent;
+  bottom: 0px;
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.airplate-digital-menu .path-730-sWs7ox {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(38.22% - 3px);
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-731-sWs7ox {
+  background-color: transparent;
+  bottom: calc(22.37% - 2px);
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.airplate-digital-menu .group-839-sWs7ox {
+  background-color: transparent;
+  height: 2px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.airplate-digital-menu .line-3-dZbTSz {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-4-dZbTSz {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 25.00%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-5-dZbTSz {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 50.00%;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-6-dZbTSz {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 25.00%;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-7-dZbTSz {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .rectangle-1358-MZFgyq {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(19.97% - 65px);
+  width: 327px;
+}
+
+.airplate-digital-menu .sri-lankan-kiribath-MZFgyq {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(26.94% - 37px);
+  text-align: left;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.airplate-digital-menu .x45-kcal-HPRJej {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: calc(26.02% - 11px);
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-10070-MZFgyq {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: calc(29.30% - 21px);
+  width: 71px;
+}
+
+.airplate-digital-menu .rectangle-413-EyU4uF {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .sri-lankan-EyU4uF {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: 6px;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.airplate-digital-menu .path-HPRJej {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 365px;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-10072-MZFgyq {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  position: absolute;
+  right: calc(29.16% - 22px);
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-bxSxip {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-1o9X2e {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-Q5jZdM {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-hMhTYD {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-K2kDWC {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .rectangle-1361-MZFgyq {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 327px;
+}
+
+.airplate-digital-menu .chicken-fillet-MZFgyq {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: 207px;
+  text-align: left;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.airplate-digital-menu .x45-kcal-6Itkrf {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: 178px;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-10074-MZFgyq {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  position: absolute;
+  right: 278px;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-tRI4WQ {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-tRI4WQ {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-nx8DCT {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-10076-MZFgyq {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: 251px;
+  width: 56px;
+}
+
+.airplate-digital-menu .rectangle-413-fx1fT4 {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .english-fx1fT4 {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: calc(42.94% - 15px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.airplate-digital-menu .mask-group-613-MZFgyq {
+  background-color: transparent;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 327px;
+}
+
+.airplate-digital-menu .group-10078-MZFgyq {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  position: absolute;
+  right: 232px;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-jVgEPy {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-6dxPAm {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-hyFdrx {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-ffxgkZ {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-uXzZJb {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-10079-MZFgyq {
+  background-color: transparent;
+  bottom: calc(49.78% - 17px);
+  height: 35px;
+  position: absolute;
+  right: 276px;
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-rKWUO6 {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .group-860-rKWUO6 {
+  background-color: transparent;
+  height: 19px;
+  left: calc(44.64% - 10px);
+  position: absolute;
+  top: calc(47.94% - 9px);
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-u6RRAO {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-u6RRAO {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-u6RRAO {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-u6RRAO {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-u6RRAO {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-xoVAqy {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-xoVAqy {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .path-6Itkrf {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 17px;
+}
+
+.airplate-digital-menu .recommended-for-you-220zxr {
+  background-color: transparent;
+  bottom: calc(49.28% - 16px);
+  height: 33px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 286px;
+}
+
+.airplate-digital-menu .special-meals-220zxr {
+  background-color: transparent;
+  bottom: calc(22.10% - 7px);
+  height: 33px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 173px;
+}
+
+.airplate-digital-menu .group-10298-220zxr {
+  background-color: transparent;
+  bottom: 0px;
+  height: 262px;
+  left: 16px;
+  position: absolute;
+  width: calc(100.00% - 16px);
+}
+
+.airplate-digital-menu .group-10178-wjE0E7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .scroll-group-2-gYaYuX::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.airplate-digital-menu .scroll-group-2-gYaYuX {
+  background-color: transparent;
+  height: 262px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: relative;
+  top: calc(50.00% - 131px);
+  width: 100%;
+}
+
+.airplate-digital-menu .group-10080-NTByfp {
+  background-color: transparent;
+  height: 262px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 2059px;
+}
+
+.airplate-digital-menu .group-612-fdiFVA {
+  background-color: transparent;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(19.97% - 65px);
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .rectangle-414-fdiFVA {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 327px;
+}
+
+.airplate-digital-menu .non-gluten-meal-fdiFVA {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 142px;
+}
+
+.airplate-digital-menu .x45-kcal-fdiFVA {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-850-fdiFVA {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  left: 17px;
+  position: absolute;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-xMC3sX {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-xMC3sX {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-MpfoeG {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-856-fdiFVA {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  width: 57px;
+}
+
+.airplate-digital-menu .rectangle-413-SJDHty {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .italian-SJDHty {
+  background-color: transparent;
+  height: 17px;
+  left: calc(47.75% - 15px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.airplate-digital-menu .group-857-fdiFVA {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: 85px;
+  position: absolute;
+  width: 57px;
+}
+
+.airplate-digital-menu .rectangle-413-MA23YR {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .greek-MA23YR {
+  background-color: transparent;
+  height: 17px;
+  left: calc(46.68% - 14px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.airplate-digital-menu .mask-group-606-fdiFVA {
+  background-color: transparent;
+  height: 154px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-fdiFVA {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  left: 292px;
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-855-fdiFVA {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  left: 20px;
+  position: absolute;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-bYCZ17 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-WWiwz5 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-1hLxdM {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-sx2HMr {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-aMT0VK {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-877-fdiFVA {
+  background-color: transparent;
+  bottom: calc(49.77% - 21px);
+  height: 42px;
+  left: 16px;
+  position: absolute;
+  width: 42px;
+}
+
+.airplate-digital-menu .path-1414-xvsb8q {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.airplate-digital-menu .group-871-xvsb8q {
+  background-color: transparent;
+  height: 20px;
+  position: absolute;
+  right: calc(46.90% - 11px);
+  top: calc(48.34% - 9px);
+  width: 24px;
+}
+
+.airplate-digital-menu .path-727-2i8tM6 {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-728-2i8tM6 {
+  background-color: transparent;
+  bottom: calc(48.98% - 3px);
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-729-2i8tM6 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.airplate-digital-menu .path-730-2i8tM6 {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(38.22% - 3px);
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-731-2i8tM6 {
+  background-color: transparent;
+  bottom: calc(22.37% - 2px);
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.airplate-digital-menu .group-839-2i8tM6 {
+  background-color: transparent;
+  height: 2px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.airplate-digital-menu .line-3-WaxBeL {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-4-WaxBeL {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 25.00%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-5-WaxBeL {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 50.00%;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-6-WaxBeL {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 25.00%;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-7-WaxBeL {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .rectangle-414-AjGS5v {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  left: calc(20.03% - 65px);
+  object-fit: cover;
+  position: absolute;
+  width: 327px;
+}
+
+.airplate-digital-menu .non-beef-meal-fdiFVA {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  left: calc(18.83% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.airplate-digital-menu .x45-kcal-AjGS5v {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  left: calc(22.45% - 9px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-850-AjGS5v {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  left: 363px;
+  position: absolute;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-yNye9J {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-yNye9J {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  left: 5px;
+  position: absolute;
+  top: 3px;
+  width: calc(100.00% - 9px);
+}
+
+.airplate-digital-menu .path-qRKinx {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-856-AjGS5v {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(18.42% - 13px);
+  position: absolute;
+  width: 71px;
+}
+
+.airplate-digital-menu .rectangle-413-LxRt55 {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .sri-lankan-LxRt55 {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: 6px;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.airplate-digital-menu .group-857-AjGS5v {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(22.68% - 16px);
+  position: absolute;
+  width: 69px;
+}
+
+.airplate-digital-menu .rectangle-413-oiNTPO {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .eurpeon-oiNTPO {
+  background-color: transparent;
+  height: 17px;
+  left: calc(48.14% - 21px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.airplate-digital-menu .mask-group-606-AjGS5v {
+  background-color: transparent;
+  height: 154px;
+  left: calc(20.03% - 65px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-AjGS5v {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  left: calc(31.25% - 5px);
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-855-AjGS5v {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  left: calc(18.45% - 14px);
+  position: absolute;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-DogHM1 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-wrzoxk {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-obXpy9 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-mDflwJ {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-zVImkx {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-878-fdiFVA {
+  background-color: transparent;
+  bottom: calc(49.78% - 17px);
+  height: 35px;
+  left: 368px;
+  position: absolute;
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-zyoHt3 {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .rectangle-414-aQC09w {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  left: calc(40.00% - 131px);
+  object-fit: cover;
+  position: absolute;
+  width: 327px;
+}
+
+.airplate-digital-menu .halal-meal-fdiFVA {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  left: calc(35.97% - 29px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.airplate-digital-menu .x45-kcal-aQC09w {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  left: calc(39.65% - 17px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-850-aQC09w {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  left: calc(35.01% - 11px);
+  position: absolute;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-miFs7I {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-miFs7I {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-VxcOuy {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-856-aQC09w {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(35.57% - 20px);
+  position: absolute;
+  width: 56px;
+}
+
+.airplate-digital-menu .rectangle-413-WlwRJH {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .arabic-WlwRJH {
+  background-color: transparent;
+  height: 17px;
+  left: calc(49.61% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.airplate-digital-menu .group-873-fdiFVA {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(39.10% - 25px);
+  position: absolute;
+  width: 64px;
+}
+
+.airplate-digital-menu .rectangle-413-A4ctYN {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .turkish-A4ctYN {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: calc(48.89% - 18px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.airplate-digital-menu .mask-group-606-aQC09w {
+  background-color: transparent;
+  height: 154px;
+  left: calc(40.00% - 131px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-aQC09w {
+  background-color: transparent;
+  bottom: calc(31.76% - 5px);
+  height: 17px;
+  left: calc(48.21% - 9px);
+  object-fit: cover;
+  position: absolute;
+  width: 18px;
+}
+
+.airplate-digital-menu .group-855-aQC09w {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  left: calc(35.91% - 27px);
+  position: absolute;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-wbzo1L {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-gB9FHH {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-GrfbMW {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-lPfunx {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-ORZUA5 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-879-fdiFVA {
+  background-color: transparent;
+  bottom: calc(49.78% - 17px);
+  height: 35px;
+  left: calc(22.16% - 82px);
+  position: absolute;
+  width: 369px;
+}
+
+.airplate-digital-menu .ellipse-128-FxRTFj {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 35px;
+}
+
+.airplate-digital-menu .group-860-FxRTFj {
+  background-color: transparent;
+  height: 19px;
+  position: absolute;
+  right: 7px;
+  top: calc(47.94% - 9px);
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-5T08a1 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-5T08a1 {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-5T08a1 {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-5T08a1 {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-5T08a1 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-fxNIGx {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-fxNIGx {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .group-10295-FxRTFj {
+  background-color: transparent;
+  bottom: calc(50.00% - 10px);
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-hDna5s {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-hDna5s {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-hDna5s {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-hDna5s {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-hDna5s {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-Z4yBGZ {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-Z4yBGZ {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .rectangle-1355-fdiFVA {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(40.00% - 131px);
+  width: 327px;
+}
+
+.airplate-digital-menu .kosher-meal-fdiFVA {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(46.13% - 44px);
+  text-align: left;
+  white-space: nowrap;
+  width: 95px;
+}
+
+.airplate-digital-menu .x45-kcal-GxymFU {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: calc(43.17% - 18px);
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-10062-fdiFVA {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  position: absolute;
+  right: calc(47.89% - 16px);
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-Wg4ZZS {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-Wg4ZZS {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-SinMoY {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-10064-fdiFVA {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: calc(47.11% - 27px);
+  width: 57px;
+}
+
+.airplate-digital-menu .rectangle-413-vhDsY5 {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .italian-vhDsY5 {
+  background-color: transparent;
+  height: 17px;
+  left: calc(47.75% - 15px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.airplate-digital-menu .group-10065-fdiFVA {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: calc(43.83% - 25px);
+  width: 57px;
+}
+
+.airplate-digital-menu .rectangle-413-p6LvCx {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .greek-p6LvCx {
+  background-color: transparent;
+  height: 17px;
+  left: calc(46.68% - 14px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.airplate-digital-menu .mask-group-611-fdiFVA {
+  background-color: transparent;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(40.00% - 131px);
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-GxymFU {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(34.82% - 6px);
+  width: 17px;
+}
+
+.airplate-digital-menu .group-10066-fdiFVA {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  position: absolute;
+  right: calc(46.62% - 35px);
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-X6Mc4H {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-XV2nRq {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-PtwsI7 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-3RUx9H {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-PjBfSB {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-10067-fdiFVA {
+  background-color: transparent;
+  bottom: calc(49.78% - 17px);
+  height: 35px;
+  position: absolute;
+  right: calc(37.31% - 138px);
+  width: 371px;
+}
+
+.airplate-digital-menu .ellipse-128-rurk4D {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 35px;
+}
+
+.airplate-digital-menu .group-871-rurk4D {
+  background-color: transparent;
+  height: 20px;
+  left: 6px;
+  position: absolute;
+  top: calc(47.63% - 9px);
+  width: 24px;
+}
+
+.airplate-digital-menu .path-727-rGeSHR {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-728-rGeSHR {
+  background-color: transparent;
+  bottom: calc(48.98% - 3px);
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-729-rGeSHR {
+  background-color: transparent;
+  bottom: 0px;
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.airplate-digital-menu .path-730-rGeSHR {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(38.22% - 3px);
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-731-rGeSHR {
+  background-color: transparent;
+  bottom: calc(22.37% - 2px);
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.airplate-digital-menu .group-839-rGeSHR {
+  background-color: transparent;
+  height: 2px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.airplate-digital-menu .line-3-AoqGaw {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-4-AoqGaw {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 25.00%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-5-AoqGaw {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 50.00%;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-6-AoqGaw {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 25.00%;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-7-AoqGaw {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .ellipse-160-rurk4D {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 35px;
+}
+
+.airplate-digital-menu .group-10296-rurk4D {
+  background-color: transparent;
+  height: 20px;
+  position: absolute;
+  right: 5px;
+  top: calc(47.63% - 9px);
+  width: 24px;
+}
+
+.airplate-digital-menu .path-727-05pAgU {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-728-05pAgU {
+  background-color: transparent;
+  bottom: calc(48.98% - 3px);
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-729-05pAgU {
+  background-color: transparent;
+  bottom: 0px;
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.airplate-digital-menu .path-730-05pAgU {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(38.22% - 3px);
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-731-05pAgU {
+  background-color: transparent;
+  bottom: calc(22.37% - 2px);
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.airplate-digital-menu .group-839-05pAgU {
+  background-color: transparent;
+  height: 2px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.airplate-digital-menu .line-3-kzx1Ov {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-4-kzx1Ov {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 25.00%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-5-kzx1Ov {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 50.00%;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-6-kzx1Ov {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 25.00%;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-7-kzx1Ov {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .rectangle-1358-fdiFVA {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(19.97% - 65px);
+  width: 327px;
+}
+
+.airplate-digital-menu .chicken-lamprais-fdiFVA {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(27.09% - 36px);
+  text-align: left;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.airplate-digital-menu .x45-kcal-QQDxmj {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: calc(26.02% - 11px);
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-10070-fdiFVA {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: calc(29.30% - 21px);
+  width: 71px;
+}
+
+.airplate-digital-menu .rectangle-413-TAXovc {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .sri-lankan-TAXovc {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: 6px;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.airplate-digital-menu .group-10071-fdiFVA {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: calc(25.09% - 17px);
+  width: 69px;
+}
+
+.airplate-digital-menu .rectangle-413-BcF8iK {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .eurpeon-BcF8iK {
+  background-color: transparent;
+  height: 17px;
+  left: calc(48.14% - 21px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.airplate-digital-menu .path-QQDxmj {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 365px;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-10072-fdiFVA {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  position: absolute;
+  right: calc(29.16% - 22px);
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-gzIucK {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-bGdxmp {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-7l7gUJ {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-w3iHXx {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-WNfAIj {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .rectangle-1361-fdiFVA {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 327px;
+}
+
+.airplate-digital-menu .arabic-mandi-fdiFVA {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: 206px;
+  text-align: left;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.airplate-digital-menu .x45-kcal-AQRkxq {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: 178px;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-10074-fdiFVA {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  position: absolute;
+  right: 278px;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-bCgjQo {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-bCgjQo {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-4ezhvW {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-10076-fdiFVA {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: 251px;
+  width: 56px;
+}
+
+.airplate-digital-menu .rectangle-413-S0qIk4 {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .arabic-S0qIk4 {
+  background-color: transparent;
+  height: 17px;
+  left: calc(49.61% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.airplate-digital-menu .group-10077-fdiFVA {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: 176px;
+  width: 64px;
+}
+
+.airplate-digital-menu .rectangle-413-hxgX8x {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .turkish-hxgX8x {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: calc(48.89% - 18px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.airplate-digital-menu .mask-group-613-fdiFVA {
+  background-color: transparent;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .group-10078-fdiFVA {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  position: absolute;
+  right: 232px;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-wsgCa4 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-jFTpxR {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-9FAbI5 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-obeoiY {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-FIgrQ8 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-10079-fdiFVA {
+  background-color: transparent;
+  bottom: calc(49.78% - 17px);
+  height: 35px;
+  position: absolute;
+  right: 276px;
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-4MhWhx {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .group-860-4MhWhx {
+  background-color: transparent;
+  height: 19px;
+  left: calc(44.64% - 10px);
+  position: absolute;
+  top: calc(47.94% - 9px);
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-3vCyTG {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-3vCyTG {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-3vCyTG {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-3vCyTG {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-3vCyTG {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-8k8nD4 {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-8k8nD4 {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .path-AQRkxq {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-10300-220zxr {
+  background-color: transparent;
+  bottom: calc(33.24% - 87px);
+  height: 262px;
+  left: 16px;
+  position: absolute;
+  width: calc(100.00% - 26px);
+}
+
+.airplate-digital-menu .group-10178-6SxiFT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .scroll-group-2-qLADP1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.airplate-digital-menu .scroll-group-2-qLADP1 {
+  background-color: transparent;
+  height: 262px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: relative;
+  top: calc(50.00% - 131px);
+  width: 100%;
+}
+
+.airplate-digital-menu .group-10080-ETiOv6 {
+  background-color: transparent;
+  height: 262px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 2059px;
+}
+
+.airplate-digital-menu .group-612-kkl40F {
+  background-color: transparent;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(19.97% - 65px);
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .rectangle-414-kkl40F {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 327px;
+}
+
+.airplate-digital-menu .chicken-fillet-kkl40F {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.airplate-digital-menu .x45-kcal-kkl40F {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-850-kkl40F {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  left: 17px;
+  position: absolute;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-F7reKI {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-F7reKI {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-ySOxZ7 {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-856-kkl40F {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  width: 57px;
+}
+
+.airplate-digital-menu .rectangle-413-30vShD {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .american-30vShD {
+  background-color: transparent;
+  height: 17px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: calc(100.00% - 9px);
+}
+
+.airplate-digital-menu .mask-group-606-kkl40F {
+  background-color: transparent;
+  height: 154px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-kkl40F {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  left: 292px;
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-855-kkl40F {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  left: 20px;
+  position: absolute;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-JSVt2X {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-KYey0v {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-xSxdAW {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-dzYXxm {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-2pZEsT {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-877-kkl40F {
+  background-color: transparent;
+  bottom: calc(49.77% - 21px);
+  height: 42px;
+  left: 16px;
+  position: absolute;
+  width: 42px;
+}
+
+.airplate-digital-menu .path-1414-51bLp4 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.airplate-digital-menu .group-871-51bLp4 {
+  background-color: transparent;
+  height: 20px;
+  position: absolute;
+  right: calc(46.90% - 11px);
+  top: calc(48.34% - 9px);
+  width: 24px;
+}
+
+.airplate-digital-menu .path-727-MKIePo {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-728-MKIePo {
+  background-color: transparent;
+  bottom: calc(48.98% - 3px);
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-729-MKIePo {
+  background-color: transparent;
+  bottom: -1px;
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.airplate-digital-menu .path-730-MKIePo {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(38.22% - 3px);
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-731-MKIePo {
+  background-color: transparent;
+  bottom: calc(22.37% - 2px);
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.airplate-digital-menu .group-839-MKIePo {
+  background-color: transparent;
+  height: 2px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.airplate-digital-menu .line-3-mHfWSL {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-4-mHfWSL {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 25.00%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-5-mHfWSL {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 50.00%;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-6-mHfWSL {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 25.00%;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-7-mHfWSL {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .rectangle-414-3IYuli {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  left: calc(20.03% - 65px);
+  object-fit: cover;
+  position: absolute;
+  width: 327px;
+}
+
+.airplate-digital-menu .all-in-one-brekkie-kkl40F {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  left: calc(18.95% - 25px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.airplate-digital-menu .x45-kcal-3IYuli {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  left: calc(22.45% - 9px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-850-3IYuli {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  left: 363px;
+  position: absolute;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-zdmia4 {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-zdmia4 {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  left: 5px;
+  position: absolute;
+  top: 3px;
+  width: calc(100.00% - 9px);
+}
+
+.airplate-digital-menu .path-2j2vVr {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-856-3IYuli {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(18.42% - 13px);
+  position: absolute;
+  width: 71px;
+}
+
+.airplate-digital-menu .rectangle-413-ywiSjA {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .english-ywiSjA {
+  background-color: transparent;
+  height: 17px;
+  left: calc(36.42% - 13px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.airplate-digital-menu .mask-group-606-3IYuli {
+  background-color: transparent;
+  height: 154px;
+  left: calc(20.03% - 65px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-3IYuli {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  left: calc(31.25% - 5px);
+  object-fit: cover;
+  position: absolute;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-855-3IYuli {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  left: calc(18.45% - 14px);
+  position: absolute;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-Ex92r2 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-1UAena {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-UDIOcR {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-kCHq1C {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-LQxD22 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-878-kkl40F {
+  background-color: transparent;
+  bottom: calc(49.78% - 17px);
+  height: 35px;
+  left: 368px;
+  position: absolute;
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-7xNgf6 {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .rectangle-414-6ZO4gg {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  left: calc(40.00% - 131px);
+  object-fit: cover;
+  position: absolute;
+  width: 327px;
+}
+
+.airplate-digital-menu .arabic-mandi-kkl40F {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  left: calc(36.35% - 37px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.airplate-digital-menu .x45-kcal-6ZO4gg {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  left: calc(39.65% - 17px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-850-6ZO4gg {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  left: calc(35.01% - 11px);
+  position: absolute;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-5LEQXw {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-5LEQXw {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-xQ4TwV {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-856-6ZO4gg {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(35.57% - 20px);
+  position: absolute;
+  width: 56px;
+}
+
+.airplate-digital-menu .rectangle-413-v9WHrC {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .arabic-v9WHrC {
+  background-color: transparent;
+  height: 17px;
+  left: calc(49.61% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 33px;
+}
+
+.airplate-digital-menu .group-873-kkl40F {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  left: calc(39.10% - 25px);
+  position: absolute;
+  width: 64px;
+}
+
+.airplate-digital-menu .rectangle-413-Kg7qHo {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .turkish-Kg7qHo {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: calc(48.89% - 18px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 37px;
+}
+
+.airplate-digital-menu .mask-group-606-6ZO4gg {
+  background-color: transparent;
+  height: 154px;
+  left: calc(40.00% - 131px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-6ZO4gg {
+  background-color: transparent;
+  bottom: calc(31.76% - 5px);
+  height: 17px;
+  left: calc(48.21% - 9px);
+  object-fit: cover;
+  position: absolute;
+  width: 18px;
+}
+
+.airplate-digital-menu .group-855-6ZO4gg {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  left: calc(35.91% - 27px);
+  position: absolute;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-HuJp5M {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-CXYW15 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-meHejh {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-vqxnbM {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-fDqMz3 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-879-kkl40F {
+  background-color: transparent;
+  bottom: calc(49.78% - 17px);
+  height: 35px;
+  left: calc(22.16% - 82px);
+  position: absolute;
+  width: 369px;
+}
+
+.airplate-digital-menu .ellipse-128-ZtftAJ {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 35px;
+}
+
+.airplate-digital-menu .group-860-ZtftAJ {
+  background-color: transparent;
+  height: 19px;
+  position: absolute;
+  right: 7px;
+  top: calc(47.94% - 9px);
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-MjgbI8 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-MjgbI8 {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-MjgbI8 {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-MjgbI8 {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-MjgbI8 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-qdgCnx {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-qdgCnx {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .group-10295-ZtftAJ {
+  background-color: transparent;
+  bottom: calc(50.00% - 10px);
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-W28wGf {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-W28wGf {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-W28wGf {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-W28wGf {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-W28wGf {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-zh35Cc {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-zh35Cc {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .rectangle-1355-kkl40F {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(40.00% - 131px);
+  width: 327px;
+}
+
+.airplate-digital-menu .sri-lankan-kiribath-kkl40F {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(44.84% - 63px);
+  text-align: left;
+  white-space: nowrap;
+  width: 141px;
+}
+
+.airplate-digital-menu .x45-kcal-JSQsmr {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: calc(43.17% - 18px);
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-10062-kkl40F {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  position: absolute;
+  right: calc(47.89% - 16px);
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-g6Sjv6 {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-g6Sjv6 {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-NESto5 {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-10064-kkl40F {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: calc(46.95% - 29px);
+  width: 63px;
+}
+
+.airplate-digital-menu .rectangle-413-9cfxvi {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .sri-lankan-9cfxvi {
+  background-color: transparent;
+  height: 17px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: calc(100.00% - 11px);
+}
+
+.airplate-digital-menu .mask-group-611-kkl40F {
+  background-color: transparent;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(40.00% - 131px);
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .path-JSQsmr {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(34.82% - 6px);
+  width: 17px;
+}
+
+.airplate-digital-menu .group-10066-kkl40F {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  position: absolute;
+  right: calc(46.62% - 35px);
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-VM2gX7 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-FEl3kl {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-LgX2x2 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-BexYhb {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-iekmp4 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-10067-kkl40F {
+  background-color: transparent;
+  bottom: calc(49.78% - 17px);
+  height: 35px;
+  position: absolute;
+  right: calc(37.31% - 138px);
+  width: 371px;
+}
+
+.airplate-digital-menu .ellipse-128-grgNPQ {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 35px;
+}
+
+.airplate-digital-menu .group-871-grgNPQ {
+  background-color: transparent;
+  height: 20px;
+  left: 6px;
+  position: absolute;
+  top: calc(47.63% - 9px);
+  width: 24px;
+}
+
+.airplate-digital-menu .path-727-4gMsc2 {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-728-4gMsc2 {
+  background-color: transparent;
+  bottom: calc(48.98% - 3px);
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-729-4gMsc2 {
+  background-color: transparent;
+  bottom: -1px;
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.airplate-digital-menu .path-730-4gMsc2 {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(38.22% - 3px);
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-731-4gMsc2 {
+  background-color: transparent;
+  bottom: calc(22.37% - 2px);
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.airplate-digital-menu .group-839-4gMsc2 {
+  background-color: transparent;
+  height: 2px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.airplate-digital-menu .line-3-r1D635 {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-4-r1D635 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 25.00%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-5-r1D635 {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 50.00%;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-6-r1D635 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 25.00%;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-7-r1D635 {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .ellipse-160-grgNPQ {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 35px;
+}
+
+.airplate-digital-menu .group-10296-grgNPQ {
+  background-color: transparent;
+  height: 20px;
+  position: absolute;
+  right: 5px;
+  top: calc(47.63% - 9px);
+  width: 24px;
+}
+
+.airplate-digital-menu .path-727-uCnoyG {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-728-uCnoyG {
+  background-color: transparent;
+  bottom: calc(48.98% - 3px);
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .path-729-uCnoyG {
+  background-color: transparent;
+  bottom: -1px;
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.airplate-digital-menu .path-730-uCnoyG {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(38.22% - 3px);
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-731-uCnoyG {
+  background-color: transparent;
+  bottom: calc(22.37% - 2px);
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.airplate-digital-menu .group-839-uCnoyG {
+  background-color: transparent;
+  height: 2px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.airplate-digital-menu .line-3-A7MD2x {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-4-A7MD2x {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 25.00%;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-5-A7MD2x {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 50.00%;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-6-A7MD2x {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 25.00%;
+  width: 1px;
+}
+
+.airplate-digital-menu .line-7-A7MD2x {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1px;
+}
+
+.airplate-digital-menu .rectangle-1358-kkl40F {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(19.97% - 65px);
+  width: 327px;
+}
+
+.airplate-digital-menu .sri-lankan-kiribath-3IYuli {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(26.94% - 37px);
+  text-align: left;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.airplate-digital-menu .x45-kcal-UJguzx {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: calc(26.02% - 11px);
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-10070-kkl40F {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: calc(29.30% - 21px);
+  width: 71px;
+}
+
+.airplate-digital-menu .rectangle-413-WSeU9u {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .sri-lankan-WSeU9u {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: 6px;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.airplate-digital-menu .path-UJguzx {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 365px;
+  width: 17px;
+}
+
+.airplate-digital-menu .group-10072-kkl40F {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  position: absolute;
+  right: calc(29.16% - 22px);
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-mqtv56 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-011yXX {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-zXcJh0 {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-oJfuuJ {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-UUCoGL {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .rectangle-1361-kkl40F {
+  background-color: transparent;
+  bottom: 0px;
+  height: 109px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 327px;
+}
+
+.airplate-digital-menu .chicken-fillet-3IYuli {
+  background-color: transparent;
+  bottom: calc(30.33% - 7px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: 207px;
+  text-align: left;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.airplate-digital-menu .x45-kcal-4MbnAe {
+  background-color: transparent;
+  bottom: calc(23.87% - 5px);
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: 178px;
+  text-align: left;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.airplate-digital-menu .group-10074-kkl40F {
+  background-color: transparent;
+  bottom: calc(49.11% - 15px);
+  height: 31px;
+  position: absolute;
+  right: 278px;
+  width: 32px;
+}
+
+.airplate-digital-menu .rectangle-396-qBhkOJ {
+  background-color: var(--shiraz);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .symbol-96-qBhkOJ {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 4px;
+  top: 3px;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-nuE9tR {
+  background-color: transparent;
+  bottom: 3px;
+  height: 15px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.airplate-digital-menu .group-10076-kkl40F {
+  background-color: transparent;
+  bottom: 12px;
+  height: 24px;
+  position: absolute;
+  right: 251px;
+  width: 56px;
+}
+
+.airplate-digital-menu .rectangle-413-kZc7iA {
+  background-color: var(--rhino-2);
+  border-radius: 16px;
+  height: 100%;
+  left: 0px;
+  opacity: 0.87;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .english-kZc7iA {
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  opacity: 0.8;
+  position: absolute;
+  right: calc(42.94% - 15px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.airplate-digital-menu .mask-group-613-kkl40F {
+  background-color: transparent;
+  height: 154px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 327px;
+}
+
+.airplate-digital-menu .group-10078-kkl40F {
+  background-color: transparent;
+  bottom: calc(20.96% - 3px);
+  height: 13px;
+  position: absolute;
+  right: 232px;
+  width: 75px;
+}
+
+.airplate-digital-menu .icon-awesome-star-ZxIYcX {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-Q1KvDv {
+  background-color: transparent;
+  height: 100%;
+  left: calc(25.00% - 3px);
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-gwEUWX {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-3PKX0i {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: calc(25.00% - 3px);
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .icon-awesome-star-03CDTU {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 13px;
+}
+
+.airplate-digital-menu .group-10079-kkl40F {
+  background-color: transparent;
+  bottom: calc(49.78% - 17px);
+  height: 35px;
+  position: absolute;
+  right: 276px;
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-0UpEnO {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .group-860-0UpEnO {
+  background-color: transparent;
+  height: 19px;
+  left: calc(44.64% - 10px);
+  position: absolute;
+  top: calc(47.94% - 9px);
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-9xnMlY {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-9xnMlY {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-9xnMlY {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.45% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-9xnMlY {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-9xnMlY {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-tJERuG {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-tJERuG {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .path-4MbnAe {
+  background-color: transparent;
+  bottom: calc(31.89% - 5px);
+  height: 15px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  width: 17px;
+}
+
+.airplate-digital-menu .line-43-mlvmH5 {
+  background-color: transparent;
+  bottom: 330px;
+  height: 3px;
+  left: 233px;
+  object-fit: cover;
+  position: absolute;
+  width: 1196px;
+}
+
+.airplate-digital-menu .group-10188-mlvmH5 {
+  background-color: transparent;
+  height: 18px;
+  left: 78px;
+  position: absolute;
+  top: calc(30.77% - 6px);
+  width: 18px;
+}
+
+.airplate-digital-menu .path-720-IbZsI2 {
+  background-color: transparent;
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.24% - 3px);
+  width: 8px;
+}
+
+.airplate-digital-menu .path-721-IbZsI2 {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: calc(40.21% - 2px);
+  width: 3px;
+}
+
+.airplate-digital-menu .path-722-IbZsI2 {
+  background-color: transparent;
+  bottom: calc(24.38% - 2px);
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.airplate-digital-menu .path-723-IbZsI2 {
+  background-color: transparent;
+  bottom: calc(38.20% - 2px);
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 2px;
+}
+
+.airplate-digital-menu .path-724-IbZsI2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-725-IbZsI2 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-726-IbZsI2 {
+  background-color: transparent;
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.airplate-digital-menu .group-10189-mlvmH5 {
+  background-color: transparent;
+  height: 417px;
+  position: absolute;
+  right: 50px;
+  top: calc(25.34% - 106px);
+  width: 396px;
+}
+
+.airplate-digital-menu .group-882-EOD6rp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .rectangle-49-hc2YzI {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 0px 18px #00000015;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .your-picks-hc2YzI {
+  background-color: transparent;
+  height: 28px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.airplate-digital-menu .group-891-hc2YzI {
+  background-color: transparent;
+  height: 166px;
+  left: 19px;
+  position: absolute;
+  top: calc(35.17% - 58px);
+  width: calc(100.00% - 39px);
+}
+
+.airplate-digital-menu .group-810-OCuMCL {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .rectangle-51-oPYtjv {
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .rectangle-415-OCuMCL {
+  background-color: var(--absolute-zero);
+  border-radius: 13px;
+  height: 24px;
+  left: 8px;
+  position: absolute;
+  top: calc(26.15% - 6px);
+  width: 140px;
+}
+
+.airplate-digital-menu .sri-lankan-kiribath-OCuMCL {
+  background-color: transparent;
+  height: 21px;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: calc(22.51% - 5px);
+  white-space: nowrap;
+  width: 119px;
+}
+
+.airplate-digital-menu .latin-OCuMCL {
+  background-color: transparent;
+  bottom: 5px;
+  height: 45px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: calc(26.60% - 7px);
+  text-align: left;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.airplate-digital-menu .rectangle-1438-OCuMCL {
+  background-color: var(--absolute-zero);
+  border-radius: 13px;
+  height: 24px;
+  position: absolute;
+  right: 18px;
+  top: calc(26.15% - 6px);
+  width: 141px;
+}
+
+.airplate-digital-menu .sri-lankan-special-OCuMCL {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 31px;
+  text-align: left;
+  top: calc(22.51% - 5px);
+  white-space: nowrap;
+  width: 116px;
+}
+
+.airplate-digital-menu .group-10182-EOD6rp {
+  background-color: transparent;
+  height: 34px;
+  left: 45px;
+  position: absolute;
+  top: calc(18.91% - 6px);
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-FdOqfQ {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px/17px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .group-10184-EOD6rp {
+  background-color: transparent;
+  height: 18px;
+  left: 54px;
+  position: absolute;
+  top: calc(20.13% - 4px);
+  width: 18px;
+}
+
+.airplate-digital-menu .path-720-4TdsL5 {
+  background-color: transparent;
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.24% - 3px);
+  width: 8px;
+}
+
+.airplate-digital-menu .path-721-4TdsL5 {
+  background-color: transparent;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: calc(40.21% - 2px);
+  width: 3px;
+}
+
+.airplate-digital-menu .path-722-4TdsL5 {
+  background-color: transparent;
+  bottom: calc(24.38% - 2px);
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 14px;
+}
+
+.airplate-digital-menu .path-723-4TdsL5 {
+  background-color: transparent;
+  bottom: calc(38.20% - 2px);
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: -1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .path-724-4TdsL5 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 7px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-725-4TdsL5 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-726-4TdsL5 {
+  background-color: transparent;
+  height: 4px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.airplate-digital-menu .group-10185-EOD6rp {
+  background-color: transparent;
+  height: 34px;
+  position: absolute;
+  right: calc(28.11% - 10px);
+  top: calc(18.91% - 6px);
+  width: 35px;
+}
+
+.airplate-digital-menu .ellipse-128-3r1Kc7 {
+  background-color: var(--absolute-zero);
+  border-radius: 17.5px/17px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .group-860-3r1Kc7 {
+  background-color: transparent;
+  bottom: calc(49.68% - 10px);
+  height: 19px;
+  left: calc(44.56% - 10px);
+  position: absolute;
+  width: 23px;
+}
+
+.airplate-digital-menu .path-740-2h0ZOz {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.airplate-digital-menu .path-741-2h0ZOz {
+  background-color: transparent;
+  bottom: calc(36.85% - 3px);
+  height: 8px;
+  left: calc(49.68% - 4px);
+  object-fit: cover;
+  position: absolute;
+  width: 8px;
+}
+
+.airplate-digital-menu .path-742-2h0ZOz {
+  background-color: transparent;
+  height: 6px;
+  left: calc(25.44% - 2px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(31.40% - 2px);
+  width: 6px;
+}
+
+.airplate-digital-menu .path-743-2h0ZOz {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: calc(100.00% - 5px);
+}
+
+.airplate-digital-menu .group-841-2h0ZOz {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 5px;
+}
+
+.airplate-digital-menu .path-744-Kv1oBL {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.airplate-digital-menu .path-745-Kv1oBL {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(22.64% - 1px);
+  top: 1px;
+  width: 2px;
+}
+
+.airplate-digital-menu .tradition-milky-whit-EOD6rp {
+  background-color: transparent;
+  bottom: calc(48.04% - 49px);
+  height: 102px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 116px;
+}
+
+.airplate-digital-menu .local-red-rice-with-EOD6rp {
+  background-color: transparent;
+  bottom: calc(48.04% - 49px);
+  height: 102px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 57px;
+  text-align: left;
+  width: 116px;
+}
+
+.airplate-digital-menu .change-meals-EOD6rp {
+  background-color: transparent;
+  height: 22px;
+  left: calc(42.86% - 42px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 15px;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.airplate-digital-menu .x50kcal-EOD6rp {
+  background-color: transparent;
+  bottom: calc(31.98% - 7px);
+  height: 22px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 116px;
+}
+
+.airplate-digital-menu .x35-kcal-EOD6rp {
+  background-color: transparent;
+  bottom: calc(31.98% - 7px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 57px;
+  text-align: left;
+  width: 116px;
+}
+
+.airplate-digital-menu .allergen-free-EOD6rp {
+  background-color: transparent;
+  bottom: calc(24.13% - 5px);
+  height: 22px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 116px;
+}
+
+.airplate-digital-menu .allergen-free-Jtv3Fe {
+  background-color: transparent;
+  bottom: calc(24.13% - 5px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 57px;
+  text-align: left;
+  width: 116px;
+}
+
+.airplate-digital-menu .non-veg-EOD6rp {
+  background-color: transparent;
+  bottom: calc(16.54% - 4px);
+  height: 22px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 116px;
+}
+
+.airplate-digital-menu .non-veg-Jtv3Fe {
+  background-color: transparent;
+  bottom: calc(16.54% - 4px);
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 57px;
+  text-align: left;
+  width: 116px;
+}
+
+.airplate-digital-menu .group-10299-mlvmH5 {
+  background-color: transparent;
+  bottom: calc(43.68% - 152px);
+  height: 348px;
+  position: absolute;
+  right: 50px;
+  width: 396px;
+}
+
+.airplate-digital-menu .group-1005-J0uP9s {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .rectangle-432-AfRqbl {
+  background-color: var(--white);
+  border-radius: 19px;
+  box-shadow: 0px 3px 20px #2e476517;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .previous-meals-AfRqbl {
+  background-color: transparent;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  right: 8px;
+  text-align: left;
+  top: 41px;
+  white-space: nowrap;
+  width: 325px;
+}
+
+.airplate-digital-menu .group-10190-J0uP9s {
+  background-color: transparent;
+  height: 101px;
+  left: 30px;
+  position: absolute;
+  top: calc(45.83% - 46px);
+  width: 286px;
+}
+
+.airplate-digital-menu .ul-350-EDBOZX {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 56px;
+}
+
+.airplate-digital-menu .berry-pancakes-with-EDBOZX {
+  background-color: transparent;
+  bottom: -2px;
+  height: 62px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: 116px;
+}
+
+.airplate-digital-menu .breakfast-EDBOZX {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(22.78% - 5px);
+  width: 116px;
+}
+
+.airplate-digital-menu .thai-white-rice-with-green-curry-EDBOZX {
+  background-color: transparent;
+  bottom: calc(30.51% - 13px);
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  width: 116px;
+}
+
+.airplate-digital-menu .lunch-EDBOZX {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 0px;
+  text-align: left;
+  top: calc(22.78% - 5px);
+  width: 116px;
+}
+
+.airplate-digital-menu .group-10191-J0uP9s {
+  background-color: transparent;
+  bottom: 15px;
+  height: 101px;
+  left: 30px;
+  position: absolute;
+  width: 114px;
+}
+
+.airplate-digital-menu .ek-213-zoI5EI {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 56px;
+}
+
+.airplate-digital-menu .berry-pancakes-with-zoI5EI {
+  background-color: transparent;
+  bottom: -2px;
+  height: 62px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+
+.airplate-digital-menu .breakfast-zoI5EI {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: calc(22.78% - 5px);
+  width: 100%;
+}
+
+.airplate-digital-menu .group-10192-mlvmH5 {
+  background-color: transparent;
+  bottom: 27px;
+  height: 548px;
+  position: absolute;
+  right: 50px;
+  width: 396px;
+}
+
+.airplate-digital-menu .rectangle-432-X7Xy88 {
+  background-color: var(--white);
+  border-radius: 19px;
+  box-shadow: 0px 3px 20px #2e476517;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .advertisement-X7Xy88 {
+  background-color: transparent;
+  height: 54px;
+  left: calc(46.67% - 122px);
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  text-align: left;
+  top: 41px;
+  white-space: nowrap;
+  width: 261px;
+}
+
+.airplate-digital-menu .group-10263-mlvmH5 {
+  background-color: transparent;
+  height: 54px;
+  position: absolute;
+  right: 50px;
+  top: 142px;
+  width: 248px;
+}
+
+.airplate-digital-menu .rectangle-5-YICwIR {
+  background-color: var(--absolute-zero);
+  border-radius: 5px;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-digital-menu .done-YICwIR {
+  background-color: transparent;
+  bottom: calc(35.71% - 9px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(49.50% - 24px);
+  text-align: center;
+  white-space: nowrap;
+  width: 48px;
+}

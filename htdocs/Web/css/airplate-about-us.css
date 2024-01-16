@@ -1,0 +1,322 @@
+/* screen - airplate-about-us */
+html, body {margin: 0; height: 100%; overflow: hidden}
+.airplate-about-us {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1080px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+  transform:scaleX(85%) translateX(-12%) scaleY(70%) translateY(-22%);
+}
+
+.airplate-about-us .cabin_-crew_2_003_1-xAhTkR {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: -9px;
+  width: 823px;
+}
+
+.airplate-about-us .decore-xAhTkR {
+  background-color: transparent;
+  height: calc(100.00% - 13px);
+  left: -162px;
+  object-fit: cover;
+  position: absolute;
+  top: 413px;
+  width: calc(100.00% - 922px);
+}
+
+.airplate-about-us .ellipse-8-xAhTkR {
+  background-color: var(--periwinkle-gray);
+  border-radius: 239.47px/248.43px;
+  filter: blur(50px);;
+  height: 497px;
+  left: 0px;
+  opacity: 0.3;
+  position: absolute;
+  top: 75px;
+  width: 479px;
+}
+
+.airplate-about-us .rectangle-1336-xAhTkR {
+  background-color: var(--periwinkle-gray);
+  height: 143px;
+  left: -15px;
+  position: absolute;
+  top: -21px;
+  width: calc(100.00% + 15px);
+}
+
+.airplate-about-us .portfolio-xAhTkR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 68px;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: 187px;
+}
+
+.airplate-about-us .rectangle-4-xAhTkR {
+  background-color: var(--black);
+  height: 2px;
+  left: calc(31.72% - 32px);
+  position: absolute;
+  top: 93px;
+  width: 101px;
+}
+
+.airplate-about-us .portfolio-AxO9ox {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(16.69% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 146px;
+}
+
+.airplate-about-us .about-me-xAhTkR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(25.48% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 107px;
+}
+
+.airplate-about-us .my-blog-xAhTkR {
+  background-color: transparent;
+  height: 24px;
+  left: calc(31.96% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 80px;
+}
+
+.airplate-about-us .reviews-xAhTkR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: calc(37.19% - 26px);
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 70px;
+}
+
+.airplate-about-us .group-10199-xAhTkR {
+  background-color: transparent;
+  bottom: 81px;
+  height: 803px;
+  left: 113px;
+  position: absolute;
+  width: 632px;
+}
+
+.airplate-about-us .group-10017-sqUNEL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-about-us .rectangle-1330-QMbiFn {
+  background-color: var(--white);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-about-us .about-us-QMbiFn {
+  background-color: transparent;
+  height: 34px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.airplate-about-us .airplate-is-an-organ-QMbiFn {
+  background-color: transparent;
+  color: var(--log-cabin);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 609px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 72px;
+  width: calc(100.00% - 58px);
+}
+
+.airplate-about-us .span0-lCt4qT {
+}
+
+.airplate-about-us .span1-lCt4qT {
+}
+
+.airplate-about-us .waste-less-save-more-for-our-future-QMbiFn {
+  background-color: transparent;
+  bottom: 60px;
+  color: var(--ship-gray);
+  font-family: var(--font-family-helveticaneue-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 31px;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 166px);
+}
+
+.airplate-about-us .group-10019-xAhTkR {
+  background-color: transparent;
+  height: 22px;
+  position: absolute;
+  right: 99px;
+  top: 71px;
+  width: 204px;
+}
+
+.airplate-about-us .reviews-r7CaOM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: calc(37.48% - 26px);
+  text-align: left;
+  top: 0px;
+  width: 70px;
+}
+
+.airplate-about-us .social-r7CaOM {
+  background-color: transparent;
+  bottom: calc(50.00% - 7px);
+  height: 14px;
+  position: absolute;
+  right: 0px;
+  width: 37px;
+}
+
+.airplate-about-us .x043-twitter-NCsiuF {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 14px;
+}
+
+.airplate-about-us .vector-sX6pCR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.airplate-about-us .x045-linkedin-NCsiuF {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 14px;
+}
+
+.airplate-about-us .vector-e7xclB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.airplate-about-us .group-10018-r7CaOM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+
+.airplate-about-us .reviews-yfzJgM {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.airplate-about-us .ic_person_outline_24px-yfzJgM {
+  background-color: transparent;
+  height: 16px;
+  object-fit: cover;
+  position: absolute;
+  right: 2px;
+  top: 2px;
+  width: 16px;
+}
+
+.airplate-about-us .ellipse-8-AxO9ox {
+  background-color: var(--periwinkle-gray);
+  border-radius: 239.47px/248.43px;
+  filter: blur(50px);;
+  height: 497px;
+  left: 547px;
+  opacity: 0.3;
+  position: absolute;
+  top: 237px;
+  width: 479px;
+}

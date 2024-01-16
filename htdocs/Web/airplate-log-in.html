@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, maximum-scale=1.0" />
+     <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/airplate-log-in.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <script>
+      function checkUser(){
+        var user = document.getElementById("mailAdd").value;
+        var pw=document.getElementById("password").value;
+        if (user=="adamjones@gmail.com" && pw=="abcd123"){
+          window.open("./logged-in-homescreen.html","_self");
+        }
+        else{
+          alert("Please check your email address and password and try again.");
+        }
+        
+      }
+    </script>
+    <input type="hidden" id="anPageName" name="page" value="airplate-log-in" />
+    <div class="airplate-log-in screen">
+      <img class="decore-Q9jCv4" src="img/decore-15@1x.png" />
+      <img class="decore-i7FDkp" src="img/decore-16@1x.png" />
+      <a href="airplate-home.html"><div class="portfolio-Q9jCv4 circularstd-medium-black-40px">airplate</div> </a>
+      <div class="group-16-Q9jCv4">
+        <div class="rectangle-10-M2a2IU"></div>
+        <div class="group-15-M2a2IU">
+          <a href="logged-in-homescreen.html"> <div class="rectangle-5-NvzJNg" hidden></div></a>
+          <div class="forgot-password-NvzJNg">Forgot Password?</div>
+          <div class="sign-in-NvzJNg roboto-black-log-cabin-24px">Sign In</div>
+          <div class="sign-in-YfYMDW roboto-bold-white-18px">
+            <button type="button" class="btn btn-primary btn-lg" style="background-color: var(--absolute-zero);" onclick="checkUser()">Sign In</button>
+          </div>
+          <div class="email-address-NvzJNg roboto-bold-log-cabin-18px">Email Address</div>
+          <div class="form-group mx-sm-3 mb-2 group-1-NvzJNg">
+            <input type="text" class="form-control" id="mailAdd" placeholder="adam123@gmail.com">
+          </div>
+          <div class="group-4-NvzJNg">
+            <div class="group-3-yXx2F5">
+              <div class="rectangle-6-1zXmbU"></div>
+              <div class="sign-in-with-google-1zXmbU roboto-bold-log-cabin-18px">Sign in with Google</div>
+            </div>
+            <img class="google__g__-logo-yXx2F5" src="img/google--g--logo-1@1x.png" />
+          </div>
+          <div class="or-NvzJNg">or</div>
+          <img class="line-1-NvzJNg" src="img/line-1-6@1x.png" />
+          <img class="line-2-NvzJNg" src="img/line-1-6@1x.png" />
+          
+          <div class="password-NvzJNg roboto-bold-log-cabin-18px">Password</div>
+          <div class="form-group mx-sm-3 mb-2 pwbox">
+              <input type="password" class="form-control" id="password" placeholder="Password">
+          </div>            
+          
+
+          <a href="airplate-sign-up.html"
+            ><div class="not-a-member-yet-sign-up-now-NvzJNg">
+              <span class="span0-9irtx2">Not a member yet? </span><span class="span1-9irtx2">Sign up now!</span>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="portfolio-i7FDkp circularstd-medium-black-17px">Manage Bookings</div>
+      <div class="about-me-Q9jCv4 circularstd-medium-black-17px">Digital Menu</div>
+      <a href="airplate-about-us.html"><div class="my-blog-Q9jCv4 circularstd-medium-black-17px">About Us</div> </a
+      ><a href="airplate-reviews.html"><div class="reviews-Q9jCv4 circularstd-medium-black-17px">Reviews</div> </a>
+      <div class="group-10019-Q9jCv4">
+        
+        <div class="social-SSaCJE">
+          <div class="x043-twitter-FbLGSj"><img class="vector-5YyNsG" src="img/vector-10@1x.png" /></div>
+          <div class="x045-linkedin-FbLGSj"><img class="vector-uvSVUt" src="img/vector-11@1x.png" /></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
